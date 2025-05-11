@@ -1,0 +1,2551 @@
+state1_name,state2_name,state1_fips,state2_fips,distance_km,state_comb,migration_n,mig_1yago,mig_current
+California,Wisconsin,6,55,2595.702148,655,NA,California,Wisconsin
+California,Idaho,6,16,896.0022583,616,15,California,Idaho
+California,Minnesota,6,27,2307.510254,627,2,California,Minnesota
+California,Iowa,6,19,2280.833496,619,2,California,Iowa
+California,Missouri,6,29,2369.666504,629,NA,California,Missouri
+California,Maryland,6,24,3709.991211,624,15,California,Maryland
+California,Oregon,6,41,756.7599487,641,24,California,Oregon
+California,Michigan,6,26,2956.13501,626,3,California,Michigan
+California,Montana,6,30,1363.06543,630,7,California,Montana
+California,Utah,6,49,720.9783325,649,15,California,Utah
+California,Virginia,6,51,3567.030518,651,4,California,Virginia
+California,Illinois,6,17,2637.086182,617,8,California,Illinois
+California,Texas,6,48,1954.665283,648,27,California,Texas
+California,Louisiana,6,22,2616.682129,622,NA,California,Louisiana
+California,Florida,6,12,3562.082764,612,2,California,Florida
+California,Kentucky,6,21,3003.77417,621,NA,California,Kentucky
+California,Tennessee,6,47,2948.726074,647,1,California,Tennessee
+California,New York,6,36,3753.026367,636,6,California,New York
+California,Georgia,6,13,3304.876221,613,13,California,Georgia
+California,Hawaii,6,15,4022.672363,615,7,California,Hawaii
+California,Delaware,6,10,3816.062256,610,NA,California,Delaware
+California,Washington,6,53,1138.643677,653,24,California,Washington
+California,Oklahoma,6,40,1970.981689,640,11,California,Oklahoma
+California,West Virginia,6,54,3386.704102,654,NA,California,West Virginia
+California,Alaska,6,2,3682.293701,602,6,California,Alaska
+California,Pennsylvania,6,42,3589.085693,642,1,California,Pennsylvania
+California,Colorado,6,8,1234.065552,608,5,California,Colorado
+California,North Carolina,6,37,3585.036621,637,8,California,North Carolina
+California,Indiana,6,18,2886.027832,618,NA,California,Indiana
+California,Kansas,6,20,1854.232788,620,2,California,Kansas
+California,District of Columbia,6,11,3689.251953,611,10,California,District of Columbia
+California,Rhode Island,6,44,4094.937256,644,2,California,Rhode Island
+California,Wyoming,6,56,1201.049805,656,20,California,Wyoming
+California,Mississippi,6,28,2749.341064,628,NA,California,Mississippi
+California,Massachusetts,6,25,4066.83667,625,4,California,Massachusetts
+California,Connecticut,6,9,3997.522705,609,NA,California,Connecticut
+California,Vermont,6,50,3969.016357,650,NA,California,Vermont
+California,Maine,6,23,4225.930176,623,1,California,Maine
+California,New Hampshire,6,33,4060.119141,633,NA,California,New Hampshire
+California,New Mexico,6,35,1242.619385,635,7,California,New Mexico
+California,Ohio,6,39,3177.243164,639,NA,California,Ohio
+California,Alabama,6,1,2999.026855,601,NA,California,Alabama
+California,Nebraska,6,31,1755.463867,631,4,California,Nebraska
+California,South Dakota,6,46,1803.875122,646,6,California,South Dakota
+California,Nevada,6,32,344.4761353,632,46,California,Nevada
+California,New Jersey,6,34,3862.729004,634,NA,California,New Jersey
+California,North Dakota,6,38,1927.100708,638,NA,California,North Dakota
+California,South Carolina,6,45,3485.848145,645,3,California,South Carolina
+California,Arizona,6,4,775.3471069,604,25,California,Arizona
+California,Arkansas,6,5,2435.526611,605,1,California,Arkansas
+Wisconsin,California,55,6,2595.702148,5506,NA,Wisconsin,California
+Wisconsin,Idaho,55,16,1945.80603,5516,NA,Wisconsin,Idaho
+Wisconsin,Minnesota,55,27,383.3260193,5527,7,Wisconsin,Minnesota
+Wisconsin,Iowa,55,19,400.7449646,5519,4,Wisconsin,Iowa
+Wisconsin,Missouri,55,29,726.5799561,5529,NA,Wisconsin,Missouri
+Wisconsin,Maryland,55,24,1259.713379,5524,6,Wisconsin,Maryland
+Wisconsin,Oregon,55,41,2420.610596,5541,NA,Wisconsin,Oregon
+Wisconsin,Michigan,55,26,367.0795593,5526,4,Wisconsin,Michigan
+Wisconsin,Montana,55,30,1540.879272,5530,NA,Wisconsin,Montana
+Wisconsin,Utah,55,49,1880.75769,5549,NA,Wisconsin,Utah
+Wisconsin,Virginia,55,51,1224.826416,5551,NA,Wisconsin,Virginia
+Wisconsin,Illinois,55,17,514.0551147,5517,4,Wisconsin,Illinois
+Wisconsin,Texas,55,48,1674.889648,5548,NA,Wisconsin,Texas
+Wisconsin,Louisiana,55,22,1523.123413,5522,NA,Wisconsin,Louisiana
+Wisconsin,Florida,55,12,1904.69397,5512,9,Wisconsin,Florida
+Wisconsin,Kentucky,55,21,880.7679443,5521,NA,Wisconsin,Kentucky
+Wisconsin,Tennessee,55,47,1022.489685,5547,2,Wisconsin,Tennessee
+Wisconsin,New York,55,36,1176.743042,5536,NA,Wisconsin,New York
+Wisconsin,Georgia,55,13,1448.501831,5513,NA,Wisconsin,Georgia
+Wisconsin,Hawaii,55,15,6590.166016,5515,1,Wisconsin,Hawaii
+Wisconsin,Delaware,55,10,1351.544434,5510,NA,Wisconsin,Delaware
+Wisconsin,Washington,55,53,2360.561523,5553,NA,Wisconsin,Washington
+Wisconsin,Oklahoma,55,40,1189.081543,5540,NA,Wisconsin,Oklahoma
+Wisconsin,West Virginia,55,54,1023.038757,5554,NA,Wisconsin,West Virginia
+Wisconsin,Alaska,55,2,4346.884766,5502,NA,Wisconsin,Alaska
+Wisconsin,Pennsylvania,55,42,1077.815063,5542,2,Wisconsin,Pennsylvania
+Wisconsin,Colorado,55,8,1429.958252,5508,NA,Wisconsin,Colorado
+Wisconsin,North Carolina,55,37,1362.762329,5537,NA,Wisconsin,North Carolina
+Wisconsin,Indiana,55,18,608.2179565,5518,NA,Wisconsin,Indiana
+Wisconsin,Kansas,55,20,974.5526123,5520,2,Wisconsin,Kansas
+Wisconsin,District of Columbia,55,11,1247.954468,5511,NA,Wisconsin,District of Columbia
+Wisconsin,Rhode Island,55,44,1529.959229,5544,NA,Wisconsin,Rhode Island
+Wisconsin,Wyoming,55,56,1417.795288,5556,3,Wisconsin,Wyoming
+Wisconsin,Mississippi,55,28,1322.412476,5528,NA,Wisconsin,Mississippi
+Wisconsin,Massachusetts,55,25,1493.041748,5525,NA,Wisconsin,Massachusetts
+Wisconsin,Connecticut,55,9,1437.50354,5509,NA,Wisconsin,Connecticut
+Wisconsin,Vermont,55,50,1376.5177,5550,NA,Wisconsin,Vermont
+Wisconsin,Maine,55,23,1630.745117,5523,NA,Wisconsin,Maine
+Wisconsin,New Hampshire,55,33,1469.570801,5533,1,Wisconsin,New Hampshire
+Wisconsin,New Mexico,55,35,1784.040283,5535,NA,Wisconsin,New Mexico
+Wisconsin,Ohio,55,39,761.5950317,5539,6,Wisconsin,Ohio
+Wisconsin,Alabama,55,1,1345.61499,5501,NA,Wisconsin,Alabama
+Wisconsin,Nebraska,55,31,866.2693481,5531,NA,Wisconsin,Nebraska
+Wisconsin,South Dakota,55,46,810.9936523,5546,NA,Wisconsin,South Dakota
+Wisconsin,Nevada,55,32,2268.242188,5532,NA,Wisconsin,Nevada
+Wisconsin,New Jersey,55,34,1349.594971,5534,NA,Wisconsin,New Jersey
+Wisconsin,North Dakota,55,38,866.4492798,5538,NA,Wisconsin,North Dakota
+Wisconsin,South Carolina,55,45,1424.409668,5545,NA,Wisconsin,South Carolina
+Wisconsin,Arizona,55,4,2177.372559,5504,NA,Wisconsin,Arizona
+Wisconsin,Arkansas,55,5,1102.058105,5505,NA,Wisconsin,Arkansas
+Idaho,California,16,6,896.0022583,1606,NA,Idaho,California
+Idaho,Wisconsin,16,55,1945.80603,1655,NA,Idaho,Wisconsin
+Idaho,Minnesota,16,27,1597.955933,1627,NA,Idaho,Minnesota
+Idaho,Iowa,16,19,1725.024048,1619,NA,Idaho,Iowa
+Idaho,Missouri,16,29,1958.147095,1629,NA,Idaho,Missouri
+Idaho,Maryland,16,24,3170.510498,1624,NA,Idaho,Maryland
+Idaho,Oregon,16,41,476.9762878,1641,NA,Idaho,Oregon
+Idaho,Michigan,16,26,2311.933594,1626,NA,Idaho,Michigan
+Idaho,Montana,16,30,489.5840149,1630,2,Idaho,Montana
+Idaho,Utah,16,49,611.6488647,1649,1,Idaho,Utah
+Idaho,Virginia,16,51,3076.490967,1651,NA,Idaho,Virginia
+Idaho,Illinois,16,17,2138.653809,1617,NA,Idaho,Illinois
+Idaho,Texas,16,48,1959.4823,1648,NA,Idaho,Texas
+Idaho,Louisiana,16,22,2472.525879,1622,NA,Idaho,Louisiana
+Idaho,Florida,16,12,3335.976807,1612,NA,Idaho,Florida
+Idaho,Kentucky,16,21,2560.322998,1621,NA,Idaho,Kentucky
+Idaho,Tennessee,16,47,2566.727051,1647,NA,Idaho,Tennessee
+Idaho,New York,16,36,3120.987305,1636,NA,Idaho,New York
+Idaho,Georgia,16,13,2985.604492,1613,NA,Idaho,Georgia
+Idaho,Hawaii,16,15,4674.790039,1615,NA,Idaho,Hawaii
+Idaho,Delaware,16,10,3270.498535,1610,NA,Idaho,Delaware
+Idaho,Washington,16,53,567.1134644,1653,1,Idaho,Washington
+Idaho,Oklahoma,16,40,1748.657837,1640,NA,Idaho,Oklahoma
+Idaho,West Virginia,16,54,2879.217529,1654,NA,Idaho,West Virginia
+Idaho,Alaska,16,2,3195.032227,1602,NA,Idaho,Alaska
+Idaho,Pennsylvania,16,42,3011.398682,1642,NA,Idaho,Pennsylvania
+Idaho,Colorado,16,8,958.8483887,1608,NA,Idaho,Colorado
+Idaho,North Carolina,16,37,3146.59375,1637,NA,Idaho,North Carolina
+Idaho,Indiana,16,18,2376.004883,1618,NA,Idaho,Indiana
+Idaho,Kansas,16,20,1498.630127,1620,NA,Idaho,Kansas
+Idaho,District of Columbia,16,11,3154.199463,1611,NA,Idaho,District of Columbia
+Idaho,Rhode Island,16,44,3475.306152,1644,NA,Idaho,Rhode Island
+Idaho,Wyoming,16,56,587.3396606,1656,NA,Idaho,Wyoming
+Idaho,Mississippi,16,28,2509.903076,1628,NA,Idaho,Mississippi
+Idaho,Massachusetts,16,25,3436.764893,1625,NA,Idaho,Massachusetts
+Idaho,Connecticut,16,9,3383.287109,1609,NA,Idaho,Connecticut
+Idaho,Vermont,16,50,3306.196289,1650,NA,Idaho,Vermont
+Idaho,Maine,16,23,3532.149902,1623,NA,Idaho,Maine
+Idaho,New Hampshire,16,33,3401.820313,1633,NA,Idaho,New Hampshire
+Idaho,New Mexico,16,35,1323.623047,1635,5,Idaho,New Mexico
+Idaho,Ohio,16,39,2637.350098,1639,NA,Idaho,Ohio
+Idaho,Alabama,16,1,2718.213867,1601,NA,Idaho,Alabama
+Idaho,Nebraska,16,31,1244.085449,1631,NA,Idaho,Nebraska
+Idaho,South Dakota,16,46,1141.442749,1646,NA,Idaho,South Dakota
+Idaho,Nevada,16,32,582.9318237,1632,NA,Idaho,Nevada
+Idaho,New Jersey,16,34,3286.822266,1634,3,Idaho,New Jersey
+Idaho,North Dakota,16,38,1145.712158,1638,6,Idaho,North Dakota
+Idaho,South Carolina,16,45,3105.052979,1645,NA,Idaho,South Carolina
+Idaho,Arizona,16,4,1148.726318,1604,NA,Idaho,Arizona
+Idaho,Arkansas,16,5,2160.608643,1605,NA,Idaho,Arkansas
+Minnesota,California,27,6,2307.510254,2706,NA,Minnesota,California
+Minnesota,Wisconsin,27,55,383.3260193,2755,2,Minnesota,Wisconsin
+Minnesota,Idaho,27,16,1597.955933,2716,NA,Minnesota,Idaho
+Minnesota,Iowa,27,19,472.1942139,2719,5,Minnesota,Iowa
+Minnesota,Missouri,27,29,894.0976563,2729,NA,Minnesota,Missouri
+Minnesota,Maryland,27,24,1641.805786,2724,NA,Minnesota,Maryland
+Minnesota,Oregon,27,41,2067.650391,2741,NA,Minnesota,Oregon
+Minnesota,Michigan,27,26,729.7969971,2726,1,Minnesota,Michigan
+Minnesota,Montana,27,30,1170.883057,2730,NA,Minnesota,Montana
+Minnesota,Utah,27,49,1610.577271,2749,NA,Minnesota,Utah
+Minnesota,Virginia,27,51,1606.509521,2751,NA,Minnesota,Virginia
+Minnesota,Illinois,27,17,807.8642578,2717,NA,Minnesota,Illinois
+Minnesota,Texas,27,48,1705.107178,2748,1,Minnesota,Texas
+Minnesota,Louisiana,27,22,1710.097656,2722,3,Minnesota,Louisiana
+Minnesota,Florida,27,12,2223.385986,2712,NA,Minnesota,Florida
+Minnesota,Kentucky,27,21,1223.527222,2721,NA,Minnesota,Kentucky
+Minnesota,Tennessee,27,47,1335.610107,2747,1,Minnesota,Tennessee
+Minnesota,New York,27,36,1530.133179,2736,NA,Minnesota,New York
+Minnesota,Georgia,27,13,1777.479736,2713,NA,Minnesota,Georgia
+Minnesota,Hawaii,27,15,6265.077148,2715,8,Minnesota,Hawaii
+Minnesota,Delaware,27,10,1732.161377,2710,NA,Minnesota,Delaware
+Minnesota,Washington,27,53,1986.928101,2753,NA,Minnesota,Washington
+Minnesota,Oklahoma,27,40,1218.589844,2740,NA,Minnesota,Oklahoma
+Minnesota,West Virginia,27,54,1404.232666,2754,NA,Minnesota,West Virginia
+Minnesota,Alaska,27,2,3992.216064,2702,NA,Minnesota,Alaska
+Minnesota,Pennsylvania,27,42,1455.179077,2742,NA,Minnesota,Pennsylvania
+Minnesota,Colorado,27,8,1223.514038,2708,6,Minnesota,Colorado
+Minnesota,North Carolina,27,37,1737.395874,2737,NA,Minnesota,North Carolina
+Minnesota,Indiana,27,18,962.8427124,2718,NA,Minnesota,Indiana
+Minnesota,Kansas,27,20,928.0962524,2720,NA,Minnesota,Kansas
+Minnesota,District of Columbia,27,11,1630.526855,2711,NA,Minnesota,District of Columbia
+Minnesota,Rhode Island,27,44,1885.859253,2744,NA,Minnesota,Rhode Island
+Minnesota,Wyoming,27,56,1108.474365,2756,1,Minnesota,Wyoming
+Minnesota,Mississippi,27,28,1557.236938,2728,NA,Minnesota,Mississippi
+Minnesota,Massachusetts,27,25,1844.143799,2725,NA,Minnesota,Massachusetts
+Minnesota,Connecticut,27,9,1796.836426,2709,NA,Minnesota,Connecticut
+Minnesota,Vermont,27,50,1708.322632,2750,2,Minnesota,Vermont
+Minnesota,Maine,27,23,1938.539307,2723,NA,Minnesota,Maine
+Minnesota,New Hampshire,27,33,1804.106445,2733,NA,Minnesota,New Hampshire
+Minnesota,New Mexico,27,35,1653.020874,2735,NA,Minnesota,New Mexico
+Minnesota,Ohio,27,39,1143.267944,2739,NA,Minnesota,Ohio
+Minnesota,Alabama,27,1,1631.020264,2701,NA,Minnesota,Alabama
+Minnesota,Nebraska,27,31,686.5579834,2731,NA,Minnesota,Nebraska
+Minnesota,South Dakota,27,46,505.7983704,2746,3,Minnesota,South Dakota
+Minnesota,Nevada,27,32,1970.2229,2732,NA,Minnesota,Nevada
+Minnesota,New Jersey,27,34,1723.859009,2734,NA,Minnesota,New Jersey
+Minnesota,North Dakota,27,38,486.0323181,2738,19,Minnesota,North Dakota
+Minnesota,South Carolina,27,45,1782.504883,2745,NA,Minnesota,South Carolina
+Minnesota,Arizona,27,4,1979.62085,2704,NA,Minnesota,Arizona
+Minnesota,Arkansas,27,5,1275.936157,2705,3,Minnesota,Arkansas
+Iowa,California,19,6,2280.833496,1906,5,Iowa,California
+Iowa,Wisconsin,19,55,400.7449646,1955,8,Iowa,Wisconsin
+Iowa,Idaho,19,16,1725.024048,1916,4,Iowa,Idaho
+Iowa,Minnesota,19,27,472.1942139,1927,NA,Iowa,Minnesota
+Iowa,Missouri,19,29,422.6842651,1929,1,Iowa,Missouri
+Iowa,Maryland,19,24,1452.747437,1924,NA,Iowa,Maryland
+Iowa,Oregon,19,41,2200.819824,1941,NA,Iowa,Oregon
+Iowa,Michigan,19,26,703.8061523,1926,NA,Iowa,Michigan
+Iowa,Montana,19,30,1389.670288,1930,NA,Iowa,Montana
+Iowa,Utah,19,49,1559.877197,1949,NA,Iowa,Utah
+Iowa,Virginia,19,51,1351.748047,1951,NA,Iowa,Virginia
+Iowa,Illinois,19,17,425.5186768,1917,NA,Iowa,Illinois
+Iowa,Texas,19,48,1289.821289,1948,2,Iowa,Texas
+Iowa,Louisiana,19,22,1237.922852,1922,NA,Iowa,Louisiana
+Iowa,Florida,19,12,1800.641113,1912,NA,Iowa,Florida
+Iowa,Kentucky,19,21,862.4699707,1921,NA,Iowa,Kentucky
+Iowa,Tennessee,19,47,926.491394,1947,NA,Iowa,Tennessee
+Iowa,New York,19,36,1475.211914,1936,NA,Iowa,New York
+Iowa,Georgia,19,13,1373.579834,1913,NA,Iowa,Georgia
+Iowa,Hawaii,19,15,6298.915039,1915,3,Iowa,Hawaii
+Iowa,Delaware,19,10,1555.546753,1910,NA,Iowa,Delaware
+Iowa,Washington,19,53,2200.966309,1953,NA,Iowa,Washington
+Iowa,Oklahoma,19,40,799.8716431,1940,NA,Iowa,Oklahoma
+Iowa,West Virginia,19,54,1154.227417,1954,NA,Iowa,West Virginia
+Iowa,Alaska,19,2,4400.644531,1902,2,Iowa,Alaska
+Iowa,Pennsylvania,19,42,1312.477661,1942,NA,Iowa,Pennsylvania
+Iowa,Colorado,19,8,1073.399414,1908,NA,Iowa,Colorado
+Iowa,North Carolina,19,37,1433.919434,1937,NA,Iowa,North Carolina
+Iowa,Indiana,19,18,652.0549316,1918,NA,Iowa,Indiana
+Iowa,Kansas,19,20,574.3696899,1920,NA,Iowa,Kansas
+Iowa,District of Columbia,19,11,1434.907837,1911,NA,Iowa,District of Columbia
+Iowa,Rhode Island,19,44,1814.207764,1944,NA,Iowa,Rhode Island
+Iowa,Wyoming,19,56,1154.877808,1956,NA,Iowa,Wyoming
+Iowa,Mississippi,19,28,1091.906128,1928,NA,Iowa,Mississippi
+Iowa,Massachusetts,19,25,1787.217041,1925,NA,Iowa,Massachusetts
+Iowa,Connecticut,19,9,1716.692993,1909,NA,Iowa,Connecticut
+Iowa,Vermont,19,50,1701.713013,1950,NA,Iowa,Vermont
+Iowa,Maine,19,23,1976.340942,1923,2,Iowa,Maine
+Iowa,New Hampshire,19,33,1789.391724,1933,NA,Iowa,New Hampshire
+Iowa,New Mexico,19,35,1390.778931,1935,NA,Iowa,New Mexico
+Iowa,Ohio,19,39,916.4259033,1939,NA,Iowa,Ohio
+Iowa,Alabama,19,1,1188.86438,1901,NA,Iowa,Alabama
+Iowa,Nebraska,19,31,525.4227905,1931,10,Iowa,Nebraska
+Iowa,South Dakota,19,46,605.2003784,1946,5,Iowa,South Dakota
+Iowa,Nevada,19,32,1967.908081,1932,NA,Iowa,Nevada
+Iowa,New Jersey,19,34,1588.021606,1934,NA,Iowa,New Jersey
+Iowa,North Dakota,19,38,811.7848511,1938,3,Iowa,North Dakota
+Iowa,South Carolina,19,45,1427.492798,1945,NA,Iowa,South Carolina
+Iowa,Arizona,19,4,1804.052246,1904,NA,Iowa,Arizona
+Iowa,Arkansas,19,5,803.7629395,1905,NA,Iowa,Arkansas
+Missouri,California,29,6,2369.666504,2906,2,Missouri,California
+Missouri,Wisconsin,29,55,726.5799561,2955,NA,Missouri,Wisconsin
+Missouri,Idaho,29,16,1958.147095,2916,NA,Missouri,Idaho
+Missouri,Minnesota,29,27,894.0976563,2927,2,Missouri,Minnesota
+Missouri,Iowa,29,19,422.6842651,2919,1,Missouri,Iowa
+Missouri,Maryland,29,24,1364.310303,2924,NA,Missouri,Maryland
+Missouri,Oregon,29,41,2420.659424,2941,NA,Missouri,Oregon
+Missouri,Michigan,29,26,889.0911255,2926,NA,Missouri,Michigan
+Missouri,Montana,29,30,1698.137329,2930,NA,Missouri,Montana
+Missouri,Utah,29,49,1664.30603,2949,NA,Missouri,Utah
+Missouri,Virginia,29,51,1200.536987,2951,NA,Missouri,Virginia
+Missouri,Illinois,29,17,337.7064514,2917,9,Missouri,Illinois
+Missouri,Texas,29,48,989.7456055,2948,NA,Missouri,Texas
+Missouri,Louisiana,29,22,818.069519,2922,4,Missouri,Louisiana
+Missouri,Florida,29,12,1427.452026,2912,NA,Missouri,Florida
+Missouri,Kentucky,29,21,634.1582031,2921,9,Missouri,Kentucky
+Missouri,Tennessee,29,47,608.78302,2947,3,Missouri,Tennessee
+Missouri,New York,29,36,1515.167236,2936,NA,Missouri,New York
+Missouri,Georgia,29,13,1034.569336,2913,NA,Missouri,Georgia
+Missouri,Hawaii,29,15,6383.295898,2915,NA,Missouri,Hawaii
+Missouri,Delaware,29,10,1471.72168,2910,NA,Missouri,Delaware
+Missouri,Washington,29,53,2478.384521,2953,NA,Missouri,Washington
+Missouri,Oklahoma,29,40,542.873291,2940,6,Missouri,Oklahoma
+Missouri,West Virginia,29,54,1029.848755,2954,NA,Missouri,West Virginia
+Missouri,Alaska,29,2,4789.381348,2902,5,Missouri,Alaska
+Missouri,Pennsylvania,29,42,1284.888306,2942,1,Missouri,Pennsylvania
+Missouri,Colorado,29,8,1137.469849,2908,NA,Missouri,Colorado
+Missouri,North Carolina,29,37,1219.12146,2937,3,Missouri,North Carolina
+Missouri,Indiana,29,18,559.4719238,2918,NA,Missouri,Indiana
+Missouri,Kansas,29,20,515.7365112,2920,13,Missouri,Kansas
+Missouri,District of Columbia,29,11,1341.125122,2911,NA,Missouri,District of Columbia
+Missouri,Rhode Island,29,44,1814.987549,2944,NA,Missouri,Rhode Island
+Missouri,Wyoming,29,56,1370.812744,2956,1,Missouri,Wyoming
+Missouri,Mississippi,29,28,674.1565552,2928,NA,Missouri,Mississippi
+Missouri,Massachusetts,29,25,1803.105347,2925,NA,Missouri,Massachusetts
+Missouri,Connecticut,29,9,1715.572144,2909,NA,Missouri,Connecticut
+Missouri,Vermont,29,50,1767.787598,2950,NA,Missouri,Vermont
+Missouri,Maine,29,23,2065.613525,2923,NA,Missouri,Maine
+Missouri,New Hampshire,29,33,1842.997681,2933,NA,Missouri,New Hampshire
+Missouri,New Mexico,29,35,1297.281006,2935,4,Missouri,New Mexico
+Missouri,Ohio,29,39,858.0437622,2939,NA,Missouri,Ohio
+Missouri,Alabama,29,1,802.3492432,2901,1,Missouri,Alabama
+Missouri,Nebraska,29,31,718.0603638,2931,1,Missouri,Nebraska
+Missouri,South Dakota,29,46,936.1380615,2946,NA,Missouri,South Dakota
+Missouri,Nevada,29,32,2090.063477,2932,NA,Missouri,Nevada
+Missouri,New Jersey,29,34,1542.641357,2934,NA,Missouri,New Jersey
+Missouri,North Dakota,29,38,1201.696899,2938,4,Missouri,North Dakota
+Missouri,South Carolina,29,45,1149.713501,2945,NA,Missouri,South Carolina
+Missouri,Arizona,29,4,1775.634277,2904,NA,Missouri,Arizona
+Missouri,Arkansas,29,5,385.1062012,2905,2,Missouri,Arkansas
+Maryland,California,24,6,3709.991211,2406,1,Maryland,California
+Maryland,Wisconsin,24,55,1259.713379,2455,2,Maryland,Wisconsin
+Maryland,Idaho,24,16,3170.510498,2416,NA,Maryland,Idaho
+Maryland,Minnesota,24,27,1641.805786,2427,NA,Maryland,Minnesota
+Maryland,Iowa,24,19,1452.747437,2419,NA,Maryland,Iowa
+Maryland,Missouri,24,29,1364.310303,2429,NA,Maryland,Missouri
+Maryland,Oregon,24,41,3647.43457,2441,NA,Maryland,Oregon
+Maryland,Michigan,24,26,928.3929443,2426,NA,Maryland,Michigan
+Maryland,Montana,24,30,2793.807373,2430,NA,Maryland,Montana
+Maryland,Utah,24,49,2992.272461,2449,NA,Maryland,Utah
+Maryland,Virginia,24,51,245.7098389,2451,21,Maryland,Virginia
+Maryland,Illinois,24,17,1072.987793,2417,NA,Maryland,Illinois
+Maryland,Texas,24,48,2208.278564,2448,7,Maryland,Texas
+Maryland,Louisiana,24,22,1642.016479,2422,NA,Maryland,Louisiana
+Maryland,Florida,24,12,1275.215454,2412,6,Maryland,Florida
+Maryland,Kentucky,24,21,764.9069824,2421,7,Maryland,Kentucky
+Maryland,Tennessee,24,47,917.7374878,2447,2,Maryland,Tennessee
+Maryland,New York,24,36,446.571106,2436,2,Maryland,New York
+Maryland,Georgia,24,13,931.5610962,2413,NA,Maryland,Georgia
+Maryland,Hawaii,24,15,7732.361328,2415,NA,Maryland,Hawaii
+Maryland,Delaware,24,10,107.4141235,2410,9,Maryland,Delaware
+Maryland,Washington,24,53,3614.636475,2453,NA,Maryland,Washington
+Maryland,Oklahoma,24,40,1870.371582,2440,NA,Maryland,Oklahoma
+Maryland,West Virginia,24,54,338.6922913,2454,5,Maryland,West Virginia
+Maryland,Alaska,24,2,5496.600098,2402,NA,Maryland,Alaska
+Maryland,Pennsylvania,24,42,224.5596466,2442,2,Maryland,Pennsylvania
+Maryland,Colorado,24,8,2478.197266,2408,5,Maryland,Colorado
+Maryland,North Carolina,24,37,442.568634,2437,NA,Maryland,North Carolina
+Maryland,Indiana,24,18,824.0776978,2418,NA,Maryland,Indiana
+Maryland,Kansas,24,20,1872.38147,2420,NA,Maryland,Kansas
+Maryland,District of Columbia,24,11,27.43633461,2411,13,Maryland,District of Columbia
+Maryland,Rhode Island,24,44,529.7105103,2444,NA,Maryland,Rhode Island
+Maryland,Wyoming,24,56,2607.259033,2456,4,Maryland,Wyoming
+Maryland,Mississippi,24,28,1356.271362,2428,NA,Maryland,Mississippi
+Maryland,Massachusetts,24,25,551.5882568,2425,NA,Maryland,Massachusetts
+Maryland,Connecticut,24,9,445.7747803,2409,NA,Maryland,Connecticut
+Maryland,Vermont,24,50,654.9315796,2450,NA,Maryland,Vermont
+Maryland,Maine,24,23,934.4204102,2423,NA,Maryland,Maine
+Maryland,New Hampshire,24,33,672.8639526,2433,NA,Maryland,New Hampshire
+Maryland,New Mexico,24,35,2655.708252,2435,1,Maryland,New Mexico
+Maryland,Ohio,24,39,536.7198486,2439,1,Maryland,Ohio
+Maryland,Alabama,24,1,1142.828857,2401,4,Maryland,Alabama
+Maryland,Nebraska,24,31,1969.208374,2431,4,Maryland,Nebraska
+Maryland,South Dakota,24,46,2031.386108,2446,NA,Maryland,South Dakota
+Maryland,Nevada,24,32,3409.937744,2432,NA,Maryland,Nevada
+Maryland,New Jersey,24,34,219.3953857,2434,NA,Maryland,New Jersey
+Maryland,North Dakota,24,38,2126.162354,2438,NA,Maryland,North Dakota
+Maryland,South Carolina,24,45,679.4476929,2445,1,Maryland,South Carolina
+Maryland,Arizona,24,4,3139.852051,2404,NA,Maryland,Arizona
+Maryland,Arkansas,24,5,1466.38147,2405,NA,Maryland,Arkansas
+Oregon,California,41,6,756.7599487,4106,22,Oregon,California
+Oregon,Wisconsin,41,55,2420.610596,4155,NA,Oregon,Wisconsin
+Oregon,Idaho,41,16,476.9762878,4116,5,Oregon,Idaho
+Oregon,Minnesota,41,27,2067.650391,4127,2,Oregon,Minnesota
+Oregon,Iowa,41,19,2200.819824,4119,NA,Oregon,Iowa
+Oregon,Missouri,41,29,2420.659424,4129,NA,Oregon,Missouri
+Oregon,Maryland,41,24,3647.43457,4124,NA,Oregon,Maryland
+Oregon,Michigan,41,26,2786.096191,4126,NA,Oregon,Michigan
+Oregon,Montana,41,30,918.9173584,4130,2,Oregon,Montana
+Oregon,Utah,41,49,899.9605103,4149,4,Oregon,Utah
+Oregon,Virginia,41,51,3551.719238,4151,NA,Oregon,Virginia
+Oregon,Illinois,41,17,2612.20459,4117,NA,Oregon,Illinois
+Oregon,Texas,41,48,2318.523193,4148,3,Oregon,Texas
+Oregon,Louisiana,41,22,2885.025391,4122,NA,Oregon,Louisiana
+Oregon,Florida,41,12,3775.315186,4112,NA,Oregon,Florida
+Oregon,Kentucky,41,21,3030.484131,4121,NA,Oregon,Kentucky
+Oregon,Tennessee,41,47,3029.286377,4147,NA,Oregon,Tennessee
+Oregon,New York,41,36,3594.354492,4136,NA,Oregon,New York
+Oregon,Georgia,41,13,3440.683594,4113,NA,Oregon,Georgia
+Oregon,Hawaii,41,15,4222.364258,4115,1,Oregon,Hawaii
+Oregon,Delaware,41,10,3747.472656,4110,NA,Oregon,Delaware
+Oregon,Washington,41,53,384.42276,4153,15,Oregon,Washington
+Oregon,Oklahoma,41,40,2169.43457,4140,NA,Oregon,Oklahoma
+Oregon,West Virginia,41,54,3355.024658,4154,NA,Oregon,West Virginia
+Oregon,Alaska,41,2,2977.700195,4102,2,Oregon,Alaska
+Oregon,Pennsylvania,41,42,3488.080566,4142,NA,Oregon,Pennsylvania
+Oregon,Colorado,41,8,1363.678101,4108,NA,Oregon,Colorado
+Oregon,North Carolina,41,37,3618.096191,4137,NA,Oregon,North Carolina
+Oregon,Indiana,41,18,2851.055664,4118,NA,Oregon,Indiana
+Oregon,Kansas,41,20,1944.847046,4120,NA,Oregon,Kansas
+Oregon,District of Columbia,41,11,3631.064453,4111,NA,Oregon,District of Columbia
+Oregon,Rhode Island,41,44,3949.175537,4144,NA,Oregon,Rhode Island
+Oregon,Wyoming,41,56,1054.16687,4156,NA,Oregon,Wyoming
+Oregon,Mississippi,41,28,2945.865479,4128,NA,Oregon,Mississippi
+Oregon,Massachusetts,41,25,3909.734375,4125,NA,Oregon,Massachusetts
+Oregon,Connecticut,41,9,3857.732422,4109,NA,Oregon,Connecticut
+Oregon,Vermont,41,50,3775.46875,4150,NA,Oregon,Vermont
+Oregon,Maine,41,23,3995.371094,4123,NA,Oregon,Maine
+Oregon,New Hampshire,41,33,3871.501221,4133,NA,Oregon,New Hampshire
+Oregon,New Mexico,41,35,1630.998047,4135,1,Oregon,New Mexico
+Oregon,Ohio,41,39,3114.033936,4139,NA,Oregon,Ohio
+Oregon,Alabama,41,1,3164.569336,4101,NA,Oregon,Alabama
+Oregon,Nebraska,41,31,1712.302002,4131,NA,Oregon,Nebraska
+Oregon,South Dakota,41,46,1618.199951,4146,NA,Oregon,South Dakota
+Oregon,Nevada,41,32,607.3119507,4132,NA,Oregon,Nevada
+Oregon,New Jersey,41,34,3763.382324,4134,NA,Oregon,New Jersey
+Oregon,North Dakota,41,38,1604.185913,4138,1,Oregon,North Dakota
+Oregon,South Carolina,41,45,3569.948242,4145,NA,Oregon,South Carolina
+Oregon,Arizona,41,4,1318.835449,4104,4,Oregon,Arizona
+Oregon,Arkansas,41,5,2600.427246,4105,NA,Oregon,Arkansas
+Michigan,California,26,6,2956.13501,2606,2,Michigan,California
+Michigan,Wisconsin,26,55,367.0795593,2655,3,Michigan,Wisconsin
+Michigan,Idaho,26,16,2311.933594,2616,NA,Michigan,Idaho
+Michigan,Minnesota,26,27,729.7969971,2627,NA,Michigan,Minnesota
+Michigan,Iowa,26,19,703.8061523,2619,NA,Michigan,Iowa
+Michigan,Missouri,26,29,889.0911255,2629,NA,Michigan,Missouri
+Michigan,Maryland,26,24,928.3929443,2624,NA,Michigan,Maryland
+Michigan,Oregon,26,41,2786.096191,2641,1,Michigan,Oregon
+Michigan,Montana,26,30,1899.448486,2630,NA,Michigan,Montana
+Michigan,Utah,26,49,2238.539307,2649,NA,Michigan,Utah
+Michigan,Virginia,26,51,938.144043,2651,NA,Michigan,Virginia
+Michigan,Illinois,26,17,572.0924683,2617,NA,Michigan,Illinois
+Michigan,Texas,26,48,1878.61084,2648,1,Michigan,Texas
+Michigan,Louisiana,26,22,1588.858154,2622,2,Michigan,Louisiana
+Michigan,Florida,26,12,1771.61377,2612,6,Michigan,Florida
+Michigan,Kentucky,26,21,756.9269409,2621,NA,Michigan,Kentucky
+Michigan,Tennessee,26,47,946.8063965,2647,1,Michigan,Tennessee
+Michigan,New York,26,36,809.7129517,2636,NA,Michigan,New York
+Michigan,Georgia,26,13,1312.348755,2613,1,Michigan,Georgia
+Michigan,Hawaii,26,15,6956.138184,2615,NA,Michigan,Hawaii
+Michigan,Delaware,26,10,1012.015259,2610,NA,Michigan,Delaware
+Michigan,Washington,26,53,2716.662842,2653,NA,Michigan,Washington
+Michigan,Oklahoma,26,40,1415.860229,2640,NA,Michigan,Oklahoma
+Michigan,West Virginia,26,54,747.1394043,2654,NA,Michigan,West Virginia
+Michigan,Alaska,26,2,4597.598633,2602,NA,Michigan,Alaska
+Michigan,Pennsylvania,26,42,729.777771,2642,NA,Michigan,Pennsylvania
+Michigan,Colorado,26,8,1771.781128,2608,2,Michigan,Colorado
+Michigan,North Carolina,26,37,1110.217896,2637,4,Michigan,North Carolina
+Michigan,Indiana,26,18,500.0511475,2618,10,Michigan,Indiana
+Michigan,Kansas,26,20,1261.556763,2620,NA,Michigan,Kansas
+Michigan,District of Columbia,26,11,920.5049438,2611,2,Michigan,District of Columbia
+Michigan,Rhode Island,26,44,1163.387451,2644,NA,Michigan,Rhode Island
+Michigan,Wyoming,26,56,1783.973022,2656,2,Michigan,Wyoming
+Michigan,Mississippi,26,28,1342.636597,2628,NA,Michigan,Mississippi
+Michigan,Massachusetts,26,25,1125.981445,2625,2,Michigan,Massachusetts
+Michigan,Connecticut,26,9,1071.659912,2609,NA,Michigan,Connecticut
+Michigan,Vermont,26,50,1012.992798,2650,NA,Michigan,Vermont
+Michigan,Maine,26,23,1276.480957,2623,NA,Michigan,Maine
+Michigan,New Hampshire,26,33,1104.902222,2633,NA,Michigan,New Hampshire
+Michigan,New Mexico,26,35,2087.466553,2635,4,Michigan,New Mexico
+Michigan,Ohio,26,39,497.9307251,2639,5,Michigan,Ohio
+Michigan,Alabama,26,1,1292.088989,2601,NA,Michigan,Alabama
+Michigan,Nebraska,26,31,1212.174805,2631,NA,Michigan,Nebraska
+Michigan,South Dakota,26,46,1178.021729,2646,1,Michigan,South Dakota
+Michigan,Nevada,26,32,2631.376709,2632,1,Michigan,Nevada
+Michigan,New Jersey,26,34,994.9259033,2634,NA,Michigan,New Jersey
+Michigan,North Dakota,26,38,1215.204712,2638,NA,Michigan,North Dakota
+Michigan,South Carolina,26,45,1222.786865,2645,NA,Michigan,South Carolina
+Michigan,Arizona,26,4,2507.789307,2604,NA,Michigan,Arizona
+Michigan,Arkansas,26,5,1210.995728,2605,NA,Michigan,Arkansas
+Montana,California,30,6,1363.06543,3006,NA,Montana,California
+Montana,Wisconsin,30,55,1540.879272,3055,NA,Montana,Wisconsin
+Montana,Idaho,30,16,489.5840149,3016,7,Montana,Idaho
+Montana,Minnesota,30,27,1170.883057,3027,1,Montana,Minnesota
+Montana,Iowa,30,19,1389.670288,3019,NA,Montana,Iowa
+Montana,Missouri,30,29,1698.137329,3029,NA,Montana,Missouri
+Montana,Maryland,30,24,2793.807373,3024,NA,Montana,Maryland
+Montana,Oregon,30,41,918.9173584,3041,NA,Montana,Oregon
+Montana,Michigan,30,26,1899.448486,3026,NA,Montana,Michigan
+Montana,Utah,30,49,877.112854,3049,NA,Montana,Utah
+Montana,Virginia,30,51,2726.640381,3051,NA,Montana,Virginia
+Montana,Illinois,30,17,1815.037842,3017,NA,Montana,Illinois
+Montana,Texas,30,48,1946.461548,3048,1,Montana,Texas
+Montana,Louisiana,30,22,2337.782227,3022,NA,Montana,Louisiana
+Montana,Florida,30,12,3120.615967,3012,NA,Montana,Florida
+Montana,Kentucky,30,21,2250.71582,3021,NA,Montana,Kentucky
+Montana,Tennessee,30,47,2291.618896,3047,NA,Montana,Tennessee
+Montana,New York,30,36,2700.390625,3036,NA,Montana,New York
+Montana,Georgia,30,13,2730.220459,3013,NA,Montana,Georgia
+Montana,Hawaii,30,15,5141.172852,3015,2,Montana,Hawaii
+Montana,Delaware,30,10,2889.060791,3010,NA,Montana,Delaware
+Montana,Washington,30,53,820.8294067,3053,NA,Montana,Washington
+Montana,Oklahoma,30,40,1624.54187,3040,NA,Montana,Oklahoma
+Montana,West Virginia,30,54,2525.060303,3054,NA,Montana,West Virginia
+Montana,Alaska,30,2,3183.034424,3002,1,Montana,Alaska
+Montana,Pennsylvania,30,42,2618.491211,3042,NA,Montana,Pennsylvania
+Montana,Colorado,30,8,954.9614868,3008,7,Montana,Colorado
+Montana,North Carolina,30,37,2822.411621,3037,NA,Montana,North Carolina
+Montana,Indiana,30,18,2035.562866,3018,NA,Montana,Indiana
+Montana,Kansas,30,20,1320.104126,3020,NA,Montana,Kansas
+Montana,District of Columbia,30,11,2780.012451,3011,NA,Montana,District of Columbia
+Montana,Rhode Island,30,44,3056.210205,3044,NA,Montana,Rhode Island
+Montana,Wyoming,30,56,479.8045349,3056,NA,Montana,Wyoming
+Montana,Mississippi,30,28,2318.812256,3028,NA,Montana,Mississippi
+Montana,Massachusetts,30,25,3013.425293,3025,NA,Montana,Massachusetts
+Montana,Connecticut,30,9,2967.65332,3009,NA,Montana,Connecticut
+Montana,Vermont,30,50,2869.872314,3050,NA,Montana,Vermont
+Montana,Maine,30,23,3081.371826,3023,NA,Montana,Maine
+Montana,New Hampshire,30,33,2966.542236,3033,NA,Montana,New Hampshire
+Montana,New Mexico,30,35,1436.675659,3035,NA,Montana,New Mexico
+Montana,Ohio,30,39,2272.122803,3039,NA,Montana,Ohio
+Montana,Alabama,30,1,2494.055176,3001,NA,Montana,Alabama
+Montana,Nebraska,30,31,993.1906128,3031,NA,Montana,Nebraska
+Montana,South Dakota,30,46,784.5963745,3046,2,Montana,South Dakota
+Montana,Nevada,30,32,1028.463257,3032,NA,Montana,Nevada
+Montana,New Jersey,30,34,2890.381836,3034,NA,Montana,New Jersey
+Montana,North Dakota,30,38,692.795105,3038,1,Montana,North Dakota
+Montana,South Carolina,30,45,2812.641357,3045,NA,Montana,South Carolina
+Montana,Arizona,30,4,1431.050049,3004,NA,Montana,Arizona
+Montana,Arkansas,30,5,1969.333862,3005,NA,Montana,Arkansas
+Utah,California,49,6,720.9783325,4906,1,Utah,California
+Utah,Wisconsin,49,55,1880.75769,4955,NA,Utah,Wisconsin
+Utah,Idaho,49,16,611.6488647,4916,2,Utah,Idaho
+Utah,Minnesota,49,27,1610.577271,4927,NA,Utah,Minnesota
+Utah,Iowa,49,19,1559.877197,4919,NA,Utah,Iowa
+Utah,Missouri,49,29,1664.30603,4929,NA,Utah,Missouri
+Utah,Maryland,49,24,2992.272461,4924,NA,Utah,Maryland
+Utah,Oregon,49,41,899.9605103,4941,7,Utah,Oregon
+Utah,Michigan,49,26,2238.539307,4926,NA,Utah,Michigan
+Utah,Montana,49,30,877.112854,4930,NA,Utah,Montana
+Utah,Virginia,49,51,2855.243408,4951,NA,Utah,Virginia
+Utah,Illinois,49,17,1920.127441,4917,NA,Utah,Illinois
+Utah,Texas,49,48,1419.618286,4948,NA,Utah,Texas
+Utah,Louisiana,49,22,2011.285767,4922,1,Utah,Louisiana
+Utah,Florida,49,12,2930.180908,4912,NA,Utah,Florida
+Utah,Kentucky,49,21,2297.566406,4921,NA,Utah,Kentucky
+Utah,Tennessee,49,47,2256.408203,4947,NA,Utah,Tennessee
+Utah,New York,49,36,3032.74292,4936,NA,Utah,New York
+Utah,Georgia,49,13,2634.850586,4913,NA,Utah,Georgia
+Utah,Hawaii,49,15,4742.124023,4915,NA,Utah,Hawaii
+Utah,Delaware,49,10,3097.972412,4910,NA,Utah,Delaware
+Utah,Washington,49,53,1146.471802,4953,1,Utah,Washington
+Utah,Oklahoma,49,40,1316.193115,4940,NA,Utah,Oklahoma
+Utah,West Virginia,49,54,2671.790039,4954,NA,Utah,West Virginia
+Utah,Alaska,49,2,3799.22876,4902,9,Utah,Alaska
+Utah,Pennsylvania,49,42,2868.546631,4942,NA,Utah,Pennsylvania
+Utah,Colorado,49,8,528.947998,4908,NA,Utah,Colorado
+Utah,North Carolina,49,37,2883.29834,4937,NA,Utah,North Carolina
+Utah,Indiana,49,18,2168.932617,4918,NA,Utah,Indiana
+Utah,Kansas,49,20,1152.794922,4920,6,Utah,Kansas
+Utah,District of Columbia,49,11,2971.9375,4911,NA,Utah,District of Columbia
+Utah,Rhode Island,49,44,3374.032227,4944,NA,Utah,Rhode Island
+Utah,Wyoming,49,56,535.8556519,4956,5,Utah,Wyoming
+Utah,Mississippi,49,28,2102.955322,4928,NA,Utah,Mississippi
+Utah,Massachusetts,49,25,3346.217285,4925,1,Utah,Massachusetts
+Utah,Connecticut,49,9,3276.570068,4909,NA,Utah,Connecticut
+Utah,Vermont,49,50,3250.817383,4950,NA,Utah,Vermont
+Utah,Maine,49,23,3511.444092,4923,NA,Utah,Maine
+Utah,New Hampshire,49,33,3341.317871,4933,NA,Utah,New Hampshire
+Utah,New Mexico,49,35,735.3235474,4935,NA,Utah,New Mexico
+Utah,Ohio,49,39,2458.281738,4939,NA,Utah,Ohio
+Utah,Alabama,49,1,2339.659424,4901,NA,Utah,Alabama
+Utah,Nebraska,49,31,1034.549805,4931,NA,Utah,Nebraska
+Utah,South Dakota,49,46,1104.862671,4946,NA,Utah,South Dakota
+Utah,Nevada,49,32,426.7601318,4932,5,Utah,Nevada
+Utah,New Jersey,49,34,3142.521484,4934,NA,Utah,New Jersey
+Utah,North Dakota,49,38,1278.237671,4938,NA,Utah,North Dakota
+Utah,South Carolina,49,45,2798.070557,4945,NA,Utah,South Carolina
+Utah,Arizona,49,4,559.4372559,4904,2,Utah,Arizona
+Utah,Arkansas,49,5,1770.559082,4905,NA,Utah,Arkansas
+Virginia,California,51,6,3567.030518,5106,NA,Virginia,California
+Virginia,Wisconsin,51,55,1224.826416,5155,NA,Virginia,Wisconsin
+Virginia,Idaho,51,16,3076.490967,5116,NA,Virginia,Idaho
+Virginia,Minnesota,51,27,1606.509521,5127,NA,Virginia,Minnesota
+Virginia,Iowa,51,19,1351.748047,5119,NA,Virginia,Iowa
+Virginia,Missouri,51,29,1200.536987,5129,NA,Virginia,Missouri
+Virginia,Maryland,51,24,245.7098389,5124,11,Virginia,Maryland
+Virginia,Oregon,51,41,3551.719238,5141,NA,Virginia,Oregon
+Virginia,Michigan,51,26,938.144043,5126,NA,Virginia,Michigan
+Virginia,Montana,51,30,2726.640381,5130,NA,Virginia,Montana
+Virginia,Utah,51,49,2855.243408,5149,NA,Virginia,Utah
+Virginia,Illinois,51,17,943.288269,5117,2,Virginia,Illinois
+Virginia,Texas,51,48,1992.223022,5148,NA,Virginia,Texas
+Virginia,Louisiana,51,22,1405.113525,5122,NA,Virginia,Louisiana
+Virginia,Florida,51,12,1050.352905,5112,NA,Virginia,Florida
+Virginia,Kentucky,51,21,573.3253784,5121,6,Virginia,Kentucky
+Virginia,Tennessee,51,47,697.8550415,5147,2,Virginia,Tennessee
+Virginia,New York,51,36,663.8640137,5136,2,Virginia,New York
+Virginia,Georgia,51,13,687.2246704,5113,NA,Virginia,Georgia
+Virginia,Hawaii,51,15,7583.723145,5115,NA,Virginia,Hawaii
+Virginia,Delaware,51,10,331.6217346,5110,1,Virginia,Delaware
+Virginia,Washington,51,53,3545.018066,5153,NA,Virginia,Washington
+Virginia,Oklahoma,51,40,1680.916626,5140,4,Virginia,Oklahoma
+Virginia,West Virginia,51,54,202.7362213,5154,19,Virginia,West Virginia
+Virginia,Alaska,51,2,5535.725098,5102,2,Virginia,Alaska
+Virginia,Pennsylvania,51,42,383.388092,5142,NA,Virginia,Pennsylvania
+Virginia,Colorado,51,8,2333.016113,5108,NA,Virginia,Colorado
+Virginia,North Carolina,51,37,221.2590179,5137,NA,Virginia,North Carolina
+Virginia,Indiana,51,18,700.6970825,5118,NA,Virginia,Indiana
+Virginia,Kansas,51,20,1715.669189,5120,8,Virginia,Kansas
+Virginia,District of Columbia,51,11,218.9772797,5111,20,Virginia,District of Columbia
+Virginia,Rhode Island,51,44,774.076355,5144,NA,Virginia,Rhode Island
+Virginia,Wyoming,51,56,2501.476318,5156,NA,Virginia,Wyoming
+Virginia,Mississippi,51,28,1121.227539,5128,NA,Virginia,Mississippi
+Virginia,Massachusetts,51,25,797.2897339,5125,NA,Virginia,Massachusetts
+Virginia,Connecticut,51,9,691.4633789,5109,5,Virginia,Connecticut
+Virginia,Vermont,51,50,892.1489868,5150,7,Virginia,Vermont
+Virginia,Maine,51,23,1177.968628,5123,1,Virginia,Maine
+Virginia,New Hampshire,51,33,916.1446533,5133,1,Virginia,New Hampshire
+Virginia,New Mexico,51,35,2473.754639,5135,NA,Virginia,New Mexico
+Virginia,Ohio,51,39,463.2928772,5139,NA,Virginia,Ohio
+Virginia,Alabama,51,1,900.2234497,5101,NA,Virginia,Alabama
+Virginia,Nebraska,51,31,1850.351685,5131,3,Virginia,Nebraska
+Virginia,South Dakota,51,46,1949.299194,5146,NA,Virginia,South Dakota
+Virginia,Nevada,51,32,3277.92749,5132,10,Virginia,Nevada
+Virginia,New Jersey,51,34,464.4487,5134,NA,Virginia,New Jersey
+Virginia,North Dakota,51,38,2081.230469,5138,4,Virginia,North Dakota
+Virginia,South Carolina,51,45,443.8032837,5145,NA,Virginia,South Carolina
+Virginia,Arizona,51,4,2966.898926,5104,2,Virginia,Arizona
+Virginia,Arkansas,51,5,1257.214844,5105,NA,Virginia,Arkansas
+Illinois,California,17,6,2637.086182,1706,11,Illinois,California
+Illinois,Wisconsin,17,55,514.0551147,1755,8,Illinois,Wisconsin
+Illinois,Idaho,17,16,2138.653809,1716,3,Illinois,Idaho
+Illinois,Minnesota,17,27,807.8642578,1727,1,Illinois,Minnesota
+Illinois,Iowa,17,19,425.5186768,1719,7,Illinois,Iowa
+Illinois,Missouri,17,29,337.7064514,1729,2,Illinois,Missouri
+Illinois,Maryland,17,24,1072.987793,1724,NA,Illinois,Maryland
+Illinois,Oregon,17,41,2612.20459,1741,NA,Illinois,Oregon
+Illinois,Michigan,17,26,572.0924683,1726,1,Illinois,Michigan
+Illinois,Montana,17,30,1815.037842,1730,6,Illinois,Montana
+Illinois,Utah,17,49,1920.127441,1749,1,Illinois,Utah
+Illinois,Virginia,17,51,943.288269,1751,NA,Illinois,Virginia
+Illinois,Texas,17,48,1319.663574,1748,5,Illinois,Texas
+Illinois,Louisiana,17,22,1033.736572,1722,NA,Illinois,Louisiana
+Illinois,Florida,17,12,1415.638062,1712,1,Illinois,Florida
+Illinois,Kentucky,17,21,437.7036743,1721,6,Illinois,Kentucky
+Illinois,Tennessee,17,47,527.7459106,1747,13,Illinois,Tennessee
+Illinois,New York,17,36,1183.601807,1736,NA,Illinois,New York
+Illinois,Georgia,17,13,971.1291504,1713,5,Illinois,Georgia
+Illinois,Hawaii,17,15,6659.373535,1715,NA,Illinois,Hawaii
+Illinois,Delaware,17,10,1179.309082,1710,NA,Illinois,Delaware
+Illinois,Washington,17,53,2624.593262,1753,2,Illinois,Washington
+Illinois,Oklahoma,17,40,880.4904175,1740,NA,Illinois,Oklahoma
+Illinois,West Virginia,17,54,753.2279053,1754,NA,Illinois,West Virginia
+Illinois,Alaska,17,2,4794.84375,1702,NA,Illinois,Alaska
+Illinois,Pennsylvania,17,42,967.994873,1742,NA,Illinois,Pennsylvania
+Illinois,Colorado,17,8,1405.417725,1708,2,Illinois,Colorado
+Illinois,North Carolina,17,37,1010.711853,1737,1,Illinois,North Carolina
+Illinois,Indiana,17,18,248.9415131,1718,NA,Illinois,Indiana
+Illinois,Kansas,17,20,808.5045166,1720,NA,Illinois,Kansas
+Illinois,District of Columbia,17,11,1052.167603,1711,4,Illinois,District of Columbia
+Illinois,Rhode Island,17,44,1493.936646,1744,1,Illinois,Rhode Island
+Illinois,Wyoming,17,56,1559.768188,1756,4,Illinois,Wyoming
+Illinois,Mississippi,17,28,813.3082275,1728,1,Illinois,Mississippi
+Illinois,Massachusetts,17,25,1478.105347,1725,NA,Illinois,Massachusetts
+Illinois,Connecticut,17,9,1394.457764,1709,4,Illinois,Connecticut
+Illinois,Vermont,17,50,1433.462158,1750,NA,Illinois,Vermont
+Illinois,Maine,17,23,1729.55188,1723,NA,Illinois,Maine
+Illinois,New Hampshire,17,33,1510.691406,1733,6,Illinois,New Hampshire
+Illinois,New Mexico,17,35,1620.177124,1735,NA,Illinois,New Mexico
+Illinois,Ohio,17,39,544.4382935,1739,1,Illinois,Ohio
+Illinois,Alabama,17,1,834.9537964,1701,NA,Illinois,Alabama
+Illinois,Nebraska,17,31,907.0634766,1731,NA,Illinois,Nebraska
+Illinois,South Dakota,17,46,1030.456421,1746,NA,Illinois,South Dakota
+Illinois,Nevada,17,32,2339.753906,1732,NA,Illinois,Nevada
+Illinois,New Jersey,17,34,1234.626831,1734,3,Illinois,New Jersey
+Illinois,North Dakota,17,38,1221.828979,1738,1,Illinois,North Dakota
+Illinois,South Carolina,17,45,1004.000122,1745,NA,Illinois,South Carolina
+Illinois,Arizona,17,4,2084.8396,1704,8,Illinois,Arizona
+Illinois,Arkansas,17,5,639.8170776,1705,NA,Illinois,Arkansas
+Texas,California,48,6,1954.665283,4806,6,Texas,California
+Texas,Wisconsin,48,55,1674.889648,4855,NA,Texas,Wisconsin
+Texas,Idaho,48,16,1959.4823,4816,NA,Texas,Idaho
+Texas,Minnesota,48,27,1705.107178,4827,NA,Texas,Minnesota
+Texas,Iowa,48,19,1289.821289,4819,NA,Texas,Iowa
+Texas,Missouri,48,29,989.7456055,4829,12,Texas,Missouri
+Texas,Maryland,48,24,2208.278564,4824,NA,Texas,Maryland
+Texas,Oregon,48,41,2318.523193,4841,NA,Texas,Oregon
+Texas,Michigan,48,26,1878.61084,4826,5,Texas,Michigan
+Texas,Montana,48,30,1946.461548,4830,NA,Texas,Montana
+Texas,Utah,48,49,1419.618286,4849,2,Texas,Utah
+Texas,Virginia,48,51,1992.223022,4851,4,Texas,Virginia
+Texas,Illinois,48,17,1319.663574,4817,2,Texas,Illinois
+Texas,Louisiana,48,22,702.3339844,4822,12,Texas,Louisiana
+Texas,Florida,48,12,1651.531494,4812,13,Texas,Florida
+Texas,Kentucky,48,21,1448.984253,4821,NA,Texas,Kentucky
+Texas,Tennessee,48,47,1294.438599,4847,5,Texas,Tennessee
+Texas,New York,48,36,2452.310303,4836,5,Texas,New York
+Texas,Georgia,48,13,1500.343506,4813,2,Texas,Georgia
+Texas,Hawaii,48,15,5778.883301,4815,1,Texas,Hawaii
+Texas,Delaware,48,10,2311.250244,4810,NA,Texas,Delaware
+Texas,Washington,48,53,2525.876465,4853,NA,Texas,Washington
+Texas,Oklahoma,48,40,490.6690369,4840,13,Texas,Oklahoma
+Texas,West Virginia,48,54,1874.985718,4854,NA,Texas,West Virginia
+Texas,Alaska,48,2,5116.810547,4802,11,Texas,Alaska
+Texas,Pennsylvania,48,42,2188.731201,4842,10,Texas,Pennsylvania
+Texas,Colorado,48,8,1013.067383,4808,3,Texas,Colorado
+Texas,North Carolina,48,37,1917.282837,4837,NA,Texas,North Carolina
+Texas,Indiana,48,18,1502.879272,4818,NA,Texas,Indiana
+Texas,Kansas,48,20,788.6671143,4820,1,Texas,Kansas
+Texas,District of Columbia,48,11,2181.748047,4811,3,Texas,District of Columbia
+Texas,Rhode Island,48,44,2712.647217,4844,2,Texas,Rhode Island
+Texas,Wyoming,48,56,1476.050781,4856,NA,Texas,Wyoming
+Texas,Mississippi,48,28,918.9763794,4828,2,Texas,Mississippi
+Texas,Massachusetts,48,25,2713.087646,4825,6,Texas,Massachusetts
+Texas,Connecticut,48,9,2615.938965,4809,NA,Texas,Connecticut
+Texas,Vermont,48,50,2712.110596,4850,NA,Texas,Vermont
+Texas,Maine,48,23,3016.338379,4823,NA,Texas,Maine
+Texas,New Hampshire,48,33,2777.795166,4833,3,Texas,New Hampshire
+Texas,New Mexico,48,35,715.7879028,4835,10,Texas,New Mexico
+Texas,Ohio,48,39,1778.832764,4839,1,Texas,Ohio
+Texas,Alabama,48,1,1183.395142,4801,1,Texas,Alabama
+Texas,Nebraska,48,31,1123.484619,4831,9,Texas,Nebraska
+Texas,South Dakota,48,46,1448.043091,4846,8,Texas,South Dakota
+Texas,Nevada,48,32,1794.657837,4832,1,Texas,Nevada
+Texas,New Jersey,48,34,2414.526611,4834,NA,Texas,New Jersey
+Texas,North Dakota,48,38,1782.789917,4838,NA,Texas,North Dakota
+Texas,South Carolina,48,45,1742.709229,4845,5,Texas,South Carolina
+Texas,Arizona,48,4,1195.56543,4804,2,Texas,Arizona
+Texas,Arkansas,48,5,744.8344727,4805,8,Texas,Arkansas
+Louisiana,California,22,6,2616.682129,2206,NA,Louisiana,California
+Louisiana,Wisconsin,22,55,1523.123413,2255,NA,Louisiana,Wisconsin
+Louisiana,Idaho,22,16,2472.525879,2216,NA,Louisiana,Idaho
+Louisiana,Minnesota,22,27,1710.097656,2227,NA,Louisiana,Minnesota
+Louisiana,Iowa,22,19,1237.922852,2219,NA,Louisiana,Iowa
+Louisiana,Missouri,22,29,818.069519,2229,1,Louisiana,Missouri
+Louisiana,Maryland,22,24,1642.016479,2224,8,Louisiana,Maryland
+Louisiana,Oregon,22,41,2885.025391,2241,NA,Louisiana,Oregon
+Louisiana,Michigan,22,26,1588.858154,2226,NA,Louisiana,Michigan
+Louisiana,Montana,22,30,2337.782227,2230,NA,Louisiana,Montana
+Louisiana,Utah,22,49,2011.285767,2249,NA,Louisiana,Utah
+Louisiana,Virginia,22,51,1405.113525,2251,NA,Louisiana,Virginia
+Louisiana,Illinois,22,17,1033.736572,2217,NA,Louisiana,Illinois
+Louisiana,Texas,22,48,702.3339844,2248,13,Louisiana,Texas
+Louisiana,Florida,22,12,953.4369507,2212,2,Louisiana,Florida
+Louisiana,Kentucky,22,21,946.609375,2221,NA,Louisiana,Kentucky
+Louisiana,Tennessee,22,47,747.2301636,2247,NA,Louisiana,Tennessee
+Louisiana,New York,22,36,1965.02417,2236,NA,Louisiana,New York
+Louisiana,Georgia,22,13,822.7719727,2213,5,Louisiana,Georgia
+Louisiana,Hawaii,22,15,6481.215332,2215,NA,Louisiana,Hawaii
+Louisiana,Delaware,22,10,1736.183594,2210,NA,Louisiana,Delaware
+Louisiana,Washington,22,53,3033.234131,2253,NA,Louisiana,Washington
+Louisiana,Oklahoma,22,40,725.0892334,2240,NA,Louisiana,Oklahoma
+Louisiana,West Virginia,22,54,1334.372192,2254,NA,Louisiana,West Virginia
+Louisiana,Alaska,22,2,5507.105469,2202,NA,Louisiana,Alaska
+Louisiana,Pennsylvania,22,42,1675.964966,2242,2,Louisiana,Pennsylvania
+Louisiana,Colorado,22,8,1522.325806,2208,NA,Louisiana,Colorado
+Louisiana,North Carolina,22,37,1286.999756,2237,NA,Louisiana,North Carolina
+Louisiana,Indiana,22,18,1111.664429,2218,NA,Louisiana,Indiana
+Louisiana,Kansas,22,20,1018.518372,2220,NA,Louisiana,Kansas
+Louisiana,District of Columbia,22,11,1614.596558,2211,1,Louisiana,District of Columbia
+Louisiana,Rhode Island,22,44,2168.735596,2244,NA,Louisiana,Rhode Island
+Louisiana,Wyoming,22,56,1917.210083,2256,NA,Louisiana,Wyoming
+Louisiana,Mississippi,22,28,287.2871399,2228,14,Louisiana,Mississippi
+Louisiana,Massachusetts,22,25,2181.80542,2225,NA,Louisiana,Massachusetts
+Louisiana,Connecticut,22,9,2078.323486,2209,NA,Louisiana,Connecticut
+Louisiana,Vermont,22,50,2224.465088,2250,NA,Louisiana,Vermont
+Louisiana,Maine,22,23,2529.037598,2223,NA,Louisiana,Maine
+Louisiana,New Hampshire,22,33,2274.118164,2233,NA,Louisiana,New Hampshire
+Louisiana,New Mexico,22,35,1378.009033,2235,NA,Louisiana,New Mexico
+Louisiana,Ohio,22,39,1319.6875,2239,3,Louisiana,Ohio
+Louisiana,Alabama,22,1,519.9603882,2201,8,Louisiana,Alabama
+Louisiana,Nebraska,22,31,1364.722778,2231,NA,Louisiana,Nebraska
+Louisiana,South Dakota,22,46,1659.976318,2246,NA,Louisiana,South Dakota
+Louisiana,Nevada,22,32,2418.067871,2232,NA,Louisiana,Nevada
+Louisiana,New Jersey,22,34,1859.459839,2234,NA,Louisiana,New Jersey
+Louisiana,North Dakota,22,38,1967.045532,2238,NA,Louisiana,North Dakota
+Louisiana,South Carolina,22,45,1084.207764,2245,NA,Louisiana,South Carolina
+Louisiana,Arizona,22,4,1879.257813,2204,NA,Louisiana,Arizona
+Louisiana,Arkansas,22,5,434.1616211,2205,1,Louisiana,Arkansas
+Florida,California,12,6,3562.082764,1206,7,Florida,California
+Florida,Wisconsin,12,55,1904.69397,1255,2,Florida,Wisconsin
+Florida,Idaho,12,16,3335.976807,1216,1,Florida,Idaho
+Florida,Minnesota,12,27,2223.385986,1227,NA,Florida,Minnesota
+Florida,Iowa,12,19,1800.641113,1219,NA,Florida,Iowa
+Florida,Missouri,12,29,1427.452026,1229,8,Florida,Missouri
+Florida,Maryland,12,24,1275.215454,1224,10,Florida,Maryland
+Florida,Oregon,12,41,3775.315186,1241,NA,Florida,Oregon
+Florida,Michigan,12,26,1771.61377,1226,1,Florida,Michigan
+Florida,Montana,12,30,3120.615967,1230,1,Florida,Montana
+Florida,Utah,12,49,2930.180908,1249,1,Florida,Utah
+Florida,Virginia,12,51,1050.352905,1251,NA,Florida,Virginia
+Florida,Illinois,12,17,1415.638062,1217,1,Florida,Illinois
+Florida,Texas,12,48,1651.531494,1248,NA,Florida,Texas
+Florida,Louisiana,12,22,953.4369507,1222,1,Florida,Louisiana
+Florida,Kentucky,12,21,1030.178955,1221,6,Florida,Kentucky
+Florida,Tennessee,12,47,888.0838013,1247,17,Florida,Tennessee
+Florida,New York,12,36,1713.258667,1236,20,Florida,New York
+Florida,Georgia,12,13,460.6606445,1213,10,Florida,Georgia
+Florida,Hawaii,12,15,7425.792969,1215,NA,Florida,Hawaii
+Florida,Delaware,12,10,1323.623413,1210,11,Florida,Delaware
+Florida,Washington,12,53,3879.315918,1253,1,Florida,Washington
+Florida,Oklahoma,12,40,1614.495361,1240,NA,Florida,Oklahoma
+Florida,West Virginia,12,54,1131.521729,1254,5,Florida,West Virginia
+Florida,Alaska,12,2,6201.169922,1202,NA,Florida,Alaska
+Florida,Pennsylvania,12,42,1431.460083,1242,1,Florida,Pennsylvania
+Florida,Colorado,12,8,2418.209229,1208,NA,Florida,Colorado
+Florida,North Carolina,12,37,834.1593018,1237,NA,Florida,North Carolina
+Florida,Indiana,12,18,1305.867432,1218,NA,Florida,Indiana
+Florida,Kansas,12,20,1837.523804,1220,NA,Florida,Kansas
+Florida,District of Columbia,12,11,1252.489258,1211,2,Florida,District of Columbia
+Florida,Rhode Island,12,44,1758.053223,1244,NA,Florida,Rhode Island
+Florida,Wyoming,12,56,2756.143066,1256,3,Florida,Wyoming
+Florida,Mississippi,12,28,829.8831177,1228,NA,Florida,Mississippi
+Florida,Massachusetts,12,25,1798.304077,1225,NA,Florida,Massachusetts
+Florida,Connecticut,12,9,1695.761963,1209,NA,Florida,Connecticut
+Florida,Vermont,12,50,1929.197144,1250,11,Florida,Vermont
+Florida,Maine,12,23,2195.788086,1223,NA,Florida,Maine
+Florida,New Hampshire,12,33,1938.274536,1233,3,Florida,New Hampshire
+Florida,New Mexico,12,35,2328.752686,1235,4,Florida,New Mexico
+Florida,Ohio,12,39,1302.515747,1239,4,Florida,Ohio
+Florida,Alabama,12,1,626.604187,1201,15,Florida,Alabama
+Florida,Nebraska,12,31,2129.425537,1231,NA,Florida,Nebraska
+Florida,South Dakota,12,46,2363.193604,1246,NA,Florida,South Dakota
+Florida,Nevada,12,32,3347.080566,1232,NA,Florida,Nevada
+Florida,New Jersey,12,34,1473.164307,1234,NA,Florida,New Jersey
+Florida,North Dakota,12,38,2611.576904,1238,NA,Florida,North Dakota
+Florida,South Carolina,12,45,610.5233765,1245,NA,Florida,South Carolina
+Florida,Arizona,12,4,2832.18457,1204,1,Florida,Arizona
+Florida,Arkansas,12,5,1175.792725,1205,1,Florida,Arkansas
+Kentucky,California,21,6,3003.77417,2106,NA,Kentucky,California
+Kentucky,Wisconsin,21,55,880.7679443,2155,NA,Kentucky,Wisconsin
+Kentucky,Idaho,21,16,2560.322998,2116,NA,Kentucky,Idaho
+Kentucky,Minnesota,21,27,1223.527222,2127,NA,Kentucky,Minnesota
+Kentucky,Iowa,21,19,862.4699707,2119,NA,Kentucky,Iowa
+Kentucky,Missouri,21,29,634.1582031,2129,4,Kentucky,Missouri
+Kentucky,Maryland,21,24,764.9069824,2124,NA,Kentucky,Maryland
+Kentucky,Oregon,21,41,3030.484131,2141,NA,Kentucky,Oregon
+Kentucky,Michigan,21,26,756.9269409,2126,NA,Kentucky,Michigan
+Kentucky,Montana,21,30,2250.71582,2130,NA,Kentucky,Montana
+Kentucky,Utah,21,49,2297.566406,2149,NA,Kentucky,Utah
+Kentucky,Virginia,21,51,573.3253784,2151,NA,Kentucky,Virginia
+Kentucky,Illinois,21,17,437.7036743,2117,1,Kentucky,Illinois
+Kentucky,Texas,21,48,1448.984253,2148,NA,Kentucky,Texas
+Kentucky,Louisiana,21,22,946.609375,2122,NA,Kentucky,Louisiana
+Kentucky,Florida,21,12,1030.178955,2112,NA,Kentucky,Florida
+Kentucky,Tennessee,21,47,208.4477081,2147,2,Kentucky,Tennessee
+Kentucky,New York,21,36,1024.690308,2136,NA,Kentucky,New York
+Kentucky,Georgia,21,13,570.4136963,2113,NA,Kentucky,Georgia
+Kentucky,Hawaii,21,15,7015.134277,2115,3,Kentucky,Hawaii
+Kentucky,Delaware,21,10,870.5072021,2110,NA,Kentucky,Delaware
+Kentucky,Washington,21,53,3056.818848,2153,NA,Kentucky,Washington
+Kentucky,Oklahoma,21,40,1109.498657,2140,NA,Kentucky,Oklahoma
+Kentucky,West Virginia,21,54,427.5472412,2154,4,Kentucky,West Virginia
+Kentucky,Alaska,21,2,5215.626953,2102,NA,Kentucky,Alaska
+Kentucky,Pennsylvania,21,42,745.2521973,2142,NA,Kentucky,Pennsylvania
+Kentucky,Colorado,21,8,1771.471069,2108,NA,Kentucky,Colorado
+Kentucky,North Carolina,21,37,589.2802124,2137,1,Kentucky,North Carolina
+Kentucky,Indiana,21,18,275.813385,2118,1,Kentucky,Indiana
+Kentucky,Kansas,21,20,1149.610962,2120,1,Kentucky,Kansas
+Kentucky,District of Columbia,21,11,739.2416992,2111,NA,Kentucky,District of Columbia
+Kentucky,Rhode Island,21,44,1264.020386,2144,NA,Kentucky,Rhode Island
+Kentucky,Wyoming,21,56,1976.322632,2156,NA,Kentucky,Wyoming
+Kentucky,Mississippi,21,28,664.7883301,2128,NA,Kentucky,Mississippi
+Kentucky,Massachusetts,21,25,1266.597046,2125,NA,Kentucky,Massachusetts
+Kentucky,Connecticut,21,9,1167.896484,2109,NA,Kentucky,Connecticut
+Kentucky,Vermont,21,50,1285.701904,2150,NA,Kentucky,Vermont
+Kentucky,Maine,21,23,1591.540161,2123,NA,Kentucky,Maine
+Kentucky,New Hampshire,21,33,1342.264282,2133,2,Kentucky,New Hampshire
+Kentucky,New Mexico,21,35,1900.831055,2135,NA,Kentucky,New Mexico
+Kentucky,Ohio,21,39,375.3765869,2139,7,Kentucky,Ohio
+Kentucky,Alabama,21,1,547.0440674,2101,4,Kentucky,Alabama
+Kentucky,Nebraska,21,31,1318.286499,2131,NA,Kentucky,Nebraska
+Kentucky,South Dakota,21,46,1466.28064,2146,NA,Kentucky,South Dakota
+Kentucky,Nevada,21,32,2722.719238,2132,NA,Kentucky,Nevada
+Kentucky,New Jersey,21,34,966.1964722,2134,NA,Kentucky,New Jersey
+Kentucky,North Dakota,21,38,1656.531372,2138,NA,Kentucky,North Dakota
+Kentucky,South Carolina,21,45,566.7122192,2145,NA,Kentucky,South Carolina
+Kentucky,Arizona,21,4,2393.660156,2104,4,Kentucky,Arizona
+Kentucky,Arkansas,21,5,704.4672241,2105,NA,Kentucky,Arkansas
+Tennessee,California,47,6,2948.726074,4706,17,Tennessee,California
+Tennessee,Wisconsin,47,55,1022.489685,4755,NA,Tennessee,Wisconsin
+Tennessee,Idaho,47,16,2566.727051,4716,NA,Tennessee,Idaho
+Tennessee,Minnesota,47,27,1335.610107,4727,NA,Tennessee,Minnesota
+Tennessee,Iowa,47,19,926.491394,4719,2,Tennessee,Iowa
+Tennessee,Missouri,47,29,608.78302,4729,NA,Tennessee,Missouri
+Tennessee,Maryland,47,24,917.7374878,4724,1,Tennessee,Maryland
+Tennessee,Oregon,47,41,3029.286377,4741,NA,Tennessee,Oregon
+Tennessee,Michigan,47,26,946.8063965,4726,1,Tennessee,Michigan
+Tennessee,Montana,47,30,2291.618896,4730,NA,Tennessee,Montana
+Tennessee,Utah,47,49,2256.408203,4749,NA,Tennessee,Utah
+Tennessee,Virginia,47,51,697.8550415,4751,1,Tennessee,Virginia
+Tennessee,Illinois,47,17,527.7459106,4717,NA,Tennessee,Illinois
+Tennessee,Texas,47,48,1294.438599,4748,5,Tennessee,Texas
+Tennessee,Louisiana,47,22,747.2301636,4722,NA,Tennessee,Louisiana
+Tennessee,Florida,47,12,888.0838013,4712,1,Tennessee,Florida
+Tennessee,Kentucky,47,21,208.4477081,4721,NA,Tennessee,Kentucky
+Tennessee,New York,47,36,1217.868042,4736,NA,Tennessee,New York
+Tennessee,Georgia,47,13,447.2662659,4713,4,Tennessee,Georgia
+Tennessee,Hawaii,47,15,6941.222656,4715,NA,Tennessee,Hawaii
+Tennessee,Delaware,47,10,1018.748108,4710,NA,Tennessee,Delaware
+Tennessee,Washington,47,53,3082.726074,4753,NA,Tennessee,Washington
+Tennessee,Oklahoma,47,40,1006.10675,4740,NA,Tennessee,Oklahoma
+Tennessee,West Virginia,47,54,593.7293091,4754,NA,Tennessee,West Virginia
+Tennessee,Alaska,47,2,5319.894531,4702,NA,Tennessee,Alaska
+Tennessee,Pennsylvania,47,42,930.3938599,4742,1,Tennessee,Pennsylvania
+Tennessee,Colorado,47,8,1727.460205,4708,NA,Tennessee,Colorado
+Tennessee,North Carolina,47,37,647.9067993,4737,NA,Tennessee,North Carolina
+Tennessee,Indiana,47,18,448.7632141,4718,NA,Tennessee,Indiana
+Tennessee,Kansas,47,20,1104.407471,4720,NA,Tennessee,Kansas
+Tennessee,District of Columbia,47,11,890.7836914,4711,NA,Tennessee,District of Columbia
+Tennessee,Rhode Island,47,44,1434.944092,4744,NA,Tennessee,Rhode Island
+Tennessee,Wyoming,47,56,1979.430664,4756,NA,Tennessee,Wyoming
+Tennessee,Mississippi,47,28,461.8653259,4728,6,Tennessee,Mississippi
+Tennessee,Massachusetts,47,25,1443.223755,4725,NA,Tennessee,Massachusetts
+Tennessee,Connecticut,47,9,1341.55603,4709,NA,Tennessee,Connecticut
+Tennessee,Vermont,47,50,1477.612671,4750,NA,Tennessee,Vermont
+Tennessee,Maine,47,23,1782.582031,4723,NA,Tennessee,Maine
+Tennessee,New Hampshire,47,33,1529.136597,4733,NA,Tennessee,New Hampshire
+Tennessee,New Mexico,47,35,1801.497192,4735,NA,Tennessee,New Mexico
+Tennessee,Ohio,47,39,582.663269,4739,NA,Tennessee,Ohio
+Tennessee,Alabama,47,1,345.5906067,4701,17,Tennessee,Alabama
+Tennessee,Nebraska,47,31,1324.695557,4731,NA,Tennessee,Nebraska
+Tennessee,South Dakota,47,46,1513.911987,4746,4,Tennessee,South Dakota
+Tennessee,Nevada,47,32,2683.167236,4732,NA,Tennessee,Nevada
+Tennessee,New Jersey,47,34,1129.565796,4734,1,Tennessee,New Jersey
+Tennessee,North Dakota,47,38,1737.285278,4738,NA,Tennessee,North Dakota
+Tennessee,South Carolina,47,45,543.074646,4745,1,Tennessee,South Carolina
+Tennessee,Arizona,47,4,2304.015137,4704,NA,Tennessee,Arizona
+Tennessee,Arkansas,47,5,562.6862793,4705,4,Tennessee,Arkansas
+New York,California,36,6,3753.026367,3606,14,New York,California
+New York,Wisconsin,36,55,1176.743042,3655,8,New York,Wisconsin
+New York,Idaho,36,16,3120.987305,3616,1,New York,Idaho
+New York,Minnesota,36,27,1530.133179,3627,NA,New York,Minnesota
+New York,Iowa,36,19,1475.211914,3619,NA,New York,Iowa
+New York,Missouri,36,29,1515.167236,3629,1,New York,Missouri
+New York,Maryland,36,24,446.571106,3624,1,New York,Maryland
+New York,Oregon,36,41,3594.354492,3641,9,New York,Oregon
+New York,Michigan,36,26,809.7129517,3626,NA,New York,Michigan
+New York,Montana,36,30,2700.390625,3630,2,New York,Montana
+New York,Utah,36,49,3032.74292,3649,6,New York,Utah
+New York,Virginia,36,51,663.8640137,3651,4,New York,Virginia
+New York,Illinois,36,17,1183.601807,3617,NA,New York,Illinois
+New York,Texas,36,48,2452.310303,3648,3,New York,Texas
+New York,Louisiana,36,22,1965.02417,3622,NA,New York,Louisiana
+New York,Florida,36,12,1713.258667,3612,30,New York,Florida
+New York,Kentucky,36,21,1024.690308,3621,NA,New York,Kentucky
+New York,Tennessee,36,47,1217.868042,3647,NA,New York,Tennessee
+New York,Georgia,36,13,1338.960205,3613,12,New York,Georgia
+New York,Hawaii,36,15,7762.315918,3615,8,New York,Hawaii
+New York,Delaware,36,10,437.6178284,3610,1,New York,Delaware
+New York,Washington,36,53,3512.477783,3653,1,New York,Washington
+New York,Oklahoma,36,40,2054.121582,3640,NA,New York,Oklahoma
+New York,West Virginia,36,54,642.7704468,3654,NA,New York,West Virginia
+New York,Alaska,36,2,5201.49707,3602,1,New York,Alaska
+New York,Pennsylvania,36,42,297.2623901,3642,2,New York,Pennsylvania
+New York,Colorado,36,8,2546.399414,3608,NA,New York,Colorado
+New York,North Carolina,36,37,879.550293,3637,10,New York,North Carolina
+New York,Indiana,36,18,959.4337158,3618,NA,New York,Indiana
+New York,Kansas,36,20,1983.364014,3620,NA,New York,Kansas
+New York,District of Columbia,36,11,465.8070679,3611,16,New York,District of Columbia
+New York,Rhode Island,36,44,355.8281555,3644,22,New York,Rhode Island
+New York,Wyoming,36,56,2591.770996,3656,4,New York,Wyoming
+New York,Mississippi,36,28,1678.802979,3628,NA,New York,Mississippi
+New York,Massachusetts,36,25,316.3599243,3625,1,New York,Massachusetts
+New York,Connecticut,36,9,271.0728149,3609,12,New York,Connecticut
+New York,Vermont,36,50,261.2486267,3650,5,New York,Vermont
+New York,Maine,36,23,567.1728516,3623,1,New York,Maine
+New York,New Hampshire,36,33,328.007782,3633,6,New York,New Hampshire
+New York,New Mexico,36,35,2802.925537,3635,NA,New York,New Mexico
+New York,Ohio,36,39,673.479248,3639,NA,New York,Ohio
+New York,Alabama,36,1,1502.142822,3601,NA,New York,Alabama
+New York,Nebraska,36,31,1998.931152,3631,NA,New York,Nebraska
+New York,South Dakota,36,46,1987.459839,3646,NA,New York,South Dakota
+New York,Nevada,36,32,3433.37915,3632,NA,New York,Nevada
+New York,New Jersey,36,34,314.0842896,3634,11,New York,New Jersey
+New York,North Dakota,36,38,2010.011597,3638,NA,New York,North Dakota
+New York,South Carolina,36,45,1107.516357,3645,NA,New York,South Carolina
+New York,Arizona,36,4,3257.967285,3604,NA,New York,Arizona
+New York,Arkansas,36,5,1711.893799,3605,NA,New York,Arkansas
+Georgia,California,13,6,3304.876221,1306,5,Georgia,California
+Georgia,Wisconsin,13,55,1448.501831,1355,NA,Georgia,Wisconsin
+Georgia,Idaho,13,16,2985.604492,1316,NA,Georgia,Idaho
+Georgia,Minnesota,13,27,1777.479736,1327,NA,Georgia,Minnesota
+Georgia,Iowa,13,19,1373.579834,1319,NA,Georgia,Iowa
+Georgia,Missouri,13,29,1034.569336,1329,NA,Georgia,Missouri
+Georgia,Maryland,13,24,931.5610962,1324,1,Georgia,Maryland
+Georgia,Oregon,13,41,3440.683594,1341,NA,Georgia,Oregon
+Georgia,Michigan,13,26,1312.348755,1326,NA,Georgia,Michigan
+Georgia,Montana,13,30,2730.220459,1330,NA,Georgia,Montana
+Georgia,Utah,13,49,2634.850586,1349,NA,Georgia,Utah
+Georgia,Virginia,13,51,687.2246704,1351,NA,Georgia,Virginia
+Georgia,Illinois,13,17,971.1291504,1317,1,Georgia,Illinois
+Georgia,Texas,13,48,1500.343506,1348,5,Georgia,Texas
+Georgia,Louisiana,13,22,822.7719727,1322,5,Georgia,Louisiana
+Georgia,Florida,13,12,460.6606445,1312,26,Georgia,Florida
+Georgia,Kentucky,13,21,570.4136963,1321,NA,Georgia,Kentucky
+Georgia,Tennessee,13,47,447.2662659,1347,3,Georgia,Tennessee
+Georgia,New York,13,36,1338.960205,1336,NA,Georgia,New York
+Georgia,Hawaii,13,15,7253.843262,1315,5,Georgia,Hawaii
+Georgia,Delaware,13,10,1005.202576,1310,NA,Georgia,Delaware
+Georgia,Washington,13,53,3512.381348,1353,NA,Georgia,Washington
+Georgia,Oklahoma,13,40,1334.152344,1340,NA,Georgia,Oklahoma
+Georgia,West Virginia,13,54,714.3831787,1354,3,Georgia,West Virginia
+Georgia,Alaska,13,2,5765.75,1302,NA,Georgia,Alaska
+Georgia,Pennsylvania,13,42,1044.276855,1342,1,Georgia,Pennsylvania
+Georgia,Colorado,13,8,2109.187988,1308,NA,Georgia,Colorado
+Georgia,North Carolina,13,37,508.2759705,1337,1,Georgia,North Carolina
+Georgia,Indiana,13,18,846.2258301,1318,3,Georgia,Indiana
+Georgia,Kansas,13,20,1497.936646,1320,NA,Georgia,Kansas
+Georgia,District of Columbia,13,11,905.4277954,1311,3,Georgia,District of Columbia
+Georgia,Rhode Island,13,44,1453.269409,1344,NA,Georgia,Rhode Island
+Georgia,Wyoming,13,56,2399.085938,1356,1,Georgia,Wyoming
+Georgia,Mississippi,13,28,583.2120361,1328,1,Georgia,Mississippi
+Georgia,Massachusetts,13,25,1481.382935,1325,NA,Georgia,Massachusetts
+Georgia,Connecticut,13,9,1375.596558,1309,NA,Georgia,Connecticut
+Georgia,Vermont,13,50,1577.341553,1350,2,Georgia,Vermont
+Georgia,Maine,13,23,1865.18811,1323,NA,Georgia,Maine
+Georgia,New Hampshire,13,33,1603.368042,1333,NA,Georgia,New Hampshire
+Georgia,New Mexico,13,35,2107.190674,1335,NA,Georgia,New Mexico
+Georgia,Ohio,13,39,853.0178223,1339,NA,Georgia,Ohio
+Georgia,Alabama,13,1,318.1975708,1301,4,Georgia,Alabama
+Georgia,Nebraska,13,31,1751.881958,1331,6,Georgia,Nebraska
+Georgia,South Dakota,13,46,1956.847778,1346,NA,Georgia,South Dakota
+Georgia,Nevada,13,32,3059.838623,1332,NA,Georgia,Nevada
+Georgia,New Jersey,13,34,1147.500122,1334,1,Georgia,New Jersey
+Georgia,North Dakota,13,38,2184.550537,1338,NA,Georgia,North Dakota
+Georgia,South Carolina,13,45,275.4049683,1345,NA,Georgia,South Carolina
+Georgia,Arizona,13,4,2616.636963,1304,2,Georgia,Arizona
+Georgia,Arkansas,13,5,869.3598633,1305,NA,Georgia,Arkansas
+Hawaii,California,15,6,4022.672363,1506,NA,Hawaii,California
+Hawaii,Wisconsin,15,55,6590.166016,1555,NA,Hawaii,Wisconsin
+Hawaii,Idaho,15,16,4674.790039,1516,NA,Hawaii,Idaho
+Hawaii,Minnesota,15,27,6265.077148,1527,NA,Hawaii,Minnesota
+Hawaii,Iowa,15,19,6298.915039,1519,NA,Hawaii,Iowa
+Hawaii,Missouri,15,29,6383.295898,1529,NA,Hawaii,Missouri
+Hawaii,Maryland,15,24,7732.361328,1524,NA,Hawaii,Maryland
+Hawaii,Oregon,15,41,4222.364258,1541,4,Hawaii,Oregon
+Hawaii,Michigan,15,26,6956.138184,1526,NA,Hawaii,Michigan
+Hawaii,Montana,15,30,5141.172852,1530,NA,Hawaii,Montana
+Hawaii,Utah,15,49,4742.124023,1549,4,Hawaii,Utah
+Hawaii,Virginia,15,51,7583.723145,1551,NA,Hawaii,Virginia
+Hawaii,Illinois,15,17,6659.373535,1517,NA,Hawaii,Illinois
+Hawaii,Texas,15,48,5778.883301,1548,NA,Hawaii,Texas
+Hawaii,Louisiana,15,22,6481.215332,1522,1,Hawaii,Louisiana
+Hawaii,Florida,15,12,7425.792969,1512,NA,Hawaii,Florida
+Hawaii,Kentucky,15,21,7015.134277,1521,NA,Hawaii,Kentucky
+Hawaii,Tennessee,15,47,6941.222656,1547,NA,Hawaii,Tennessee
+Hawaii,New York,15,36,7762.315918,1536,NA,Hawaii,New York
+Hawaii,Georgia,15,13,7253.843262,1513,NA,Hawaii,Georgia
+Hawaii,Delaware,15,10,7838.578613,1510,NA,Hawaii,Delaware
+Hawaii,Washington,15,53,4412.047852,1553,3,Hawaii,Washington
+Hawaii,Oklahoma,15,40,5938.425781,1540,NA,Hawaii,Oklahoma
+Hawaii,West Virginia,15,54,7407.125488,1554,NA,Hawaii,West Virginia
+Hawaii,Alaska,15,2,4853.404297,1502,3,Hawaii,Alaska
+Hawaii,Pennsylvania,15,42,7610.177246,1542,NA,Hawaii,Pennsylvania
+Hawaii,Colorado,15,8,5254.520996,1508,NA,Hawaii,Colorado
+Hawaii,North Carolina,15,37,7586.69873,1537,NA,Hawaii,North Carolina
+Hawaii,Indiana,15,18,6908.29248,1518,NA,Hawaii,Indiana
+Hawaii,Kansas,15,20,5868.075195,1520,NA,Hawaii,Kansas
+Hawaii,District of Columbia,15,11,7711.407227,1511,NA,Hawaii,District of Columbia
+Hawaii,Rhode Island,15,44,8109.507324,1544,NA,Hawaii,Rhode Island
+Hawaii,Wyoming,15,56,5172.370605,1556,NA,Hawaii,Wyoming
+Hawaii,Mississippi,15,28,6674.304688,1528,NA,Hawaii,Mississippi
+Hawaii,Massachusetts,15,25,8078.064941,1525,NA,Hawaii,Massachusetts
+Hawaii,Connecticut,15,9,8013.220215,1509,NA,Hawaii,Connecticut
+Hawaii,Vermont,15,50,7965.663086,1550,NA,Hawaii,Vermont
+Hawaii,Maine,15,23,8203.533203,1523,NA,Hawaii,Maine
+Hawaii,New Hampshire,15,33,8059.45752,1533,5,Hawaii,New Hampshire
+Hawaii,New Mexico,15,35,5149.222656,1535,NA,Hawaii,New Mexico
+Hawaii,Ohio,15,39,7199.903809,1539,NA,Hawaii,Ohio
+Hawaii,Alabama,15,1,6937.064941,1501,NA,Hawaii,Alabama
+Hawaii,Nebraska,15,31,5773.96875,1531,NA,Hawaii,Nebraska
+Hawaii,South Dakota,15,46,5780.697754,1546,NA,Hawaii,South Dakota
+Hawaii,Nevada,15,32,4331.310547,1532,1,Hawaii,Nevada
+Hawaii,New Jersey,15,34,7884.536621,1534,NA,Hawaii,New Jersey
+Hawaii,North Dakota,15,38,5820.251465,1538,NA,Hawaii,North Dakota
+Hawaii,South Carolina,15,45,7464.147461,1545,NA,Hawaii,South Carolina
+Hawaii,Arizona,15,4,4641.169434,1504,NA,Hawaii,Arizona
+Hawaii,Arkansas,15,5,6399.21875,1505,NA,Hawaii,Arkansas
+Delaware,California,10,6,3816.062256,1006,NA,Delaware,California
+Delaware,Wisconsin,10,55,1351.544434,1055,NA,Delaware,Wisconsin
+Delaware,Idaho,10,16,3270.498535,1016,NA,Delaware,Idaho
+Delaware,Minnesota,10,27,1732.161377,1027,NA,Delaware,Minnesota
+Delaware,Iowa,10,19,1555.546753,1019,NA,Delaware,Iowa
+Delaware,Missouri,10,29,1471.72168,1029,NA,Delaware,Missouri
+Delaware,Maryland,10,24,107.4141235,1024,1,Delaware,Maryland
+Delaware,Oregon,10,41,3747.472656,1041,NA,Delaware,Oregon
+Delaware,Michigan,10,26,1012.015259,1026,NA,Delaware,Michigan
+Delaware,Montana,10,30,2889.060791,1030,NA,Delaware,Montana
+Delaware,Utah,10,49,3097.972412,1049,NA,Delaware,Utah
+Delaware,Virginia,10,51,331.6217346,1051,NA,Delaware,Virginia
+Delaware,Illinois,10,17,1179.309082,1017,NA,Delaware,Illinois
+Delaware,Texas,10,48,2311.250244,1048,NA,Delaware,Texas
+Delaware,Louisiana,10,22,1736.183594,1022,NA,Delaware,Louisiana
+Delaware,Florida,10,12,1323.623413,1012,NA,Delaware,Florida
+Delaware,Kentucky,10,21,870.5072021,1021,NA,Delaware,Kentucky
+Delaware,Tennessee,10,47,1018.748108,1047,NA,Delaware,Tennessee
+Delaware,New York,10,36,437.6178284,1036,NA,Delaware,New York
+Delaware,Georgia,10,13,1005.202576,1013,NA,Delaware,Georgia
+Delaware,Hawaii,10,15,7838.578613,1015,NA,Delaware,Hawaii
+Delaware,Washington,10,53,3709.770996,1053,NA,Delaware,Washington
+Delaware,Oklahoma,10,40,1977.091309,1040,NA,Delaware,Oklahoma
+Delaware,West Virginia,10,54,445.4169922,1054,NA,Delaware,West Virginia
+Delaware,Alaska,10,2,5559.666992,1002,NA,Delaware,Alaska
+Delaware,Pennsylvania,10,42,286.5632629,1042,8,Delaware,Pennsylvania
+Delaware,Colorado,10,8,2584.677246,1008,NA,Delaware,Colorado
+Delaware,North Carolina,10,37,502.7787781,1037,NA,Delaware,North Carolina
+Delaware,Indiana,10,18,930.4874878,1018,NA,Delaware,Indiana
+Delaware,Kansas,10,20,1979.590454,1020,NA,Delaware,Kansas
+Delaware,District of Columbia,10,11,131.5725555,1011,1,Delaware,District of Columbia
+Delaware,Rhode Island,10,44,448.0723572,1044,NA,Delaware,Rhode Island
+Delaware,Wyoming,10,56,2709.428467,1056,NA,Delaware,Wyoming
+Delaware,Mississippi,10,28,1451.582764,1028,NA,Delaware,Mississippi
+Delaware,Massachusetts,10,25,479.0775452,1025,NA,Delaware,Massachusetts
+Delaware,Connecticut,10,9,374.3122559,1009,NA,Delaware,Connecticut
+Delaware,Vermont,10,50,611.0504761,1050,NA,Delaware,Vermont
+Delaware,Maine,10,23,872.9945068,1023,NA,Delaware,Maine
+Delaware,New Hampshire,10,33,614.6523438,1033,NA,Delaware,New Hampshire
+Delaware,New Mexico,10,35,2762.946533,1035,NA,Delaware,New Mexico
+Delaware,Ohio,10,39,640.7888184,1039,NA,Delaware,Ohio
+Delaware,Alabama,10,1,1231.575439,1001,NA,Delaware,Alabama
+Delaware,Nebraska,10,31,2073.530518,1031,NA,Delaware,Nebraska
+Delaware,South Dakota,10,46,2130.351563,1046,NA,Delaware,South Dakota
+Delaware,Nevada,10,32,3515.046875,1032,NA,Delaware,Nevada
+Delaware,New Jersey,10,34,149.6863556,1034,NA,Delaware,New Jersey
+Delaware,North Dakota,10,38,2217.519775,1038,NA,Delaware,North Dakota
+Delaware,South Carolina,10,45,743.3060303,1045,NA,Delaware,South Carolina
+Delaware,Arizona,10,4,3247.266113,1004,NA,Delaware,Arizona
+Delaware,Arkansas,10,5,1570.476807,1005,NA,Delaware,Arkansas
+Washington,California,53,6,1138.643677,5306,5,Washington,California
+Washington,Wisconsin,53,55,2360.561523,5355,NA,Washington,Wisconsin
+Washington,Idaho,53,16,567.1134644,5316,13,Washington,Idaho
+Washington,Minnesota,53,27,1986.928101,5327,1,Washington,Minnesota
+Washington,Iowa,53,19,2200.966309,5319,NA,Washington,Iowa
+Washington,Missouri,53,29,2478.384521,5329,NA,Washington,Missouri
+Washington,Maryland,53,24,3614.636475,5324,NA,Washington,Maryland
+Washington,Oregon,53,41,384.42276,5341,20,Washington,Oregon
+Washington,Michigan,53,26,2716.662842,5326,NA,Washington,Michigan
+Washington,Montana,53,30,820.8294067,5330,9,Washington,Montana
+Washington,Utah,53,49,1146.471802,5349,4,Washington,Utah
+Washington,Virginia,53,51,3545.018066,5351,NA,Washington,Virginia
+Washington,Illinois,53,17,2624.593262,5317,NA,Washington,Illinois
+Washington,Texas,53,48,2525.876465,5348,1,Washington,Texas
+Washington,Louisiana,53,22,3033.234131,5322,NA,Washington,Louisiana
+Washington,Florida,53,12,3879.315918,5312,4,Washington,Florida
+Washington,Kentucky,53,21,3056.818848,5321,2,Washington,Kentucky
+Washington,Tennessee,53,47,3082.726074,5347,NA,Washington,Tennessee
+Washington,New York,53,36,3512.477783,5336,NA,Washington,New York
+Washington,Georgia,53,13,3512.381348,5313,3,Washington,Georgia
+Washington,Hawaii,53,15,4412.047852,5315,NA,Washington,Hawaii
+Washington,Delaware,53,10,3709.770996,5310,2,Washington,Delaware
+Washington,Oklahoma,53,40,2308.282471,5340,NA,Washington,Oklahoma
+Washington,West Virginia,53,54,3343.929688,5354,NA,Washington,West Virginia
+Washington,Alaska,53,2,2658.046387,5302,14,Washington,Alaska
+Washington,Pennsylvania,53,42,3438.375,5342,NA,Washington,Pennsylvania
+Washington,Colorado,53,8,1525.328979,5308,12,Washington,Colorado
+Washington,North Carolina,53,37,3634.786133,5337,NA,Washington,North Carolina
+Washington,Indiana,53,18,2850.780273,5318,NA,Washington,Indiana
+Washington,Kansas,53,20,2044.180786,5320,13,Washington,Kansas
+Washington,District of Columbia,53,11,3600.82251,5311,2,Washington,District of Columbia
+Washington,Rhode Island,53,44,3868.128418,5344,NA,Washington,Rhode Island
+Washington,Wyoming,53,56,1124.231934,5356,3,Washington,Wyoming
+Washington,Mississippi,53,28,3058.323975,5328,4,Washington,Mississippi
+Washington,Massachusetts,53,25,3823.385742,5325,NA,Washington,Massachusetts
+Washington,Connecticut,53,9,3781.236084,5309,NA,Washington,Connecticut
+Washington,Vermont,53,50,3672.159424,5350,NA,Washington,Vermont
+Washington,Maine,53,23,3869.278076,5323,NA,Washington,Maine
+Washington,New Hampshire,53,33,3769.259521,5333,2,Washington,New Hampshire
+Washington,New Mexico,53,35,1876.892456,5335,1,Washington,New Mexico
+Washington,Ohio,53,39,3092.175781,5339,NA,Washington,Ohio
+Washington,Alabama,53,1,3256.766602,5301,2,Washington,Alabama
+Washington,Nebraska,53,31,1760.523926,5331,NA,Washington,Nebraska
+Washington,South Dakota,53,46,1597.098145,5346,NA,Washington,South Dakota
+Washington,Nevada,53,32,949.1270142,5332,3,Washington,Nevada
+Washington,New Jersey,53,34,3709.486572,5334,NA,Washington,New Jersey
+Washington,North Dakota,53,38,1502.963013,5338,1,Washington,North Dakota
+Washington,South Carolina,53,45,3613.317383,5345,4,Washington,South Carolina
+Washington,Arizona,53,4,1634.61084,5304,NA,Washington,Arizona
+Washington,Arkansas,53,5,2707.457764,5305,NA,Washington,Arkansas
+Oklahoma,California,40,6,1970.981689,4006,1,Oklahoma,California
+Oklahoma,Wisconsin,40,55,1189.081543,4055,NA,Oklahoma,Wisconsin
+Oklahoma,Idaho,40,16,1748.657837,4016,NA,Oklahoma,Idaho
+Oklahoma,Minnesota,40,27,1218.589844,4027,NA,Oklahoma,Minnesota
+Oklahoma,Iowa,40,19,799.8716431,4019,13,Oklahoma,Iowa
+Oklahoma,Missouri,40,29,542.873291,4029,2,Oklahoma,Missouri
+Oklahoma,Maryland,40,24,1870.371582,4024,NA,Oklahoma,Maryland
+Oklahoma,Oregon,40,41,2169.43457,4041,NA,Oklahoma,Oregon
+Oklahoma,Michigan,40,26,1415.860229,4026,NA,Oklahoma,Michigan
+Oklahoma,Montana,40,30,1624.54187,4030,NA,Oklahoma,Montana
+Oklahoma,Utah,40,49,1316.193115,4049,NA,Oklahoma,Utah
+Oklahoma,Virginia,40,51,1680.916626,4051,NA,Oklahoma,Virginia
+Oklahoma,Illinois,40,17,880.4904175,4017,NA,Oklahoma,Illinois
+Oklahoma,Texas,40,48,490.6690369,4048,12,Oklahoma,Texas
+Oklahoma,Louisiana,40,22,725.0892334,4022,2,Oklahoma,Louisiana
+Oklahoma,Florida,40,12,1614.495361,4012,1,Oklahoma,Florida
+Oklahoma,Kentucky,40,21,1109.498657,4021,NA,Oklahoma,Kentucky
+Oklahoma,Tennessee,40,47,1006.10675,4047,NA,Oklahoma,Tennessee
+Oklahoma,New York,40,36,2054.121582,4036,NA,Oklahoma,New York
+Oklahoma,Georgia,40,13,1334.152344,4013,NA,Oklahoma,Georgia
+Oklahoma,Hawaii,40,15,5938.425781,4015,NA,Oklahoma,Hawaii
+Oklahoma,Delaware,40,10,1977.091309,4010,NA,Oklahoma,Delaware
+Oklahoma,Washington,40,53,2308.282471,4053,NA,Oklahoma,Washington
+Oklahoma,West Virginia,40,54,1531.714844,4054,NA,Oklahoma,West Virginia
+Oklahoma,Alaska,40,2,4804.8125,4002,NA,Oklahoma,Alaska
+Oklahoma,Pennsylvania,40,42,1813.228394,4042,NA,Oklahoma,Pennsylvania
+Oklahoma,Colorado,40,8,806.4742432,4008,NA,Oklahoma,Colorado
+Oklahoma,North Carolina,40,37,1653.987793,4037,NA,Oklahoma,North Carolina
+Oklahoma,Indiana,40,18,1094.928711,4018,1,Oklahoma,Indiana
+Oklahoma,Kansas,40,20,332.3666687,4020,8,Oklahoma,Kansas
+Oklahoma,District of Columbia,40,11,1845.518799,4011,NA,Oklahoma,District of Columbia
+Oklahoma,Rhode Island,40,44,2344.033447,4044,NA,Oklahoma,Rhode Island
+Oklahoma,Wyoming,40,56,1193.063721,4056,2,Oklahoma,Wyoming
+Oklahoma,Mississippi,40,28,786.8344116,4028,1,Oklahoma,Mississippi
+Oklahoma,Massachusetts,40,25,2335.835449,4025,NA,Oklahoma,Massachusetts
+Oklahoma,Connecticut,40,9,2245.062744,4009,NA,Oklahoma,Connecticut
+Oklahoma,Vermont,40,50,2308.631836,4050,NA,Oklahoma,Vermont
+Oklahoma,Maine,40,23,2607.671387,4023,NA,Oklahoma,Maine
+Oklahoma,New Hampshire,40,33,2382.12915,4033,4,Oklahoma,New Hampshire
+Oklahoma,New Mexico,40,35,795.6774292,4035,2,Oklahoma,New Mexico
+Oklahoma,Ohio,40,39,1388.79248,4039,NA,Oklahoma,Ohio
+Oklahoma,Alabama,40,1,1028.980957,4001,NA,Oklahoma,Alabama
+Oklahoma,Nebraska,40,31,690.9627075,4031,NA,Oklahoma,Nebraska
+Oklahoma,South Dakota,40,46,1011.599854,4046,NA,Oklahoma,South Dakota
+Oklahoma,Nevada,40,32,1735.941406,4032,NA,Oklahoma,Nevada
+Oklahoma,New Jersey,40,34,2061.335205,4034,NA,Oklahoma,New Jersey
+Oklahoma,North Dakota,40,38,1341.6073,4038,7,Oklahoma,North Dakota
+Oklahoma,South Carolina,40,45,1526.775757,4045,NA,Oklahoma,South Carolina
+Oklahoma,Arizona,40,4,1298.5,4004,NA,Oklahoma,Arizona
+Oklahoma,Arkansas,40,5,465.271759,4005,1,Oklahoma,Arkansas
+West Virginia,California,54,6,3386.704102,5406,NA,West Virginia,California
+West Virginia,Wisconsin,54,55,1023.038757,5455,NA,West Virginia,Wisconsin
+West Virginia,Idaho,54,16,2879.217529,5416,NA,West Virginia,Idaho
+West Virginia,Minnesota,54,27,1404.232666,5427,NA,West Virginia,Minnesota
+West Virginia,Iowa,54,19,1154.227417,5419,NA,West Virginia,Iowa
+West Virginia,Missouri,54,29,1029.848755,5429,NA,West Virginia,Missouri
+West Virginia,Maryland,54,24,338.6922913,5424,NA,West Virginia,Maryland
+West Virginia,Oregon,54,41,3355.024658,5441,NA,West Virginia,Oregon
+West Virginia,Michigan,54,26,747.1394043,5426,NA,West Virginia,Michigan
+West Virginia,Montana,54,30,2525.060303,5430,NA,West Virginia,Montana
+West Virginia,Utah,54,49,2671.790039,5449,NA,West Virginia,Utah
+West Virginia,Virginia,54,51,202.7362213,5451,NA,West Virginia,Virginia
+West Virginia,Illinois,54,17,753.2279053,5417,NA,West Virginia,Illinois
+West Virginia,Texas,54,48,1874.985718,5448,NA,West Virginia,Texas
+West Virginia,Louisiana,54,22,1334.372192,5422,NA,West Virginia,Louisiana
+West Virginia,Florida,54,12,1131.521729,5412,NA,West Virginia,Florida
+West Virginia,Kentucky,54,21,427.5472412,5421,4,West Virginia,Kentucky
+West Virginia,Tennessee,54,47,593.7293091,5447,NA,West Virginia,Tennessee
+West Virginia,New York,54,36,642.7704468,5436,NA,West Virginia,New York
+West Virginia,Georgia,54,13,714.3831787,5413,NA,West Virginia,Georgia
+West Virginia,Hawaii,54,15,7407.125488,5415,NA,West Virginia,Hawaii
+West Virginia,Delaware,54,10,445.4169922,5410,NA,West Virginia,Delaware
+West Virginia,Washington,54,53,3343.929688,5453,NA,West Virginia,Washington
+West Virginia,Oklahoma,54,40,1531.714844,5440,NA,West Virginia,Oklahoma
+West Virginia,Alaska,54,2,5342.88623,5402,NA,West Virginia,Alaska
+West Virginia,Pennsylvania,54,42,346.4032288,5442,NA,West Virginia,Pennsylvania
+West Virginia,Colorado,54,8,2153.033447,5408,NA,West Virginia,Colorado
+West Virginia,North Carolina,54,37,366.560791,5437,2,West Virginia,North Carolina
+West Virginia,Indiana,54,18,506.5555725,5418,NA,West Virginia,Indiana
+West Virginia,Kansas,54,20,1541.352661,5420,NA,West Virginia,Kansas
+West Virginia,District of Columbia,54,11,313.855011,5411,NA,West Virginia,District of Columbia
+West Virginia,Rhode Island,54,44,841.7874146,5444,NA,West Virginia,Rhode Island
+West Virginia,Wyoming,54,56,2306.690186,5456,NA,West Virginia,Wyoming
+West Virginia,Mississippi,54,28,1047.085938,5428,NA,West Virginia,Mississippi
+West Virginia,Massachusetts,54,25,849.5736084,5425,NA,West Virginia,Massachusetts
+West Virginia,Connecticut,54,9,747.8676147,5409,NA,West Virginia,Connecticut
+West Virginia,Vermont,54,50,896.449646,5450,NA,West Virginia,Vermont
+West Virginia,Maine,54,23,1198.120361,5423,NA,West Virginia,Maine
+West Virginia,New Hampshire,54,33,940.7036133,5433,NA,West Virginia,New Hampshire
+West Virginia,New Mexico,54,35,2318.006836,5435,NA,West Virginia,New Mexico
+West Virginia,Ohio,54,39,261.584137,5439,NA,West Virginia,Ohio
+West Virginia,Alabama,54,1,859.6181641,5401,NA,West Virginia,Alabama
+West Virginia,Nebraska,54,31,1658.810059,5431,NA,West Virginia,Nebraska
+West Virginia,South Dakota,54,46,1749.101929,5446,NA,West Virginia,South Dakota
+West Virginia,Nevada,54,32,3092.55835,5432,NA,West Virginia,Nevada
+West Virginia,New Jersey,54,34,539.5774536,5434,NA,West Virginia,New Jersey
+West Virginia,North Dakota,54,38,1878.497192,5438,NA,West Virginia,North Dakota
+West Virginia,South Carolina,54,45,527.1899414,5445,NA,West Virginia,South Carolina
+West Virginia,Arizona,54,4,2804.267334,5404,NA,West Virginia,Arizona
+West Virginia,Arkansas,54,5,1131.265747,5405,NA,West Virginia,Arkansas
+Alaska,California,2,6,3682.293701,206,NA,Alaska,California
+Alaska,Wisconsin,2,55,4346.884766,255,NA,Alaska,Wisconsin
+Alaska,Idaho,2,16,3195.032227,216,2,Alaska,Idaho
+Alaska,Minnesota,2,27,3992.216064,227,NA,Alaska,Minnesota
+Alaska,Iowa,2,19,4400.644531,219,NA,Alaska,Iowa
+Alaska,Missouri,2,29,4789.381348,229,NA,Alaska,Missouri
+Alaska,Maryland,2,24,5496.600098,224,NA,Alaska,Maryland
+Alaska,Oregon,2,41,2977.700195,241,NA,Alaska,Oregon
+Alaska,Michigan,2,26,4597.598633,226,NA,Alaska,Michigan
+Alaska,Montana,2,30,3183.034424,230,NA,Alaska,Montana
+Alaska,Utah,2,49,3799.22876,249,1,Alaska,Utah
+Alaska,Virginia,2,51,5535.725098,251,NA,Alaska,Virginia
+Alaska,Illinois,2,17,4794.84375,217,2,Alaska,Illinois
+Alaska,Texas,2,48,5116.810547,248,NA,Alaska,Texas
+Alaska,Louisiana,2,22,5507.105469,222,3,Alaska,Louisiana
+Alaska,Florida,2,12,6201.169922,212,NA,Alaska,Florida
+Alaska,Kentucky,2,21,5215.626953,221,4,Alaska,Kentucky
+Alaska,Tennessee,2,47,5319.894531,247,NA,Alaska,Tennessee
+Alaska,New York,2,36,5201.49707,236,NA,Alaska,New York
+Alaska,Georgia,2,13,5765.75,213,NA,Alaska,Georgia
+Alaska,Hawaii,2,15,4853.404297,215,5,Alaska,Hawaii
+Alaska,Delaware,2,10,5559.666992,210,NA,Alaska,Delaware
+Alaska,Washington,2,53,2658.046387,253,1,Alaska,Washington
+Alaska,Oklahoma,2,40,4804.8125,240,NA,Alaska,Oklahoma
+Alaska,West Virginia,2,54,5342.88623,254,NA,Alaska,West Virginia
+Alaska,Pennsylvania,2,42,5276.23584,242,NA,Alaska,Pennsylvania
+Alaska,Colorado,2,8,4105.325195,208,NA,Alaska,Colorado
+Alaska,North Carolina,2,37,5699.883789,237,NA,Alaska,North Carolina
+Alaska,Indiana,2,18,4951.144531,218,NA,Alaska,Indiana
+Alaska,Kansas,2,20,4490.457031,220,NA,Alaska,Kansas
+Alaska,District of Columbia,2,11,5494.720703,211,1,Alaska,District of Columbia
+Alaska,Rhode Island,2,44,5506.357422,244,NA,Alaska,Rhode Island
+Alaska,Wyoming,2,56,3642.122559,256,NA,Alaska,Wyoming
+Alaska,Mississippi,2,28,5452.094727,228,NA,Alaska,Mississippi
+Alaska,Massachusetts,2,25,5443.362305,225,NA,Alaska,Massachusetts
+Alaska,Connecticut,2,9,5453.27002,209,NA,Alaska,Connecticut
+Alaska,Vermont,2,50,5235.009277,250,NA,Alaska,Vermont
+Alaska,Maine,2,23,5283.444336,223,NA,Alaska,Maine
+Alaska,New Hampshire,2,33,5321.348145,233,NA,Alaska,New Hampshire
+Alaska,New Mexico,2,35,4518.019043,235,NA,Alaska,New Mexico
+Alaska,Ohio,2,39,5085.88623,239,2,Alaska,Ohio
+Alaska,Alabama,2,1,5586.341309,201,NA,Alaska,Alabama
+Alaska,Nebraska,2,31,4142.960449,231,1,Alaska,Nebraska
+Alaska,South Dakota,2,46,3862.212646,246,NA,Alaska,South Dakota
+Alaska,Nevada,2,32,3584.392822,232,NA,Alaska,Nevada
+Alaska,New Jersey,2,34,5491.665039,234,NA,Alaska,New Jersey
+Alaska,North Dakota,2,38,3591.076416,238,NA,Alaska,North Dakota
+Alaska,South Carolina,2,45,5770.61377,245,NA,Alaska,South Carolina
+Alaska,Arizona,2,4,4288.591309,204,NA,Alaska,Arizona
+Alaska,Arkansas,2,5,5113.195313,205,NA,Alaska,Arkansas
+Pennsylvania,California,42,6,3589.085693,4206,3,Pennsylvania,California
+Pennsylvania,Wisconsin,42,55,1077.815063,4255,NA,Pennsylvania,Wisconsin
+Pennsylvania,Idaho,42,16,3011.398682,4216,2,Pennsylvania,Idaho
+Pennsylvania,Minnesota,42,27,1455.179077,4227,NA,Pennsylvania,Minnesota
+Pennsylvania,Iowa,42,19,1312.477661,4219,NA,Pennsylvania,Iowa
+Pennsylvania,Missouri,42,29,1284.888306,4229,NA,Pennsylvania,Missouri
+Pennsylvania,Maryland,42,24,224.5596466,4224,NA,Pennsylvania,Maryland
+Pennsylvania,Oregon,42,41,3488.080566,4241,9,Pennsylvania,Oregon
+Pennsylvania,Michigan,42,26,729.777771,4226,3,Pennsylvania,Michigan
+Pennsylvania,Montana,42,30,2618.491211,4230,5,Pennsylvania,Montana
+Pennsylvania,Utah,42,49,2868.546631,4249,NA,Pennsylvania,Utah
+Pennsylvania,Virginia,42,51,383.388092,4251,NA,Pennsylvania,Virginia
+Pennsylvania,Illinois,42,17,967.994873,4217,NA,Pennsylvania,Illinois
+Pennsylvania,Texas,42,48,2188.731201,4248,4,Pennsylvania,Texas
+Pennsylvania,Louisiana,42,22,1675.964966,4222,NA,Pennsylvania,Louisiana
+Pennsylvania,Florida,42,12,1431.460083,4212,3,Pennsylvania,Florida
+Pennsylvania,Kentucky,42,21,745.2521973,4221,NA,Pennsylvania,Kentucky
+Pennsylvania,Tennessee,42,47,930.3938599,4247,NA,Pennsylvania,Tennessee
+Pennsylvania,New York,42,36,297.2623901,4236,8,Pennsylvania,New York
+Pennsylvania,Georgia,42,13,1044.276855,4213,9,Pennsylvania,Georgia
+Pennsylvania,Hawaii,42,15,7610.177246,4215,NA,Pennsylvania,Hawaii
+Pennsylvania,Delaware,42,10,286.5632629,4210,22,Pennsylvania,Delaware
+Pennsylvania,Washington,42,53,3438.375,4253,NA,Pennsylvania,Washington
+Pennsylvania,Oklahoma,42,40,1813.228394,4240,NA,Pennsylvania,Oklahoma
+Pennsylvania,West Virginia,42,54,346.4032288,4254,6,Pennsylvania,West Virginia
+Pennsylvania,Alaska,42,2,5276.23584,4202,5,Pennsylvania,Alaska
+Pennsylvania,Colorado,42,8,2365.049316,4208,1,Pennsylvania,Colorado
+Pennsylvania,North Carolina,42,37,604.3631592,4237,NA,Pennsylvania,North Carolina
+Pennsylvania,Indiana,42,18,726.3543701,4218,NA,Pennsylvania,Indiana
+Pennsylvania,Kansas,42,20,1776.498169,4220,NA,Pennsylvania,Kansas
+Pennsylvania,District of Columbia,42,11,229.4723206,4211,3,Pennsylvania,District of Columbia
+Pennsylvania,Rhode Island,42,44,530.8754272,4244,2,Pennsylvania,Rhode Island
+Pennsylvania,Wyoming,42,56,2459.23877,4256,NA,Pennsylvania,Wyoming
+Pennsylvania,Mississippi,42,28,1388.969116,4228,1,Pennsylvania,Mississippi
+Pennsylvania,Massachusetts,42,25,524.9759521,4225,5,Pennsylvania,Massachusetts
+Pennsylvania,Connecticut,42,9,431.8347778,4209,4,Pennsylvania,Connecticut
+Pennsylvania,Vermont,42,50,550.3634033,4250,9,Pennsylvania,Vermont
+Pennsylvania,Maine,42,23,853.3825684,4223,NA,Pennsylvania,Maine
+Pennsylvania,New Hampshire,42,33,598.7718506,4233,NA,Pennsylvania,New Hampshire
+Pennsylvania,New Mexico,42,35,2581.915039,4235,NA,Pennsylvania,New Mexico
+Pennsylvania,Ohio,42,39,426.8868103,4239,1,Pennsylvania,Ohio
+Pennsylvania,Alabama,42,1,1206.002319,4201,NA,Pennsylvania,Alabama
+Pennsylvania,Nebraska,42,31,1836.474487,4231,2,Pennsylvania,Nebraska
+Pennsylvania,South Dakota,42,46,1869.95813,4246,1,Pennsylvania,South Dakota
+Pennsylvania,Nevada,42,32,3280.018311,4232,NA,Pennsylvania,Nevada
+Pennsylvania,New Jersey,42,34,276.1923523,4234,5,Pennsylvania,New Jersey
+Pennsylvania,North Dakota,42,38,1941.182251,4238,NA,Pennsylvania,North Dakota
+Pennsylvania,South Carolina,42,45,821.7792358,4245,NA,Pennsylvania,South Carolina
+Pennsylvania,Arizona,42,4,3052.581299,4204,1,Pennsylvania,Arizona
+Pennsylvania,Arkansas,42,5,1444.431763,4205,NA,Pennsylvania,Arkansas
+Colorado,California,8,6,1234.065552,806,14,Colorado,California
+Colorado,Wisconsin,8,55,1429.958252,855,4,Colorado,Wisconsin
+Colorado,Idaho,8,16,958.8483887,816,4,Colorado,Idaho
+Colorado,Minnesota,8,27,1223.514038,827,NA,Colorado,Minnesota
+Colorado,Iowa,8,19,1073.399414,819,NA,Colorado,Iowa
+Colorado,Missouri,8,29,1137.469849,829,NA,Colorado,Missouri
+Colorado,Maryland,8,24,2478.197266,824,NA,Colorado,Maryland
+Colorado,Oregon,8,41,1363.678101,841,NA,Colorado,Oregon
+Colorado,Michigan,8,26,1771.781128,826,NA,Colorado,Michigan
+Colorado,Montana,8,30,954.9614868,830,NA,Colorado,Montana
+Colorado,Utah,8,49,528.947998,849,3,Colorado,Utah
+Colorado,Virginia,8,51,2333.016113,851,10,Colorado,Virginia
+Colorado,Illinois,8,17,1405.417725,817,NA,Colorado,Illinois
+Colorado,Texas,8,48,1013.067383,848,3,Colorado,Texas
+Colorado,Louisiana,8,22,1522.325806,822,NA,Colorado,Louisiana
+Colorado,Florida,8,12,2418.209229,812,NA,Colorado,Florida
+Colorado,Kentucky,8,21,1771.471069,821,NA,Colorado,Kentucky
+Colorado,Tennessee,8,47,1727.460205,847,2,Colorado,Tennessee
+Colorado,New York,8,36,2546.399414,836,NA,Colorado,New York
+Colorado,Georgia,8,13,2109.187988,813,10,Colorado,Georgia
+Colorado,Hawaii,8,15,5254.520996,815,1,Colorado,Hawaii
+Colorado,Delaware,8,10,2584.677246,810,NA,Colorado,Delaware
+Colorado,Washington,8,53,1525.328979,853,NA,Colorado,Washington
+Colorado,Oklahoma,8,40,806.4742432,840,NA,Colorado,Oklahoma
+Colorado,West Virginia,8,54,2153.033447,854,NA,Colorado,West Virginia
+Colorado,Alaska,8,2,4105.325195,802,NA,Colorado,Alaska
+Colorado,Pennsylvania,8,42,2365.049316,842,NA,Colorado,Pennsylvania
+Colorado,North Carolina,8,37,2355.736816,837,NA,Colorado,North Carolina
+Colorado,Indiana,8,18,1654.190063,818,NA,Colorado,Indiana
+Colorado,Kansas,8,20,624.1800537,820,4,Colorado,Kansas
+Colorado,District of Columbia,8,11,2457.025391,811,NA,Colorado,District of Columbia
+Colorado,Rhode Island,8,44,2879.830566,844,NA,Colorado,Rhode Island
+Colorado,Wyoming,8,56,475.3320313,856,17,Colorado,Wyoming
+Colorado,Mississippi,8,28,1588.506836,828,1,Colorado,Mississippi
+Colorado,Massachusetts,8,25,2856.001465,825,NA,Colorado,Massachusetts
+Colorado,Connecticut,8,9,2781.29248,809,NA,Colorado,Connecticut
+Colorado,Vermont,8,50,2775.112305,850,NA,Colorado,Vermont
+Colorado,Maine,8,23,3047.814941,823,NA,Colorado,Maine
+Colorado,New Hampshire,8,33,2862.574951,833,1,Colorado,New Hampshire
+Colorado,New Mexico,8,35,512.8512573,835,8,Colorado,New Mexico
+Colorado,Ohio,8,39,1948.02002,839,NA,Colorado,Ohio
+Colorado,Alabama,8,1,1818.230225,801,NA,Colorado,Alabama
+Colorado,Nebraska,8,31,563.8140259,831,4,Colorado,Nebraska
+Colorado,South Dakota,8,46,749.1990967,846,8,Colorado,South Dakota
+Colorado,Nevada,8,32,955.7073975,832,3,Colorado,Nevada
+Colorado,New Jersey,8,34,2636.460938,834,NA,Colorado,New Jersey
+Colorado,North Dakota,8,38,1025.613647,838,NA,Colorado,North Dakota
+Colorado,South Carolina,8,45,2269.205811,845,2,Colorado,South Carolina
+Colorado,Arizona,8,4,756.7660522,804,8,Colorado,Arizona
+Colorado,Arkansas,8,5,1249.3927,805,NA,Colorado,Arkansas
+North Carolina,California,37,6,3585.036621,3706,2,North Carolina,California
+North Carolina,Wisconsin,37,55,1362.762329,3755,NA,North Carolina,Wisconsin
+North Carolina,Idaho,37,16,3146.59375,3716,NA,North Carolina,Idaho
+North Carolina,Minnesota,37,27,1737.395874,3727,NA,North Carolina,Minnesota
+North Carolina,Iowa,37,19,1433.919434,3719,1,North Carolina,Iowa
+North Carolina,Missouri,37,29,1219.12146,3729,NA,North Carolina,Missouri
+North Carolina,Maryland,37,24,442.568634,3724,NA,North Carolina,Maryland
+North Carolina,Oregon,37,41,3618.096191,3741,NA,North Carolina,Oregon
+North Carolina,Michigan,37,26,1110.217896,3726,NA,North Carolina,Michigan
+North Carolina,Montana,37,30,2822.411621,3730,5,North Carolina,Montana
+North Carolina,Utah,37,49,2883.29834,3749,NA,North Carolina,Utah
+North Carolina,Virginia,37,51,221.2590179,3751,10,North Carolina,Virginia
+North Carolina,Illinois,37,17,1010.711853,3717,NA,North Carolina,Illinois
+North Carolina,Texas,37,48,1917.282837,3748,11,North Carolina,Texas
+North Carolina,Louisiana,37,22,1286.999756,3722,4,North Carolina,Louisiana
+North Carolina,Florida,37,12,834.1593018,3712,5,North Carolina,Florida
+North Carolina,Kentucky,37,21,589.2802124,3721,1,North Carolina,Kentucky
+North Carolina,Tennessee,37,47,647.9067993,3747,11,North Carolina,Tennessee
+North Carolina,New York,37,36,879.550293,3736,2,North Carolina,New York
+North Carolina,Georgia,37,13,508.2759705,3713,NA,North Carolina,Georgia
+North Carolina,Hawaii,37,15,7586.69873,3715,1,North Carolina,Hawaii
+North Carolina,Delaware,37,10,502.7787781,3710,1,North Carolina,Delaware
+North Carolina,Washington,37,53,3634.786133,3753,5,North Carolina,Washington
+North Carolina,Oklahoma,37,40,1653.987793,3740,NA,North Carolina,Oklahoma
+North Carolina,West Virginia,37,54,366.560791,3754,5,North Carolina,West Virginia
+North Carolina,Alaska,37,2,5699.883789,3702,1,North Carolina,Alaska
+North Carolina,Pennsylvania,37,42,604.3631592,3742,6,North Carolina,Pennsylvania
+North Carolina,Colorado,37,8,2355.736816,3708,NA,North Carolina,Colorado
+North Carolina,Indiana,37,18,788.8482056,3718,NA,North Carolina,Indiana
+North Carolina,Kansas,37,20,1731.974243,3720,1,North Carolina,Kansas
+North Carolina,District of Columbia,37,11,419.0049744,3711,3,North Carolina,District of Columbia
+North Carolina,Rhode Island,37,44,949.604126,3744,NA,North Carolina,Rhode Island
+North Carolina,Wyoming,37,56,2564.023193,3756,NA,North Carolina,Wyoming
+North Carolina,Mississippi,37,28,1013.7677,3728,NA,North Carolina,Mississippi
+North Carolina,Massachusetts,37,25,981.7797852,3725,NA,North Carolina,Massachusetts
+North Carolina,Connecticut,37,9,876.6929932,3709,2,North Carolina,Connecticut
+North Carolina,Vermont,37,50,1097.500122,3750,NA,North Carolina,Vermont
+North Carolina,Maine,37,23,1373.199707,3723,3,North Carolina,Maine
+North Carolina,New Hampshire,37,33,1112.682983,3733,NA,North Carolina,New Hampshire
+North Carolina,New Mexico,37,35,2449.398926,3735,NA,North Carolina,New Mexico
+North Carolina,Ohio,37,39,614.8154907,3739,1,North Carolina,Ohio
+North Carolina,Alabama,37,1,768.2337646,3701,1,North Carolina,Alabama
+North Carolina,Nebraska,37,31,1906.503662,3731,NA,North Carolina,Nebraska
+North Carolina,South Dakota,37,46,2038.743652,3746,NA,North Carolina,South Dakota
+North Carolina,Nevada,37,32,3309.181152,3732,3,North Carolina,Nevada
+North Carolina,New Jersey,37,34,649.4401245,3734,NA,North Carolina,New Jersey
+North Carolina,North Dakota,37,38,2199.618652,3738,NA,North Carolina,North Dakota
+North Carolina,South Carolina,37,45,240.5979767,3745,2,North Carolina,South Carolina
+North Carolina,Arizona,37,4,2951.563965,3704,3,North Carolina,Arizona
+North Carolina,Arkansas,37,5,1205.886475,3705,NA,North Carolina,Arkansas
+Indiana,California,18,6,2886.027832,1806,1,Indiana,California
+Indiana,Wisconsin,18,55,608.2179565,1855,NA,Indiana,Wisconsin
+Indiana,Idaho,18,16,2376.004883,1816,NA,Indiana,Idaho
+Indiana,Minnesota,18,27,962.8427124,1827,NA,Indiana,Minnesota
+Indiana,Iowa,18,19,652.0549316,1819,NA,Indiana,Iowa
+Indiana,Missouri,18,29,559.4719238,1829,1,Indiana,Missouri
+Indiana,Maryland,18,24,824.0776978,1824,NA,Indiana,Maryland
+Indiana,Oregon,18,41,2851.055664,1841,NA,Indiana,Oregon
+Indiana,Michigan,18,26,500.0511475,1826,4,Indiana,Michigan
+Indiana,Montana,18,30,2035.562866,1830,NA,Indiana,Montana
+Indiana,Utah,18,49,2168.932617,1849,NA,Indiana,Utah
+Indiana,Virginia,18,51,700.6970825,1851,1,Indiana,Virginia
+Indiana,Illinois,18,17,248.9415131,1817,3,Indiana,Illinois
+Indiana,Texas,18,48,1502.879272,1848,NA,Indiana,Texas
+Indiana,Louisiana,18,22,1111.664429,1822,NA,Indiana,Louisiana
+Indiana,Florida,18,12,1305.867432,1812,2,Indiana,Florida
+Indiana,Kentucky,18,21,275.813385,1821,5,Indiana,Kentucky
+Indiana,Tennessee,18,47,448.7632141,1847,NA,Indiana,Tennessee
+Indiana,New York,18,36,959.4337158,1836,NA,Indiana,New York
+Indiana,Georgia,18,13,846.2258301,1813,NA,Indiana,Georgia
+Indiana,Hawaii,18,15,6908.29248,1815,NA,Indiana,Hawaii
+Indiana,Delaware,18,10,930.4874878,1810,1,Indiana,Delaware
+Indiana,Washington,18,53,2850.780273,1853,NA,Indiana,Washington
+Indiana,Oklahoma,18,40,1094.928711,1840,NA,Indiana,Oklahoma
+Indiana,West Virginia,18,54,506.5555725,1854,NA,Indiana,West Virginia
+Indiana,Alaska,18,2,4951.144531,1802,1,Indiana,Alaska
+Indiana,Pennsylvania,18,42,726.3543701,1842,2,Indiana,Pennsylvania
+Indiana,Colorado,18,8,1654.190063,1808,2,Indiana,Colorado
+Indiana,North Carolina,18,37,788.8482056,1837,NA,Indiana,North Carolina
+Indiana,Kansas,18,20,1053.164307,1820,NA,Indiana,Kansas
+Indiana,District of Columbia,18,11,803.2275391,1811,1,Indiana,District of Columbia
+Indiana,Rhode Island,18,44,1255.759766,1844,NA,Indiana,Rhode Island
+Indiana,Wyoming,18,56,1801.027832,1856,NA,Indiana,Wyoming
+Indiana,Mississippi,18,28,851.5330811,1828,1,Indiana,Mississippi
+Indiana,Massachusetts,18,25,1243.691772,1825,NA,Indiana,Massachusetts
+Indiana,Connecticut,18,9,1156.303833,1809,NA,Indiana,Connecticut
+Indiana,Vermont,18,50,1215.506958,1850,NA,Indiana,Vermont
+Indiana,Maine,18,23,1517.130127,1823,NA,Indiana,Maine
+Indiana,New Hampshire,18,33,1287.403198,1833,NA,Indiana,New Hampshire
+Indiana,New Mexico,18,35,1855.746948,1835,NA,Indiana,New Mexico
+Indiana,Ohio,18,39,299.7203674,1839,NA,Indiana,Ohio
+Indiana,Alabama,18,1,792.9915161,1801,NA,Indiana,Alabama
+Indiana,Nebraska,18,31,1152.276367,1831,1,Indiana,Nebraska
+Indiana,South Dakota,18,46,1253.682373,1846,NA,Indiana,South Dakota
+Indiana,Nevada,18,32,2588.102051,1832,NA,Indiana,Nevada
+Indiana,New Jersey,18,34,988.8826294,1834,NA,Indiana,New Jersey
+Indiana,North Dakota,18,38,1413.251343,1838,6,Indiana,North Dakota
+Indiana,South Carolina,18,45,820.0612793,1845,2,Indiana,South Carolina
+Indiana,Arizona,18,4,2327.513916,1804,NA,Indiana,Arizona
+Indiana,Arkansas,18,5,777.6072998,1805,NA,Indiana,Arkansas
+Kansas,California,20,6,1854.232788,2006,3,Kansas,California
+Kansas,Wisconsin,20,55,974.5526123,2055,NA,Kansas,Wisconsin
+Kansas,Idaho,20,16,1498.630127,2016,NA,Kansas,Idaho
+Kansas,Minnesota,20,27,928.0962524,2027,NA,Kansas,Minnesota
+Kansas,Iowa,20,19,574.3696899,2019,1,Kansas,Iowa
+Kansas,Missouri,20,29,515.7365112,2029,15,Kansas,Missouri
+Kansas,Maryland,20,24,1872.38147,2024,NA,Kansas,Maryland
+Kansas,Oregon,20,41,1944.847046,2041,NA,Kansas,Oregon
+Kansas,Michigan,20,26,1261.556763,2026,NA,Kansas,Michigan
+Kansas,Montana,20,30,1320.104126,2030,NA,Kansas,Montana
+Kansas,Utah,20,49,1152.794922,2049,NA,Kansas,Utah
+Kansas,Virginia,20,51,1715.669189,2051,5,Kansas,Virginia
+Kansas,Illinois,20,17,808.5045166,2017,NA,Kansas,Illinois
+Kansas,Texas,20,48,788.6671143,2048,1,Kansas,Texas
+Kansas,Louisiana,20,22,1018.518372,2022,NA,Kansas,Louisiana
+Kansas,Florida,20,12,1837.523804,2012,NA,Kansas,Florida
+Kansas,Kentucky,20,21,1149.610962,2021,NA,Kansas,Kentucky
+Kansas,Tennessee,20,47,1104.407471,2047,NA,Kansas,Tennessee
+Kansas,New York,20,36,1983.364014,2036,NA,Kansas,New York
+Kansas,Georgia,20,13,1497.936646,2013,6,Kansas,Georgia
+Kansas,Hawaii,20,15,5868.075195,2015,NA,Kansas,Hawaii
+Kansas,Delaware,20,10,1979.590454,2010,NA,Kansas,Delaware
+Kansas,Washington,20,53,2044.180786,2053,NA,Kansas,Washington
+Kansas,Oklahoma,20,40,332.3666687,2040,7,Kansas,Oklahoma
+Kansas,West Virginia,20,54,1541.352661,2054,1,Kansas,West Virginia
+Kansas,Alaska,20,2,4490.457031,2002,NA,Kansas,Alaska
+Kansas,Pennsylvania,20,42,1776.498169,2042,NA,Kansas,Pennsylvania
+Kansas,Colorado,20,8,624.1800537,2008,1,Kansas,Colorado
+Kansas,North Carolina,20,37,1731.974243,2037,1,Kansas,North Carolina
+Kansas,Indiana,20,18,1053.164307,2018,2,Kansas,Indiana
+Kansas,District of Columbia,20,11,1850.0354,2011,NA,Kansas,District of Columbia
+Kansas,Rhode Island,20,44,2301.545166,2044,NA,Kansas,Rhode Island
+Kansas,Wyoming,20,56,919.9590454,2056,2,Kansas,Wyoming
+Kansas,Mississippi,20,28,1014.162659,2028,NA,Kansas,Mississippi
+Kansas,Massachusetts,20,25,2283.859619,2025,1,Kansas,Massachusetts
+Kansas,Connecticut,20,9,2202.137207,2009,NA,Kansas,Connecticut
+Kansas,Vermont,20,50,2225.800781,2050,NA,Kansas,Vermont
+Kansas,Maine,20,23,2513.294189,2023,NA,Kansas,Maine
+Kansas,New Hampshire,20,33,2307.636475,2033,NA,Kansas,New Hampshire
+Kansas,New Mexico,20,35,827.2678223,2035,NA,Kansas,New Mexico
+Kansas,Ohio,20,39,1352.006226,2039,NA,Kansas,Ohio
+Kansas,Alabama,20,1,1220.553955,2001,NA,Kansas,Alabama
+Kansas,Nebraska,20,31,359.324585,2031,NA,Kansas,Nebraska
+Kansas,South Dakota,20,46,679.3002319,2046,NA,Kansas,South Dakota
+Kansas,Nevada,20,32,1579.426514,2032,NA,Kansas,Nevada
+Kansas,New Jersey,20,34,2041.975952,2034,NA,Kansas,New Jersey
+Kansas,North Dakota,20,38,1010.169067,2038,NA,Kansas,North Dakota
+Kansas,South Carolina,20,45,1646.977051,2045,NA,Kansas,South Carolina
+Kansas,Arizona,20,4,1276.747925,2004,1,Kansas,Arizona
+Kansas,Arkansas,20,5,663.322937,2005,NA,Kansas,Arkansas
+District of Columbia,California,11,6,3689.251953,1106,1,District of Columbia,California
+District of Columbia,Wisconsin,11,55,1247.954468,1155,NA,District of Columbia,Wisconsin
+District of Columbia,Idaho,11,16,3154.199463,1116,NA,District of Columbia,Idaho
+District of Columbia,Minnesota,11,27,1630.526855,1127,NA,District of Columbia,Minnesota
+District of Columbia,Iowa,11,19,1434.907837,1119,NA,District of Columbia,Iowa
+District of Columbia,Missouri,11,29,1341.125122,1129,NA,District of Columbia,Missouri
+District of Columbia,Maryland,11,24,27.43633461,1124,4,District of Columbia,Maryland
+District of Columbia,Oregon,11,41,3631.064453,1141,NA,District of Columbia,Oregon
+District of Columbia,Michigan,11,26,920.5049438,1126,1,District of Columbia,Michigan
+District of Columbia,Montana,11,30,2780.012451,1130,NA,District of Columbia,Montana
+District of Columbia,Utah,11,49,2971.9375,1149,NA,District of Columbia,Utah
+District of Columbia,Virginia,11,51,218.9772797,1151,3,District of Columbia,Virginia
+District of Columbia,Illinois,11,17,1052.167603,1117,NA,District of Columbia,Illinois
+District of Columbia,Texas,11,48,2181.748047,1148,NA,District of Columbia,Texas
+District of Columbia,Louisiana,11,22,1614.596558,1122,NA,District of Columbia,Louisiana
+District of Columbia,Florida,11,12,1252.489258,1112,NA,District of Columbia,Florida
+District of Columbia,Kentucky,11,21,739.2416992,1121,NA,District of Columbia,Kentucky
+District of Columbia,Tennessee,11,47,890.7836914,1147,NA,District of Columbia,Tennessee
+District of Columbia,New York,11,36,465.8070679,1136,3,District of Columbia,New York
+District of Columbia,Georgia,11,13,905.4277954,1113,NA,District of Columbia,Georgia
+District of Columbia,Hawaii,11,15,7711.407227,1115,NA,District of Columbia,Hawaii
+District of Columbia,Delaware,11,10,131.5725555,1110,NA,District of Columbia,Delaware
+District of Columbia,Washington,11,53,3600.82251,1153,NA,District of Columbia,Washington
+District of Columbia,Oklahoma,11,40,1845.518799,1140,NA,District of Columbia,Oklahoma
+District of Columbia,West Virginia,11,54,313.855011,1154,NA,District of Columbia,West Virginia
+District of Columbia,Alaska,11,2,5494.720703,1102,NA,District of Columbia,Alaska
+District of Columbia,Pennsylvania,11,42,229.4723206,1142,NA,District of Columbia,Pennsylvania
+District of Columbia,Colorado,11,8,2457.025391,1108,NA,District of Columbia,Colorado
+District of Columbia,North Carolina,11,37,419.0049744,1137,2,District of Columbia,North Carolina
+District of Columbia,Indiana,11,18,803.2275391,1118,NA,District of Columbia,Indiana
+District of Columbia,Kansas,11,20,1850.0354,1120,NA,District of Columbia,Kansas
+District of Columbia,Rhode Island,11,44,557.046936,1144,NA,District of Columbia,Rhode Island
+District of Columbia,Wyoming,11,56,2589.669189,1156,NA,District of Columbia,Wyoming
+District of Columbia,Mississippi,11,28,1328.876343,1128,NA,District of Columbia,Mississippi
+District of Columbia,Massachusetts,11,25,578.4813843,1125,1,District of Columbia,Massachusetts
+District of Columbia,Connecticut,11,9,472.7073364,1109,5,District of Columbia,Connecticut
+District of Columbia,Vermont,11,50,678.8424683,1150,NA,District of Columbia,Vermont
+District of Columbia,Maine,11,23,960.1173706,1123,NA,District of Columbia,Maine
+District of Columbia,New Hampshire,11,33,698.4333496,1133,NA,District of Columbia,New Hampshire
+District of Columbia,New Mexico,11,35,2631.569336,1135,NA,District of Columbia,New Mexico
+District of Columbia,Ohio,11,39,518.4968872,1139,NA,District of Columbia,Ohio
+District of Columbia,Alabama,11,1,1115.467041,1101,NA,District of Columbia,Alabama
+District of Columbia,Nebraska,11,31,1950.150391,1131,NA,District of Columbia,Nebraska
+District of Columbia,South Dakota,11,46,2015.780396,1146,NA,District of Columbia,South Dakota
+District of Columbia,Nevada,11,32,3390.131836,1132,4,District of Columbia,Nevada
+District of Columbia,New Jersey,11,34,246.6905365,1134,NA,District of Columbia,New Jersey
+District of Columbia,North Dakota,11,38,2114.292725,1138,NA,District of Columbia,North Dakota
+District of Columbia,South Carolina,11,45,654.786377,1145,NA,District of Columbia,South Carolina
+District of Columbia,Arizona,11,4,3116.490967,1104,NA,District of Columbia,Arizona
+District of Columbia,Arkansas,11,5,1440.138916,1105,NA,District of Columbia,Arkansas
+Rhode Island,California,44,6,4094.937256,4406,NA,Rhode Island,California
+Rhode Island,Wisconsin,44,55,1529.959229,4455,NA,Rhode Island,Wisconsin
+Rhode Island,Idaho,44,16,3475.306152,4416,NA,Rhode Island,Idaho
+Rhode Island,Minnesota,44,27,1885.859253,4427,NA,Rhode Island,Minnesota
+Rhode Island,Iowa,44,19,1814.207764,4419,NA,Rhode Island,Iowa
+Rhode Island,Missouri,44,29,1814.987549,4429,NA,Rhode Island,Missouri
+Rhode Island,Maryland,44,24,529.7105103,4424,NA,Rhode Island,Maryland
+Rhode Island,Oregon,44,41,3949.175537,4441,NA,Rhode Island,Oregon
+Rhode Island,Michigan,44,26,1163.387451,4426,NA,Rhode Island,Michigan
+Rhode Island,Montana,44,30,3056.210205,4430,NA,Rhode Island,Montana
+Rhode Island,Utah,44,49,3374.032227,4449,NA,Rhode Island,Utah
+Rhode Island,Virginia,44,51,774.076355,4451,NA,Rhode Island,Virginia
+Rhode Island,Illinois,44,17,1493.936646,4417,NA,Rhode Island,Illinois
+Rhode Island,Texas,44,48,2712.647217,4448,NA,Rhode Island,Texas
+Rhode Island,Louisiana,44,22,2168.735596,4422,NA,Rhode Island,Louisiana
+Rhode Island,Florida,44,12,1758.053223,4412,NA,Rhode Island,Florida
+Rhode Island,Kentucky,44,21,1264.020386,4421,NA,Rhode Island,Kentucky
+Rhode Island,Tennessee,44,47,1434.944092,4447,NA,Rhode Island,Tennessee
+Rhode Island,New York,44,36,355.8281555,4436,NA,Rhode Island,New York
+Rhode Island,Georgia,44,13,1453.269409,4413,NA,Rhode Island,Georgia
+Rhode Island,Hawaii,44,15,8109.507324,4415,NA,Rhode Island,Hawaii
+Rhode Island,Delaware,44,10,448.0723572,4410,NA,Rhode Island,Delaware
+Rhode Island,Washington,44,53,3868.128418,4453,NA,Rhode Island,Washington
+Rhode Island,Oklahoma,44,40,2344.033447,4440,NA,Rhode Island,Oklahoma
+Rhode Island,West Virginia,44,54,841.7874146,4454,NA,Rhode Island,West Virginia
+Rhode Island,Alaska,44,2,5506.357422,4402,NA,Rhode Island,Alaska
+Rhode Island,Pennsylvania,44,42,530.8754272,4442,NA,Rhode Island,Pennsylvania
+Rhode Island,Colorado,44,8,2879.830566,4408,NA,Rhode Island,Colorado
+Rhode Island,North Carolina,44,37,949.604126,4437,NA,Rhode Island,North Carolina
+Rhode Island,Indiana,44,18,1255.759766,4418,NA,Rhode Island,Indiana
+Rhode Island,Kansas,44,20,2301.545166,4420,NA,Rhode Island,Kansas
+Rhode Island,District of Columbia,44,11,557.046936,4411,2,Rhode Island,District of Columbia
+Rhode Island,Wyoming,44,56,2941.954102,4456,NA,Rhode Island,Wyoming
+Rhode Island,Mississippi,44,28,1882.125366,4428,NA,Rhode Island,Mississippi
+Rhode Island,Massachusetts,44,25,66.61862183,4425,6,Rhode Island,Massachusetts
+Rhode Island,Connecticut,44,9,99.50639343,4409,NA,Rhode Island,Connecticut
+Rhode Island,Vermont,44,50,283.1242065,4450,NA,Rhode Island,Vermont
+Rhode Island,Maine,44,23,448.3034363,4423,NA,Rhode Island,Maine
+Rhode Island,New Hampshire,44,33,224.3445892,4433,NA,Rhode Island,New Hampshire
+Rhode Island,New Mexico,44,35,3111.421631,4435,NA,Rhode Island,New Mexico
+Rhode Island,Ohio,44,39,957.0843506,4439,1,Rhode Island,Ohio
+Rhode Island,Alabama,44,1,1672.499878,4401,NA,Rhode Island,Alabama
+Rhode Island,Nebraska,44,31,2339.484863,4431,NA,Rhode Island,Nebraska
+Rhode Island,South Dakota,44,46,2339.781982,4446,NA,Rhode Island,South Dakota
+Rhode Island,Nevada,44,32,3778.736328,4432,NA,Rhode Island,Nevada
+Rhode Island,New Jersey,44,34,310.3905945,4434,NA,Rhode Island,New Jersey
+Rhode Island,North Dakota,44,38,2365.790527,4438,NA,Rhode Island,North Dakota
+Rhode Island,South Carolina,44,45,1190.16748,4445,NA,Rhode Island,South Carolina
+Rhode Island,Arizona,44,4,3578.290771,4404,NA,Rhode Island,Arizona
+Rhode Island,Arkansas,44,5,1967.825562,4405,NA,Rhode Island,Arkansas
+Wyoming,California,56,6,1201.049805,5606,NA,Wyoming,California
+Wyoming,Wisconsin,56,55,1417.795288,5655,NA,Wyoming,Wisconsin
+Wyoming,Idaho,56,16,587.3396606,5616,2,Wyoming,Idaho
+Wyoming,Minnesota,56,27,1108.474365,5627,NA,Wyoming,Minnesota
+Wyoming,Iowa,56,19,1154.877808,5619,NA,Wyoming,Iowa
+Wyoming,Missouri,56,29,1370.812744,5629,NA,Wyoming,Missouri
+Wyoming,Maryland,56,24,2607.259033,5624,NA,Wyoming,Maryland
+Wyoming,Oregon,56,41,1054.16687,5641,2,Wyoming,Oregon
+Wyoming,Michigan,56,26,1783.973022,5626,NA,Wyoming,Michigan
+Wyoming,Montana,56,30,479.8045349,5630,1,Wyoming,Montana
+Wyoming,Utah,56,49,535.8556519,5649,2,Wyoming,Utah
+Wyoming,Virginia,56,51,2501.476318,5651,NA,Wyoming,Virginia
+Wyoming,Illinois,56,17,1559.768188,5617,NA,Wyoming,Illinois
+Wyoming,Texas,56,48,1476.050781,5648,NA,Wyoming,Texas
+Wyoming,Louisiana,56,22,1917.210083,5622,NA,Wyoming,Louisiana
+Wyoming,Florida,56,12,2756.143066,5612,NA,Wyoming,Florida
+Wyoming,Kentucky,56,21,1976.322632,5621,NA,Wyoming,Kentucky
+Wyoming,Tennessee,56,47,1979.430664,5647,NA,Wyoming,Tennessee
+Wyoming,New York,56,36,2591.770996,5636,NA,Wyoming,New York
+Wyoming,Georgia,56,13,2399.085938,5613,NA,Wyoming,Georgia
+Wyoming,Hawaii,56,15,5172.370605,5615,NA,Wyoming,Hawaii
+Wyoming,Delaware,56,10,2709.428467,5610,NA,Wyoming,Delaware
+Wyoming,Washington,56,53,1124.231934,5653,NA,Wyoming,Washington
+Wyoming,Oklahoma,56,40,1193.063721,5640,NA,Wyoming,Oklahoma
+Wyoming,West Virginia,56,54,2306.690186,5654,NA,Wyoming,West Virginia
+Wyoming,Alaska,56,2,3642.122559,5602,NA,Wyoming,Alaska
+Wyoming,Pennsylvania,56,42,2459.23877,5642,NA,Wyoming,Pennsylvania
+Wyoming,Colorado,56,8,475.3320313,5608,7,Wyoming,Colorado
+Wyoming,North Carolina,56,37,2564.023193,5637,NA,Wyoming,North Carolina
+Wyoming,Indiana,56,18,1801.027832,5618,NA,Wyoming,Indiana
+Wyoming,Kansas,56,20,919.9590454,5620,4,Wyoming,Kansas
+Wyoming,District of Columbia,56,11,2589.669189,5611,NA,Wyoming,District of Columbia
+Wyoming,Rhode Island,56,44,2941.954102,5644,NA,Wyoming,Rhode Island
+Wyoming,Mississippi,56,28,1934.092163,5628,NA,Wyoming,Mississippi
+Wyoming,Massachusetts,56,25,2908.009521,5625,NA,Wyoming,Massachusetts
+Wyoming,Connecticut,56,9,2847.191406,5609,NA,Wyoming,Connecticut
+Wyoming,Vermont,56,50,2793.713135,5650,NA,Wyoming,Vermont
+Wyoming,Maine,56,23,3039.160889,5623,NA,Wyoming,Maine
+Wyoming,New Hampshire,56,33,2887.202637,5633,NA,Wyoming,New Hampshire
+Wyoming,New Mexico,56,35,963.0953369,5635,NA,Wyoming,New Mexico
+Wyoming,Ohio,56,39,2071.241699,5639,NA,Wyoming,Ohio
+Wyoming,Alabama,56,1,2135.368164,5601,NA,Wyoming,Alabama
+Wyoming,Nebraska,56,31,658.270752,5631,3,Wyoming,Nebraska
+Wyoming,South Dakota,56,46,609.9848022,5646,NA,Wyoming,South Dakota
+Wyoming,Nevada,56,32,861.8852539,5632,NA,Wyoming,Nevada
+Wyoming,New Jersey,56,34,2735.430664,5634,NA,Wyoming,New Jersey
+Wyoming,North Dakota,56,38,743.2850952,5638,NA,Wyoming,North Dakota
+Wyoming,South Carolina,56,45,2518.200928,5645,NA,Wyoming,South Carolina
+Wyoming,Arizona,56,4,1033.000366,5604,NA,Wyoming,Arizona
+Wyoming,Arkansas,56,5,1583.262695,5605,NA,Wyoming,Arkansas
+Mississippi,California,28,6,2749.341064,2806,NA,Mississippi,California
+Mississippi,Wisconsin,28,55,1322.412476,2855,NA,Mississippi,Wisconsin
+Mississippi,Idaho,28,16,2509.903076,2816,NA,Mississippi,Idaho
+Mississippi,Minnesota,28,27,1557.236938,2827,NA,Mississippi,Minnesota
+Mississippi,Iowa,28,19,1091.906128,2819,NA,Mississippi,Iowa
+Mississippi,Missouri,28,29,674.1565552,2829,NA,Mississippi,Missouri
+Mississippi,Maryland,28,24,1356.271362,2824,NA,Mississippi,Maryland
+Mississippi,Oregon,28,41,2945.865479,2841,NA,Mississippi,Oregon
+Mississippi,Michigan,28,26,1342.636597,2826,NA,Mississippi,Michigan
+Mississippi,Montana,28,30,2318.812256,2830,NA,Mississippi,Montana
+Mississippi,Utah,28,49,2102.955322,2849,NA,Mississippi,Utah
+Mississippi,Virginia,28,51,1121.227539,2851,3,Mississippi,Virginia
+Mississippi,Illinois,28,17,813.3082275,2817,NA,Mississippi,Illinois
+Mississippi,Texas,28,48,918.9763794,2848,NA,Mississippi,Texas
+Mississippi,Louisiana,28,22,287.2871399,2822,8,Mississippi,Louisiana
+Mississippi,Florida,28,12,829.8831177,2812,NA,Mississippi,Florida
+Mississippi,Kentucky,28,21,664.7883301,2821,1,Mississippi,Kentucky
+Mississippi,Tennessee,28,47,461.8653259,2847,7,Mississippi,Tennessee
+Mississippi,New York,28,36,1678.802979,2836,NA,Mississippi,New York
+Mississippi,Georgia,28,13,583.2120361,2813,NA,Mississippi,Georgia
+Mississippi,Hawaii,28,15,6674.304688,2815,NA,Mississippi,Hawaii
+Mississippi,Delaware,28,10,1451.582764,2810,NA,Mississippi,Delaware
+Mississippi,Washington,28,53,3058.323975,2853,1,Mississippi,Washington
+Mississippi,Oklahoma,28,40,786.8344116,2840,NA,Mississippi,Oklahoma
+Mississippi,West Virginia,28,54,1047.085938,2854,8,Mississippi,West Virginia
+Mississippi,Alaska,28,2,5452.094727,2802,NA,Mississippi,Alaska
+Mississippi,Pennsylvania,28,42,1388.969116,2842,NA,Mississippi,Pennsylvania
+Mississippi,Colorado,28,8,1588.506836,2808,NA,Mississippi,Colorado
+Mississippi,North Carolina,28,37,1013.7677,2837,NA,Mississippi,North Carolina
+Mississippi,Indiana,28,18,851.5330811,2818,NA,Mississippi,Indiana
+Mississippi,Kansas,28,20,1014.162659,2820,NA,Mississippi,Kansas
+Mississippi,District of Columbia,28,11,1328.876343,2811,NA,Mississippi,District of Columbia
+Mississippi,Rhode Island,28,44,1882.125366,2844,NA,Mississippi,Rhode Island
+Mississippi,Wyoming,28,56,1934.092163,2856,2,Mississippi,Wyoming
+Mississippi,Massachusetts,28,25,1894.703003,2825,NA,Mississippi,Massachusetts
+Mississippi,Connecticut,28,9,1791.360107,2809,NA,Mississippi,Connecticut
+Mississippi,Vermont,28,50,1937.868164,2850,NA,Mississippi,Vermont
+Mississippi,Maine,28,23,2242.193359,2823,NA,Mississippi,Maine
+Mississippi,New Hampshire,28,33,1986.949463,2833,NA,Mississippi,New Hampshire
+Mississippi,New Mexico,28,35,1533.424072,2835,NA,Mississippi,New Mexico
+Mississippi,Ohio,28,39,1039.730469,2839,NA,Mississippi,Ohio
+Mississippi,Alabama,28,1,265.108429,2801,12,Mississippi,Alabama
+Mississippi,Nebraska,28,31,1326.333618,2831,NA,Mississippi,Nebraska
+Mississippi,South Dakota,28,46,1590.047729,2846,NA,Mississippi,South Dakota
+Mississippi,Nevada,28,32,2522.45166,2832,NA,Mississippi,Nevada
+Mississippi,New Jersey,28,34,1573.185913,2834,NA,Mississippi,New Jersey
+Mississippi,North Dakota,28,38,1872.312866,2838,NA,Mississippi,North Dakota
+Mississippi,South Carolina,28,45,825.4296265,2845,1,Mississippi,South Carolina
+Mississippi,Arizona,28,4,2042.581787,2804,NA,Mississippi,Arizona
+Mississippi,Arkansas,28,5,351.2592468,2805,NA,Mississippi,Arkansas
+Massachusetts,California,25,6,4066.83667,2506,NA,Massachusetts,California
+Massachusetts,Wisconsin,25,55,1493.041748,2555,NA,Massachusetts,Wisconsin
+Massachusetts,Idaho,25,16,3436.764893,2516,NA,Massachusetts,Idaho
+Massachusetts,Minnesota,25,27,1844.143799,2527,NA,Massachusetts,Minnesota
+Massachusetts,Iowa,25,19,1787.217041,2519,NA,Massachusetts,Iowa
+Massachusetts,Missouri,25,29,1803.105347,2529,NA,Massachusetts,Missouri
+Massachusetts,Maryland,25,24,551.5882568,2524,1,Massachusetts,Maryland
+Massachusetts,Oregon,25,41,3909.734375,2541,NA,Massachusetts,Oregon
+Massachusetts,Michigan,25,26,1125.981445,2526,1,Massachusetts,Michigan
+Massachusetts,Montana,25,30,3013.425293,2530,NA,Massachusetts,Montana
+Massachusetts,Utah,25,49,3346.217285,2549,NA,Massachusetts,Utah
+Massachusetts,Virginia,25,51,797.2897339,2551,NA,Massachusetts,Virginia
+Massachusetts,Illinois,25,17,1478.105347,2517,NA,Massachusetts,Illinois
+Massachusetts,Texas,25,48,2713.087646,2548,NA,Massachusetts,Texas
+Massachusetts,Louisiana,25,22,2181.80542,2522,NA,Massachusetts,Louisiana
+Massachusetts,Florida,25,12,1798.304077,2512,5,Massachusetts,Florida
+Massachusetts,Kentucky,25,21,1266.597046,2521,NA,Massachusetts,Kentucky
+Massachusetts,Tennessee,25,47,1443.223755,2547,NA,Massachusetts,Tennessee
+Massachusetts,New York,25,36,316.3599243,2536,11,Massachusetts,New York
+Massachusetts,Georgia,25,13,1481.382935,2513,NA,Massachusetts,Georgia
+Massachusetts,Hawaii,25,15,8078.064941,2515,1,Massachusetts,Hawaii
+Massachusetts,Delaware,25,10,479.0775452,2510,NA,Massachusetts,Delaware
+Massachusetts,Washington,25,53,3823.385742,2553,NA,Massachusetts,Washington
+Massachusetts,Oklahoma,25,40,2335.835449,2540,NA,Massachusetts,Oklahoma
+Massachusetts,West Virginia,25,54,849.5736084,2554,9,Massachusetts,West Virginia
+Massachusetts,Alaska,25,2,5443.362305,2502,NA,Massachusetts,Alaska
+Massachusetts,Pennsylvania,25,42,524.9759521,2542,3,Massachusetts,Pennsylvania
+Massachusetts,Colorado,25,8,2856.001465,2508,NA,Massachusetts,Colorado
+Massachusetts,North Carolina,25,37,981.7797852,2537,NA,Massachusetts,North Carolina
+Massachusetts,Indiana,25,18,1243.691772,2518,NA,Massachusetts,Indiana
+Massachusetts,Kansas,25,20,2283.859619,2520,1,Massachusetts,Kansas
+Massachusetts,District of Columbia,25,11,578.4813843,2511,12,Massachusetts,District of Columbia
+Massachusetts,Rhode Island,25,44,66.61862183,2544,13,Massachusetts,Rhode Island
+Massachusetts,Wyoming,25,56,2908.009521,2556,NA,Massachusetts,Wyoming
+Massachusetts,Mississippi,25,28,1894.703003,2528,NA,Massachusetts,Mississippi
+Massachusetts,Connecticut,25,9,105.8619919,2509,3,Massachusetts,Connecticut
+Massachusetts,Vermont,25,50,216.5977325,2550,3,Massachusetts,Vermont
+Massachusetts,Maine,25,23,399.3643188,2523,3,Massachusetts,Maine
+Massachusetts,New Hampshire,25,33,160.9425507,2533,27,Massachusetts,New Hampshire
+Massachusetts,New Mexico,25,35,3097.699463,2535,1,Massachusetts,New Mexico
+Massachusetts,Ohio,25,39,947.0761719,2539,5,Massachusetts,Ohio
+Massachusetts,Alabama,25,1,1691.192871,2501,NA,Massachusetts,Alabama
+Massachusetts,Nebraska,25,31,2311.880371,2531,NA,Massachusetts,Nebraska
+Massachusetts,South Dakota,25,46,2303.810791,2546,NA,Massachusetts,South Dakota
+Massachusetts,Nevada,25,32,3748.45166,2532,NA,Massachusetts,Nevada
+Massachusetts,New Jersey,25,34,333.8828125,2534,1,Massachusetts,New Jersey
+Massachusetts,North Dakota,25,38,2322.016602,2538,NA,Massachusetts,North Dakota
+Massachusetts,South Carolina,25,45,1222.209595,2545,NA,Massachusetts,South Carolina
+Massachusetts,Arizona,25,4,3560.320068,2504,NA,Massachusetts,Arizona
+Massachusetts,Arkansas,25,5,1968.460815,2505,NA,Massachusetts,Arkansas
+Connecticut,California,9,6,3997.522705,906,2,Connecticut,California
+Connecticut,Wisconsin,9,55,1437.50354,955,NA,Connecticut,Wisconsin
+Connecticut,Idaho,9,16,3383.287109,916,NA,Connecticut,Idaho
+Connecticut,Minnesota,9,27,1796.836426,927,NA,Connecticut,Minnesota
+Connecticut,Iowa,9,19,1716.692993,919,NA,Connecticut,Iowa
+Connecticut,Missouri,9,29,1715.572144,929,NA,Connecticut,Missouri
+Connecticut,Maryland,9,24,445.7747803,924,NA,Connecticut,Maryland
+Connecticut,Oregon,9,41,3857.732422,941,NA,Connecticut,Oregon
+Connecticut,Michigan,9,26,1071.659912,926,NA,Connecticut,Michigan
+Connecticut,Montana,9,30,2967.65332,930,NA,Connecticut,Montana
+Connecticut,Utah,9,49,3276.570068,949,NA,Connecticut,Utah
+Connecticut,Virginia,9,51,691.4633789,951,1,Connecticut,Virginia
+Connecticut,Illinois,9,17,1394.457764,917,NA,Connecticut,Illinois
+Connecticut,Texas,9,48,2615.938965,948,NA,Connecticut,Texas
+Connecticut,Louisiana,9,22,2078.323486,922,NA,Connecticut,Louisiana
+Connecticut,Florida,9,12,1695.761963,912,NA,Connecticut,Florida
+Connecticut,Kentucky,9,21,1167.896484,921,NA,Connecticut,Kentucky
+Connecticut,Tennessee,9,47,1341.55603,947,NA,Connecticut,Tennessee
+Connecticut,New York,9,36,271.0728149,936,3,Connecticut,New York
+Connecticut,Georgia,9,13,1375.596558,913,1,Connecticut,Georgia
+Connecticut,Hawaii,9,15,8013.220215,915,NA,Connecticut,Hawaii
+Connecticut,Delaware,9,10,374.3122559,910,NA,Connecticut,Delaware
+Connecticut,Washington,9,53,3781.236084,953,1,Connecticut,Washington
+Connecticut,Oklahoma,9,40,2245.062744,940,NA,Connecticut,Oklahoma
+Connecticut,West Virginia,9,54,747.8676147,954,NA,Connecticut,West Virginia
+Connecticut,Alaska,9,2,5453.27002,902,NA,Connecticut,Alaska
+Connecticut,Pennsylvania,9,42,431.8347778,942,1,Connecticut,Pennsylvania
+Connecticut,Colorado,9,8,2781.29248,908,NA,Connecticut,Colorado
+Connecticut,North Carolina,9,37,876.6929932,937,2,Connecticut,North Carolina
+Connecticut,Indiana,9,18,1156.303833,918,NA,Connecticut,Indiana
+Connecticut,Kansas,9,20,2202.137207,920,NA,Connecticut,Kansas
+Connecticut,District of Columbia,9,11,472.7073364,911,NA,Connecticut,District of Columbia
+Connecticut,Rhode Island,9,44,99.50639343,944,2,Connecticut,Rhode Island
+Connecticut,Wyoming,9,56,2847.191406,956,NA,Connecticut,Wyoming
+Connecticut,Mississippi,9,28,1791.360107,928,NA,Connecticut,Mississippi
+Connecticut,Massachusetts,9,25,105.8619919,925,4,Connecticut,Massachusetts
+Connecticut,Vermont,9,50,272.4671936,950,NA,Connecticut,Vermont
+Connecticut,Maine,9,23,500.1007996,923,1,Connecticut,Maine
+Connecticut,New Hampshire,9,33,247.5987701,933,NA,Connecticut,New Hampshire
+Connecticut,New Mexico,9,35,3011.938721,935,NA,Connecticut,New Mexico
+Connecticut,Ohio,9,39,857.7365723,939,NA,Connecticut,Ohio
+Connecticut,Alabama,9,1,1586.093994,901,NA,Connecticut,Alabama
+Connecticut,Nebraska,9,31,2242.068359,931,NA,Connecticut,Nebraska
+Connecticut,South Dakota,9,46,2246.322266,946,NA,Connecticut,South Dakota
+Connecticut,Nevada,9,32,3682.156738,932,NA,Connecticut,Nevada
+Connecticut,New Jersey,9,34,228.1221466,934,NA,Connecticut,New Jersey
+Connecticut,North Dakota,9,38,2278.383545,938,NA,Connecticut,North Dakota
+Connecticut,South Carolina,9,45,1116.999634,945,NA,Connecticut,South Carolina
+Connecticut,Arizona,9,4,3478.876953,904,NA,Connecticut,Arizona
+Connecticut,Arkansas,9,5,1871.112793,905,2,Connecticut,Arkansas
+Vermont,California,50,6,3969.016357,5006,NA,Vermont,California
+Vermont,Wisconsin,50,55,1376.5177,5055,NA,Vermont,Wisconsin
+Vermont,Idaho,50,16,3306.196289,5016,NA,Vermont,Idaho
+Vermont,Minnesota,50,27,1708.322632,5027,NA,Vermont,Minnesota
+Vermont,Iowa,50,19,1701.713013,5019,NA,Vermont,Iowa
+Vermont,Missouri,50,29,1767.787598,5029,NA,Vermont,Missouri
+Vermont,Maryland,50,24,654.9315796,5024,NA,Vermont,Maryland
+Vermont,Oregon,50,41,3775.46875,5041,NA,Vermont,Oregon
+Vermont,Michigan,50,26,1012.992798,5026,NA,Vermont,Michigan
+Vermont,Montana,50,30,2869.872314,5030,NA,Vermont,Montana
+Vermont,Utah,50,49,3250.817383,5049,NA,Vermont,Utah
+Vermont,Virginia,50,51,892.1489868,5051,NA,Vermont,Virginia
+Vermont,Illinois,50,17,1433.462158,5017,NA,Vermont,Illinois
+Vermont,Texas,50,48,2712.110596,5048,NA,Vermont,Texas
+Vermont,Louisiana,50,22,2224.465088,5022,NA,Vermont,Louisiana
+Vermont,Florida,50,12,1929.197144,5012,NA,Vermont,Florida
+Vermont,Kentucky,50,21,1285.701904,5021,NA,Vermont,Kentucky
+Vermont,Tennessee,50,47,1477.612671,5047,NA,Vermont,Tennessee
+Vermont,New York,50,36,261.2486267,5036,NA,Vermont,New York
+Vermont,Georgia,50,13,1577.341553,5013,NA,Vermont,Georgia
+Vermont,Hawaii,50,15,7965.663086,5015,NA,Vermont,Hawaii
+Vermont,Delaware,50,10,611.0504761,5010,NA,Vermont,Delaware
+Vermont,Washington,50,53,3672.159424,5053,NA,Vermont,Washington
+Vermont,Oklahoma,50,40,2308.631836,5040,NA,Vermont,Oklahoma
+Vermont,West Virginia,50,54,896.449646,5054,NA,Vermont,West Virginia
+Vermont,Alaska,50,2,5235.009277,5002,3,Vermont,Alaska
+Vermont,Pennsylvania,50,42,550.3634033,5042,NA,Vermont,Pennsylvania
+Vermont,Colorado,50,8,2775.112305,5008,NA,Vermont,Colorado
+Vermont,North Carolina,50,37,1097.500122,5037,NA,Vermont,North Carolina
+Vermont,Indiana,50,18,1215.506958,5018,NA,Vermont,Indiana
+Vermont,Kansas,50,20,2225.800781,5020,NA,Vermont,Kansas
+Vermont,District of Columbia,50,11,678.8424683,5011,NA,Vermont,District of Columbia
+Vermont,Rhode Island,50,44,283.1242065,5044,NA,Vermont,Rhode Island
+Vermont,Wyoming,50,56,2793.713135,5056,NA,Vermont,Wyoming
+Vermont,Mississippi,50,28,1937.868164,5028,NA,Vermont,Mississippi
+Vermont,Massachusetts,50,25,216.5977325,5025,2,Vermont,Massachusetts
+Vermont,Connecticut,50,9,272.4671936,5009,NA,Vermont,Connecticut
+Vermont,Maine,50,23,305.9320984,5023,8,Vermont,Maine
+Vermont,New Hampshire,50,33,97.2390213,5033,NA,Vermont,New Hampshire
+Vermont,New Mexico,50,35,3049.072266,5035,NA,Vermont,New Mexico
+Vermont,Ohio,50,39,933.5361938,5039,NA,Vermont,Ohio
+Vermont,Alabama,50,1,1755.60083,5001,NA,Vermont,Alabama
+Vermont,Nebraska,50,31,2220.841553,5031,NA,Vermont,Nebraska
+Vermont,South Dakota,50,46,2184.96582,5046,NA,Vermont,South Dakota
+Vermont,Nevada,50,32,3644.125244,5032,NA,Vermont,Nevada
+Vermont,New Jersey,50,34,462.6689758,5034,NA,Vermont,New Jersey
+Vermont,North Dakota,50,38,2177.077637,5038,NA,Vermont,North Dakota
+Vermont,South Carolina,50,45,1333.363037,5045,NA,Vermont,South Carolina
+Vermont,Arizona,50,4,3496.497314,5004,NA,Vermont,Arizona
+Vermont,Arkansas,50,5,1972.580688,5005,NA,Vermont,Arkansas
+Maine,California,23,6,4225.930176,2306,NA,Maine,California
+Maine,Wisconsin,23,55,1630.745117,2355,NA,Maine,Wisconsin
+Maine,Idaho,23,16,3532.149902,2316,NA,Maine,Idaho
+Maine,Minnesota,23,27,1938.539307,2327,NA,Maine,Minnesota
+Maine,Iowa,23,19,1976.340942,2319,NA,Maine,Iowa
+Maine,Missouri,23,29,2065.613525,2329,NA,Maine,Missouri
+Maine,Maryland,23,24,934.4204102,2324,NA,Maine,Maryland
+Maine,Oregon,23,41,3995.371094,2341,NA,Maine,Oregon
+Maine,Michigan,23,26,1276.480957,2326,NA,Maine,Michigan
+Maine,Montana,23,30,3081.371826,2330,NA,Maine,Montana
+Maine,Utah,23,49,3511.444092,2349,NA,Maine,Utah
+Maine,Virginia,23,51,1177.968628,2351,NA,Maine,Virginia
+Maine,Illinois,23,17,1729.55188,2317,NA,Maine,Illinois
+Maine,Texas,23,48,3016.338379,2348,NA,Maine,Texas
+Maine,Louisiana,23,22,2529.037598,2322,NA,Maine,Louisiana
+Maine,Florida,23,12,2195.788086,2312,NA,Maine,Florida
+Maine,Kentucky,23,21,1591.540161,2321,NA,Maine,Kentucky
+Maine,Tennessee,23,47,1782.582031,2347,NA,Maine,Tennessee
+Maine,New York,23,36,567.1728516,2336,NA,Maine,New York
+Maine,Georgia,23,13,1865.18811,2313,NA,Maine,Georgia
+Maine,Hawaii,23,15,8203.533203,2315,2,Maine,Hawaii
+Maine,Delaware,23,10,872.9945068,2310,NA,Maine,Delaware
+Maine,Washington,23,53,3869.278076,2353,NA,Maine,Washington
+Maine,Oklahoma,23,40,2607.671387,2340,NA,Maine,Oklahoma
+Maine,West Virginia,23,54,1198.120361,2354,NA,Maine,West Virginia
+Maine,Alaska,23,2,5283.444336,2302,NA,Maine,Alaska
+Maine,Pennsylvania,23,42,853.3825684,2342,NA,Maine,Pennsylvania
+Maine,Colorado,23,8,3047.814941,2308,NA,Maine,Colorado
+Maine,North Carolina,23,37,1373.199707,2337,NA,Maine,North Carolina
+Maine,Indiana,23,18,1517.130127,2318,NA,Maine,Indiana
+Maine,Kansas,23,20,2513.294189,2320,NA,Maine,Kansas
+Maine,District of Columbia,23,11,960.1173706,2311,NA,Maine,District of Columbia
+Maine,Rhode Island,23,44,448.3034363,2344,NA,Maine,Rhode Island
+Maine,Wyoming,23,56,3039.160889,2356,NA,Maine,Wyoming
+Maine,Mississippi,23,28,2242.193359,2328,NA,Maine,Mississippi
+Maine,Massachusetts,23,25,399.3643188,2325,NA,Maine,Massachusetts
+Maine,Connecticut,23,9,500.1007996,2309,4,Maine,Connecticut
+Maine,Vermont,23,50,305.9320984,2350,NA,Maine,Vermont
+Maine,New Hampshire,23,33,261.8347778,2333,1,Maine,New Hampshire
+Maine,New Mexico,23,35,3339.054443,2335,NA,Maine,New Mexico
+Maine,Ohio,23,39,1238.496216,2339,NA,Maine,Ohio
+Maine,Alabama,23,1,2055.446533,2301,NA,Maine,Alabama
+Maine,Nebraska,23,31,2488.603027,2331,NA,Maine,Nebraska
+Maine,South Dakota,23,46,2429.201416,2346,NA,Maine,South Dakota
+Maine,Nevada,23,32,3896.108398,2332,NA,Maine,Nevada
+Maine,New Jersey,23,34,724.2523804,2334,NA,Maine,New Jersey
+Maine,North Dakota,23,38,2391.263428,2338,NA,Maine,North Dakota
+Maine,South Carolina,23,45,1612.54895,2345,NA,Maine,South Carolina
+Maine,Arizona,23,4,3778.072266,2304,1,Maine,Arizona
+Maine,Arkansas,23,5,2277.827148,2305,NA,Maine,Arkansas
+New Hampshire,California,33,6,4060.119141,3306,1,New Hampshire,California
+New Hampshire,Wisconsin,33,55,1469.570801,3355,NA,New Hampshire,Wisconsin
+New Hampshire,Idaho,33,16,3401.820313,3316,NA,New Hampshire,Idaho
+New Hampshire,Minnesota,33,27,1804.106445,3327,NA,New Hampshire,Minnesota
+New Hampshire,Iowa,33,19,1789.391724,3319,NA,New Hampshire,Iowa
+New Hampshire,Missouri,33,29,1842.997681,3329,NA,New Hampshire,Missouri
+New Hampshire,Maryland,33,24,672.8639526,3324,1,New Hampshire,Maryland
+New Hampshire,Oregon,33,41,3871.501221,3341,NA,New Hampshire,Oregon
+New Hampshire,Michigan,33,26,1104.902222,3326,NA,New Hampshire,Michigan
+New Hampshire,Montana,33,30,2966.542236,3330,NA,New Hampshire,Montana
+New Hampshire,Utah,33,49,3341.317871,3349,NA,New Hampshire,Utah
+New Hampshire,Virginia,33,51,916.1446533,3351,NA,New Hampshire,Virginia
+New Hampshire,Illinois,33,17,1510.691406,3317,NA,New Hampshire,Illinois
+New Hampshire,Texas,33,48,2777.795166,3348,NA,New Hampshire,Texas
+New Hampshire,Louisiana,33,22,2274.118164,3322,NA,New Hampshire,Louisiana
+New Hampshire,Florida,33,12,1938.274536,3312,NA,New Hampshire,Florida
+New Hampshire,Kentucky,33,21,1342.264282,3321,NA,New Hampshire,Kentucky
+New Hampshire,Tennessee,33,47,1529.136597,3347,NA,New Hampshire,Tennessee
+New Hampshire,New York,33,36,328.007782,3336,NA,New Hampshire,New York
+New Hampshire,Georgia,33,13,1603.368042,3313,NA,New Hampshire,Georgia
+New Hampshire,Hawaii,33,15,8059.45752,3315,1,New Hampshire,Hawaii
+New Hampshire,Delaware,33,10,614.6523438,3310,NA,New Hampshire,Delaware
+New Hampshire,Washington,33,53,3769.259521,3353,NA,New Hampshire,Washington
+New Hampshire,Oklahoma,33,40,2382.12915,3340,NA,New Hampshire,Oklahoma
+New Hampshire,West Virginia,33,54,940.7036133,3354,NA,New Hampshire,West Virginia
+New Hampshire,Alaska,33,2,5321.348145,3302,NA,New Hampshire,Alaska
+New Hampshire,Pennsylvania,33,42,598.7718506,3342,NA,New Hampshire,Pennsylvania
+New Hampshire,Colorado,33,8,2862.574951,3308,13,New Hampshire,Colorado
+New Hampshire,North Carolina,33,37,1112.682983,3337,1,New Hampshire,North Carolina
+New Hampshire,Indiana,33,18,1287.403198,3318,NA,New Hampshire,Indiana
+New Hampshire,Kansas,33,20,2307.636475,3320,NA,New Hampshire,Kansas
+New Hampshire,District of Columbia,33,11,698.4333496,3311,NA,New Hampshire,District of Columbia
+New Hampshire,Rhode Island,33,44,224.3445892,3344,NA,New Hampshire,Rhode Island
+New Hampshire,Wyoming,33,56,2887.202637,3356,NA,New Hampshire,Wyoming
+New Hampshire,Mississippi,33,28,1986.949463,3328,NA,New Hampshire,Mississippi
+New Hampshire,Massachusetts,33,25,160.9425507,3325,4,New Hampshire,Massachusetts
+New Hampshire,Connecticut,33,9,247.5987701,3309,NA,New Hampshire,Connecticut
+New Hampshire,Vermont,33,50,97.2390213,3350,3,New Hampshire,Vermont
+New Hampshire,Maine,33,23,261.8347778,3323,2,New Hampshire,Maine
+New Hampshire,New Mexico,33,35,3129.021973,3335,NA,New Hampshire,New Mexico
+New Hampshire,Ohio,33,39,999.6283569,3339,NA,New Hampshire,Ohio
+New Hampshire,Alabama,33,1,1795.852051,3301,NA,New Hampshire,Alabama
+New Hampshire,Nebraska,33,31,2310.082031,3331,NA,New Hampshire,Nebraska
+New Hampshire,South Dakota,33,46,2278.900146,3346,NA,New Hampshire,South Dakota
+New Hampshire,Nevada,33,32,3736.270508,3332,NA,New Hampshire,Nevada
+New Hampshire,New Jersey,33,34,465.1577148,3334,NA,New Hampshire,New Jersey
+New Hampshire,North Dakota,33,38,2273.75,3338,NA,New Hampshire,North Dakota
+New Hampshire,South Carolina,33,45,1351.56311,3345,NA,New Hampshire,South Carolina
+New Hampshire,Arizona,33,4,3580.417969,3304,NA,New Hampshire,Arizona
+New Hampshire,Arkansas,33,5,2035.820923,3305,NA,New Hampshire,Arkansas
+New Mexico,California,35,6,1242.619385,3506,10,New Mexico,California
+New Mexico,Wisconsin,35,55,1784.040283,3555,NA,New Mexico,Wisconsin
+New Mexico,Idaho,35,16,1323.623047,3516,NA,New Mexico,Idaho
+New Mexico,Minnesota,35,27,1653.020874,3527,NA,New Mexico,Minnesota
+New Mexico,Iowa,35,19,1390.778931,3519,NA,New Mexico,Iowa
+New Mexico,Missouri,35,29,1297.281006,3529,NA,New Mexico,Missouri
+New Mexico,Maryland,35,24,2655.708252,3524,NA,New Mexico,Maryland
+New Mexico,Oregon,35,41,1630.998047,3541,NA,New Mexico,Oregon
+New Mexico,Michigan,35,26,2087.466553,3526,NA,New Mexico,Michigan
+New Mexico,Montana,35,30,1436.675659,3530,NA,New Mexico,Montana
+New Mexico,Utah,35,49,735.3235474,3549,NA,New Mexico,Utah
+New Mexico,Virginia,35,51,2473.754639,3551,NA,New Mexico,Virginia
+New Mexico,Illinois,35,17,1620.177124,3517,NA,New Mexico,Illinois
+New Mexico,Texas,35,48,715.7879028,3548,2,New Mexico,Texas
+New Mexico,Louisiana,35,22,1378.009033,3522,NA,New Mexico,Louisiana
+New Mexico,Florida,35,12,2328.752686,3512,NA,New Mexico,Florida
+New Mexico,Kentucky,35,21,1900.831055,3521,NA,New Mexico,Kentucky
+New Mexico,Tennessee,35,47,1801.497192,3547,NA,New Mexico,Tennessee
+New Mexico,New York,35,36,2802.925537,3536,NA,New Mexico,New York
+New Mexico,Georgia,35,13,2107.190674,3513,NA,New Mexico,Georgia
+New Mexico,Hawaii,35,15,5149.222656,3515,NA,New Mexico,Hawaii
+New Mexico,Delaware,35,10,2762.946533,3510,NA,New Mexico,Delaware
+New Mexico,Washington,35,53,1876.892456,3553,4,New Mexico,Washington
+New Mexico,Oklahoma,35,40,795.6774292,3540,1,New Mexico,Oklahoma
+New Mexico,West Virginia,35,54,2318.006836,3554,NA,New Mexico,West Virginia
+New Mexico,Alaska,35,2,4518.019043,3502,2,New Mexico,Alaska
+New Mexico,Pennsylvania,35,42,2581.915039,3542,NA,New Mexico,Pennsylvania
+New Mexico,Colorado,35,8,512.8512573,3508,NA,New Mexico,Colorado
+New Mexico,North Carolina,35,37,2449.398926,3537,NA,New Mexico,North Carolina
+New Mexico,Indiana,35,18,1855.746948,3518,NA,New Mexico,Indiana
+New Mexico,Kansas,35,20,827.2678223,3520,1,New Mexico,Kansas
+New Mexico,District of Columbia,35,11,2631.569336,3511,NA,New Mexico,District of Columbia
+New Mexico,Rhode Island,35,44,3111.421631,3544,NA,New Mexico,Rhode Island
+New Mexico,Wyoming,35,56,963.0953369,3556,5,New Mexico,Wyoming
+New Mexico,Mississippi,35,28,1533.424072,3528,NA,New Mexico,Mississippi
+New Mexico,Massachusetts,35,25,3097.699463,3525,NA,New Mexico,Massachusetts
+New Mexico,Connecticut,35,9,3011.938721,3509,NA,New Mexico,Connecticut
+New Mexico,Vermont,35,50,3049.072266,3550,NA,New Mexico,Vermont
+New Mexico,Maine,35,23,3339.054443,3523,NA,New Mexico,Maine
+New Mexico,New Hampshire,35,33,3129.021973,3533,NA,New Mexico,New Hampshire
+New Mexico,Ohio,35,39,2155.030029,3539,1,New Mexico,Ohio
+New Mexico,Alabama,35,1,1792.524048,3501,NA,New Mexico,Alabama
+New Mexico,Nebraska,35,31,966.5269775,3531,NA,New Mexico,Nebraska
+New Mexico,South Dakota,35,46,1224.374023,3546,NA,New Mexico,South Dakota
+New Mexico,Nevada,35,32,1082.963013,3532,NA,New Mexico,Nevada
+New Mexico,New Jersey,35,34,2839.25415,3534,NA,New Mexico,New Jersey
+New Mexico,North Dakota,35,38,1524.874756,3538,NA,New Mexico,North Dakota
+New Mexico,South Carolina,35,45,2315.588379,3545,NA,New Mexico,South Carolina
+New Mexico,Arizona,35,4,509.5032349,3504,20,New Mexico,Arizona
+New Mexico,Arkansas,35,5,1250.727295,3505,1,New Mexico,Arkansas
+Ohio,California,39,6,3177.243164,3906,2,Ohio,California
+Ohio,Wisconsin,39,55,761.5950317,3955,NA,Ohio,Wisconsin
+Ohio,Idaho,39,16,2637.350098,3916,NA,Ohio,Idaho
+Ohio,Minnesota,39,27,1143.267944,3927,NA,Ohio,Minnesota
+Ohio,Iowa,39,19,916.4259033,3919,NA,Ohio,Iowa
+Ohio,Missouri,39,29,858.0437622,3929,NA,Ohio,Missouri
+Ohio,Maryland,39,24,536.7198486,3924,NA,Ohio,Maryland
+Ohio,Oregon,39,41,3114.033936,3941,NA,Ohio,Oregon
+Ohio,Michigan,39,26,497.9307251,3926,NA,Ohio,Michigan
+Ohio,Montana,39,30,2272.122803,3930,2,Ohio,Montana
+Ohio,Utah,39,49,2458.281738,3949,5,Ohio,Utah
+Ohio,Virginia,39,51,463.2928772,3951,1,Ohio,Virginia
+Ohio,Illinois,39,17,544.4382935,3917,1,Ohio,Illinois
+Ohio,Texas,39,48,1778.832764,3948,NA,Ohio,Texas
+Ohio,Louisiana,39,22,1319.6875,3922,5,Ohio,Louisiana
+Ohio,Florida,39,12,1302.515747,3912,2,Ohio,Florida
+Ohio,Kentucky,39,21,375.3765869,3921,2,Ohio,Kentucky
+Ohio,Tennessee,39,47,582.663269,3947,NA,Ohio,Tennessee
+Ohio,New York,39,36,673.479248,3936,NA,Ohio,New York
+Ohio,Georgia,39,13,853.0178223,3913,NA,Ohio,Georgia
+Ohio,Hawaii,39,15,7199.903809,3915,1,Ohio,Hawaii
+Ohio,Delaware,39,10,640.7888184,3910,1,Ohio,Delaware
+Ohio,Washington,39,53,3092.175781,3953,NA,Ohio,Washington
+Ohio,Oklahoma,39,40,1388.79248,3940,NA,Ohio,Oklahoma
+Ohio,West Virginia,39,54,261.584137,3954,3,Ohio,West Virginia
+Ohio,Alaska,39,2,5085.88623,3902,NA,Ohio,Alaska
+Ohio,Pennsylvania,39,42,426.8868103,3942,NA,Ohio,Pennsylvania
+Ohio,Colorado,39,8,1948.02002,3908,NA,Ohio,Colorado
+Ohio,North Carolina,39,37,614.8154907,3937,4,Ohio,North Carolina
+Ohio,Indiana,39,18,299.7203674,3918,11,Ohio,Indiana
+Ohio,Kansas,39,20,1352.006226,3920,NA,Ohio,Kansas
+Ohio,District of Columbia,39,11,518.4968872,3911,2,Ohio,District of Columbia
+Ohio,Rhode Island,39,44,957.0843506,3944,NA,Ohio,Rhode Island
+Ohio,Wyoming,39,56,2071.241699,3956,2,Ohio,Wyoming
+Ohio,Mississippi,39,28,1039.730469,3928,NA,Ohio,Mississippi
+Ohio,Massachusetts,39,25,947.0761719,3925,NA,Ohio,Massachusetts
+Ohio,Connecticut,39,9,857.7365723,3909,NA,Ohio,Connecticut
+Ohio,Vermont,39,50,933.5361938,3950,NA,Ohio,Vermont
+Ohio,Maine,39,23,1238.496216,3923,NA,Ohio,Maine
+Ohio,New Hampshire,39,33,999.6283569,3933,NA,Ohio,New Hampshire
+Ohio,New Mexico,39,35,2155.030029,3935,NA,Ohio,New Mexico
+Ohio,Alabama,39,1,909.7969971,3901,NA,Ohio,Alabama
+Ohio,Nebraska,39,31,1432.757446,3931,NA,Ohio,Nebraska
+Ohio,South Dakota,39,46,1501.251343,3946,NA,Ohio,South Dakota
+Ohio,Nevada,39,32,2874.478271,3932,NA,Ohio,Nevada
+Ohio,New Jersey,39,34,690.2140503,3934,NA,Ohio,New Jersey
+Ohio,North Dakota,39,38,1619.401611,3938,4,Ohio,North Dakota
+Ohio,South Carolina,39,45,729.7696533,3945,NA,Ohio,South Carolina
+Ohio,Arizona,39,4,2627.059326,3904,NA,Ohio,Arizona
+Ohio,Arkansas,39,5,1039.392456,3905,NA,Ohio,Arkansas
+Alabama,California,1,6,2999.026855,106,NA,Alabama,California
+Alabama,Wisconsin,1,55,1345.61499,155,NA,Alabama,Wisconsin
+Alabama,Idaho,1,16,2718.213867,116,NA,Alabama,Idaho
+Alabama,Minnesota,1,27,1631.020264,127,NA,Alabama,Minnesota
+Alabama,Iowa,1,19,1188.86438,119,NA,Alabama,Iowa
+Alabama,Missouri,1,29,802.3492432,129,NA,Alabama,Missouri
+Alabama,Maryland,1,24,1142.828857,124,NA,Alabama,Maryland
+Alabama,Oregon,1,41,3164.569336,141,NA,Alabama,Oregon
+Alabama,Michigan,1,26,1292.088989,126,NA,Alabama,Michigan
+Alabama,Montana,1,30,2494.055176,130,NA,Alabama,Montana
+Alabama,Utah,1,49,2339.659424,149,NA,Alabama,Utah
+Alabama,Virginia,1,51,900.2234497,151,NA,Alabama,Virginia
+Alabama,Illinois,1,17,834.9537964,117,NA,Alabama,Illinois
+Alabama,Texas,1,48,1183.395142,148,NA,Alabama,Texas
+Alabama,Louisiana,1,22,519.9603882,122,7,Alabama,Louisiana
+Alabama,Florida,1,12,626.604187,112,13,Alabama,Florida
+Alabama,Kentucky,1,21,547.0440674,121,1,Alabama,Kentucky
+Alabama,Tennessee,1,47,345.5906067,147,NA,Alabama,Tennessee
+Alabama,New York,1,36,1502.142822,136,NA,Alabama,New York
+Alabama,Georgia,1,13,318.1975708,113,10,Alabama,Georgia
+Alabama,Hawaii,1,15,6937.064941,115,NA,Alabama,Hawaii
+Alabama,Delaware,1,10,1231.575439,110,NA,Alabama,Delaware
+Alabama,Washington,1,53,3256.766602,153,NA,Alabama,Washington
+Alabama,Oklahoma,1,40,1028.980957,140,NA,Alabama,Oklahoma
+Alabama,West Virginia,1,54,859.6181641,154,NA,Alabama,West Virginia
+Alabama,Alaska,1,2,5586.341309,102,NA,Alabama,Alaska
+Alabama,Pennsylvania,1,42,1206.002319,142,NA,Alabama,Pennsylvania
+Alabama,Colorado,1,8,1818.230225,108,2,Alabama,Colorado
+Alabama,North Carolina,1,37,768.2337646,137,3,Alabama,North Carolina
+Alabama,Indiana,1,18,792.9915161,118,NA,Alabama,Indiana
+Alabama,Kansas,1,20,1220.553955,120,4,Alabama,Kansas
+Alabama,District of Columbia,1,11,1115.467041,111,2,Alabama,District of Columbia
+Alabama,Rhode Island,1,44,1672.499878,144,5,Alabama,Rhode Island
+Alabama,Wyoming,1,56,2135.368164,156,NA,Alabama,Wyoming
+Alabama,Mississippi,1,28,265.108429,128,1,Alabama,Mississippi
+Alabama,Massachusetts,1,25,1691.192871,125,NA,Alabama,Massachusetts
+Alabama,Connecticut,1,9,1586.093994,109,2,Alabama,Connecticut
+Alabama,Vermont,1,50,1755.60083,150,NA,Alabama,Vermont
+Alabama,Maine,1,23,2055.446533,123,NA,Alabama,Maine
+Alabama,New Hampshire,1,33,1795.852051,133,NA,Alabama,New Hampshire
+Alabama,New Mexico,1,35,1792.524048,135,NA,Alabama,New Mexico
+Alabama,Ohio,1,39,909.7969971,139,NA,Alabama,Ohio
+Alabama,Nebraska,1,31,1503.381958,131,NA,Alabama,Nebraska
+Alabama,South Dakota,1,46,1738.484741,146,NA,Alabama,South Dakota
+Alabama,Nevada,1,32,2762.498047,132,NA,Alabama,Nevada
+Alabama,New Jersey,1,34,1362.112427,134,2,Alabama,New Jersey
+Alabama,North Dakota,1,38,1995.310669,138,NA,Alabama,North Dakota
+Alabama,South Carolina,1,45,565.9052734,145,NA,Alabama,South Carolina
+Alabama,Arizona,1,4,2302.01416,104,NA,Alabama,Arizona
+Alabama,Arkansas,1,5,569.1824341,105,3,Alabama,Arkansas
+Nebraska,California,31,6,1755.463867,3106,3,Nebraska,California
+Nebraska,Wisconsin,31,55,866.2693481,3155,NA,Nebraska,Wisconsin
+Nebraska,Idaho,31,16,1244.085449,3116,NA,Nebraska,Idaho
+Nebraska,Minnesota,31,27,686.5579834,3127,NA,Nebraska,Minnesota
+Nebraska,Iowa,31,19,525.4227905,3119,1,Nebraska,Iowa
+Nebraska,Missouri,31,29,718.0603638,3129,NA,Nebraska,Missouri
+Nebraska,Maryland,31,24,1969.208374,3124,NA,Nebraska,Maryland
+Nebraska,Oregon,31,41,1712.302002,3141,1,Nebraska,Oregon
+Nebraska,Michigan,31,26,1212.174805,3126,NA,Nebraska,Michigan
+Nebraska,Montana,31,30,993.1906128,3130,NA,Nebraska,Montana
+Nebraska,Utah,31,49,1034.549805,3149,NA,Nebraska,Utah
+Nebraska,Virginia,31,51,1850.351685,3151,NA,Nebraska,Virginia
+Nebraska,Illinois,31,17,907.0634766,3117,NA,Nebraska,Illinois
+Nebraska,Texas,31,48,1123.484619,3148,2,Nebraska,Texas
+Nebraska,Louisiana,31,22,1364.722778,3122,NA,Nebraska,Louisiana
+Nebraska,Florida,31,12,2129.425537,3112,NA,Nebraska,Florida
+Nebraska,Kentucky,31,21,1318.286499,3121,NA,Nebraska,Kentucky
+Nebraska,Tennessee,31,47,1324.695557,3147,NA,Nebraska,Tennessee
+Nebraska,New York,31,36,1998.931152,3136,NA,Nebraska,New York
+Nebraska,Georgia,31,13,1751.881958,3113,NA,Nebraska,Georgia
+Nebraska,Hawaii,31,15,5773.96875,3115,NA,Nebraska,Hawaii
+Nebraska,Delaware,31,10,2073.530518,3110,NA,Nebraska,Delaware
+Nebraska,Washington,31,53,1760.523926,3153,NA,Nebraska,Washington
+Nebraska,Oklahoma,31,40,690.9627075,3140,NA,Nebraska,Oklahoma
+Nebraska,West Virginia,31,54,1658.810059,3154,NA,Nebraska,West Virginia
+Nebraska,Alaska,31,2,4142.960449,3102,NA,Nebraska,Alaska
+Nebraska,Pennsylvania,31,42,1836.474487,3142,NA,Nebraska,Pennsylvania
+Nebraska,Colorado,31,8,563.8140259,3108,NA,Nebraska,Colorado
+Nebraska,North Carolina,31,37,1906.503662,3137,NA,Nebraska,North Carolina
+Nebraska,Indiana,31,18,1152.276367,3118,NA,Nebraska,Indiana
+Nebraska,Kansas,31,20,359.324585,3120,3,Nebraska,Kansas
+Nebraska,District of Columbia,31,11,1950.150391,3111,NA,Nebraska,District of Columbia
+Nebraska,Rhode Island,31,44,2339.484863,3144,NA,Nebraska,Rhode Island
+Nebraska,Wyoming,31,56,658.270752,3156,2,Nebraska,Wyoming
+Nebraska,Mississippi,31,28,1326.333618,3128,NA,Nebraska,Mississippi
+Nebraska,Massachusetts,31,25,2311.880371,3125,NA,Nebraska,Massachusetts
+Nebraska,Connecticut,31,9,2242.068359,3109,NA,Nebraska,Connecticut
+Nebraska,Vermont,31,50,2220.841553,3150,NA,Nebraska,Vermont
+Nebraska,Maine,31,23,2488.603027,3123,NA,Nebraska,Maine
+Nebraska,New Hampshire,31,33,2310.082031,3133,NA,Nebraska,New Hampshire
+Nebraska,New Mexico,31,35,966.5269775,3135,NA,Nebraska,New Mexico
+Nebraska,Ohio,31,39,1432.757446,3139,1,Nebraska,Ohio
+Nebraska,Alabama,31,1,1503.381958,3101,NA,Nebraska,Alabama
+Nebraska,South Dakota,31,46,325.078949,3146,2,Nebraska,South Dakota
+Nebraska,Nevada,31,32,1443.62793,3132,NA,Nebraska,Nevada
+Nebraska,New Jersey,31,34,2111.451172,3134,NA,Nebraska,New Jersey
+Nebraska,North Dakota,31,38,659.5610352,3138,2,Nebraska,North Dakota
+Nebraska,South Carolina,31,45,1861.21167,3145,NA,Nebraska,South Carolina
+Nebraska,Arizona,31,4,1315.493774,3104,NA,Nebraska,Arizona
+Nebraska,Arkansas,31,5,978.2046509,3105,2,Nebraska,Arkansas
+South Dakota,California,46,6,1803.875122,4606,NA,South Dakota,California
+South Dakota,Wisconsin,46,55,810.9936523,4655,NA,South Dakota,Wisconsin
+South Dakota,Idaho,46,16,1141.442749,4616,7,South Dakota,Idaho
+South Dakota,Minnesota,46,27,505.7983704,4627,1,South Dakota,Minnesota
+South Dakota,Iowa,46,19,605.2003784,4619,NA,South Dakota,Iowa
+South Dakota,Missouri,46,29,936.1380615,4629,NA,South Dakota,Missouri
+South Dakota,Maryland,46,24,2031.386108,4624,NA,South Dakota,Maryland
+South Dakota,Oregon,46,41,1618.199951,4641,NA,South Dakota,Oregon
+South Dakota,Michigan,46,26,1178.021729,4626,NA,South Dakota,Michigan
+South Dakota,Montana,46,30,784.5963745,4630,NA,South Dakota,Montana
+South Dakota,Utah,46,49,1104.862671,4649,NA,South Dakota,Utah
+South Dakota,Virginia,46,51,1949.299194,4651,NA,South Dakota,Virginia
+South Dakota,Illinois,46,17,1030.456421,4617,NA,South Dakota,Illinois
+South Dakota,Texas,46,48,1448.043091,4648,NA,South Dakota,Texas
+South Dakota,Louisiana,46,22,1659.976318,4622,NA,South Dakota,Louisiana
+South Dakota,Florida,46,12,2363.193604,4612,NA,South Dakota,Florida
+South Dakota,Kentucky,46,21,1466.28064,4621,NA,South Dakota,Kentucky
+South Dakota,Tennessee,46,47,1513.911987,4647,NA,South Dakota,Tennessee
+South Dakota,New York,46,36,1987.459839,4636,NA,South Dakota,New York
+South Dakota,Georgia,46,13,1956.847778,4613,NA,South Dakota,Georgia
+South Dakota,Hawaii,46,15,5780.697754,4615,NA,South Dakota,Hawaii
+South Dakota,Delaware,46,10,2130.351563,4610,NA,South Dakota,Delaware
+South Dakota,Washington,46,53,1597.098145,4653,NA,South Dakota,Washington
+South Dakota,Oklahoma,46,40,1011.599854,4640,NA,South Dakota,Oklahoma
+South Dakota,West Virginia,46,54,1749.101929,4654,NA,South Dakota,West Virginia
+South Dakota,Alaska,46,2,3862.212646,4602,NA,South Dakota,Alaska
+South Dakota,Pennsylvania,46,42,1869.95813,4642,NA,South Dakota,Pennsylvania
+South Dakota,Colorado,46,8,749.1990967,4608,2,South Dakota,Colorado
+South Dakota,North Carolina,46,37,2038.743652,4637,NA,South Dakota,North Carolina
+South Dakota,Indiana,46,18,1253.682373,4618,NA,South Dakota,Indiana
+South Dakota,Kansas,46,20,679.3002319,4620,NA,South Dakota,Kansas
+South Dakota,District of Columbia,46,11,2015.780396,4611,NA,South Dakota,District of Columbia
+South Dakota,Rhode Island,46,44,2339.781982,4644,NA,South Dakota,Rhode Island
+South Dakota,Wyoming,46,56,609.9848022,4656,15,South Dakota,Wyoming
+South Dakota,Mississippi,46,28,1590.047729,4628,NA,South Dakota,Mississippi
+South Dakota,Massachusetts,46,25,2303.810791,4625,NA,South Dakota,Massachusetts
+South Dakota,Connecticut,46,9,2246.322266,4609,NA,South Dakota,Connecticut
+South Dakota,Vermont,46,50,2184.96582,4650,NA,South Dakota,Vermont
+South Dakota,Maine,46,23,2429.201416,4623,NA,South Dakota,Maine
+South Dakota,New Hampshire,46,33,2278.900146,4633,NA,South Dakota,New Hampshire
+South Dakota,New Mexico,46,35,1224.374023,4635,NA,South Dakota,New Mexico
+South Dakota,Ohio,46,39,1501.251343,4639,NA,South Dakota,Ohio
+South Dakota,Alabama,46,1,1738.484741,4601,NA,South Dakota,Alabama
+South Dakota,Nebraska,46,31,325.078949,4631,8,South Dakota,Nebraska
+South Dakota,Nevada,46,32,1468.924316,4632,NA,South Dakota,Nevada
+South Dakota,New Jersey,46,34,2145.439209,4634,NA,South Dakota,New Jersey
+South Dakota,North Dakota,46,38,334.7545471,4638,1,South Dakota,North Dakota
+South Dakota,South Carolina,46,45,2029.197876,4645,NA,South Dakota,South Carolina
+South Dakota,Arizona,46,4,1495.326294,4604,NA,South Dakota,Arizona
+South Dakota,Arkansas,46,5,1252.332031,4605,NA,South Dakota,Arkansas
+Nevada,California,32,6,344.4761353,3206,4,Nevada,California
+Nevada,Wisconsin,32,55,2268.242188,3255,NA,Nevada,Wisconsin
+Nevada,Idaho,32,16,582.9318237,3216,6,Nevada,Idaho
+Nevada,Minnesota,32,27,1970.2229,3227,NA,Nevada,Minnesota
+Nevada,Iowa,32,19,1967.908081,3219,NA,Nevada,Iowa
+Nevada,Missouri,32,29,2090.063477,3229,NA,Nevada,Missouri
+Nevada,Maryland,32,24,3409.937744,3224,NA,Nevada,Maryland
+Nevada,Oregon,32,41,607.3119507,3241,1,Nevada,Oregon
+Nevada,Michigan,32,26,2631.376709,3226,NA,Nevada,Michigan
+Nevada,Montana,32,30,1028.463257,3230,13,Nevada,Montana
+Nevada,Utah,32,49,426.7601318,3249,2,Nevada,Utah
+Nevada,Virginia,32,51,3277.92749,3251,NA,Nevada,Virginia
+Nevada,Illinois,32,17,2339.753906,3217,NA,Nevada,Illinois
+Nevada,Texas,32,48,1794.657837,3248,NA,Nevada,Texas
+Nevada,Louisiana,32,22,2418.067871,3222,NA,Nevada,Louisiana
+Nevada,Florida,32,12,3347.080566,3212,NA,Nevada,Florida
+Nevada,Kentucky,32,21,2722.719238,3221,NA,Nevada,Kentucky
+Nevada,Tennessee,32,47,2683.167236,3247,NA,Nevada,Tennessee
+Nevada,New York,32,36,3433.37915,3236,NA,Nevada,New York
+Nevada,Georgia,32,13,3059.838623,3213,NA,Nevada,Georgia
+Nevada,Hawaii,32,15,4331.310547,3215,NA,Nevada,Hawaii
+Nevada,Delaware,32,10,3515.046875,3210,NA,Nevada,Delaware
+Nevada,Washington,32,53,949.1270142,3253,1,Nevada,Washington
+Nevada,Oklahoma,32,40,1735.941406,3240,NA,Nevada,Oklahoma
+Nevada,West Virginia,32,54,3092.55835,3254,NA,Nevada,West Virginia
+Nevada,Alaska,32,2,3584.392822,3202,NA,Nevada,Alaska
+Nevada,Pennsylvania,32,42,3280.018311,3242,NA,Nevada,Pennsylvania
+Nevada,Colorado,32,8,955.7073975,3208,NA,Nevada,Colorado
+Nevada,North Carolina,32,37,3309.181152,3237,NA,Nevada,North Carolina
+Nevada,Indiana,32,18,2588.102051,3218,NA,Nevada,Indiana
+Nevada,Kansas,32,20,1579.426514,3220,NA,Nevada,Kansas
+Nevada,District of Columbia,32,11,3390.131836,3211,NA,Nevada,District of Columbia
+Nevada,Rhode Island,32,44,3778.736328,3244,NA,Nevada,Rhode Island
+Nevada,Wyoming,32,56,861.8852539,3256,NA,Nevada,Wyoming
+Nevada,Mississippi,32,28,2522.45166,3228,NA,Nevada,Mississippi
+Nevada,Massachusetts,32,25,3748.45166,3225,NA,Nevada,Massachusetts
+Nevada,Connecticut,32,9,3682.156738,3209,NA,Nevada,Connecticut
+Nevada,Vermont,32,50,3644.125244,3250,NA,Nevada,Vermont
+Nevada,Maine,32,23,3896.108398,3223,NA,Nevada,Maine
+Nevada,New Hampshire,32,33,3736.270508,3233,NA,Nevada,New Hampshire
+Nevada,New Mexico,32,35,1082.963013,3235,NA,Nevada,New Mexico
+Nevada,Ohio,32,39,2874.478271,3239,NA,Nevada,Ohio
+Nevada,Alabama,32,1,2762.498047,3201,NA,Nevada,Alabama
+Nevada,Nebraska,32,31,1443.62793,3231,NA,Nevada,Nebraska
+Nevada,South Dakota,32,46,1468.924316,3246,NA,Nevada,South Dakota
+Nevada,New Jersey,32,34,3555.078613,3234,NA,Nevada,New Jersey
+Nevada,North Dakota,32,38,1583.015137,3238,NA,Nevada,North Dakota
+Nevada,South Carolina,32,45,3224.796387,3245,NA,Nevada,South Carolina
+Nevada,Arizona,32,4,715.1392822,3204,3,Nevada,Arizona
+Nevada,Arkansas,32,5,2193.831543,3205,NA,Nevada,Arkansas
+New Jersey,California,34,6,3862.729004,3406,1,New Jersey,California
+New Jersey,Wisconsin,34,55,1349.594971,3455,NA,New Jersey,Wisconsin
+New Jersey,Idaho,34,16,3286.822266,3416,NA,New Jersey,Idaho
+New Jersey,Minnesota,34,27,1723.859009,3427,NA,New Jersey,Minnesota
+New Jersey,Iowa,34,19,1588.021606,3419,3,New Jersey,Iowa
+New Jersey,Missouri,34,29,1542.641357,3429,NA,New Jersey,Missouri
+New Jersey,Maryland,34,24,219.3953857,3424,NA,New Jersey,Maryland
+New Jersey,Oregon,34,41,3763.382324,3441,2,New Jersey,Oregon
+New Jersey,Michigan,34,26,994.9259033,3426,NA,New Jersey,Michigan
+New Jersey,Montana,34,30,2890.381836,3430,NA,New Jersey,Montana
+New Jersey,Utah,34,49,3142.521484,3449,NA,New Jersey,Utah
+New Jersey,Virginia,34,51,464.4487,3451,NA,New Jersey,Virginia
+New Jersey,Illinois,34,17,1234.626831,3417,NA,New Jersey,Illinois
+New Jersey,Texas,34,48,2414.526611,3448,NA,New Jersey,Texas
+New Jersey,Louisiana,34,22,1859.459839,3422,NA,New Jersey,Louisiana
+New Jersey,Florida,34,12,1473.164307,3412,11,New Jersey,Florida
+New Jersey,Kentucky,34,21,966.1964722,3421,NA,New Jersey,Kentucky
+New Jersey,Tennessee,34,47,1129.565796,3447,NA,New Jersey,Tennessee
+New Jersey,New York,34,36,314.0842896,3436,1,New Jersey,New York
+New Jersey,Georgia,34,13,1147.500122,3413,NA,New Jersey,Georgia
+New Jersey,Hawaii,34,15,7884.536621,3415,NA,New Jersey,Hawaii
+New Jersey,Delaware,34,10,149.6863556,3410,2,New Jersey,Delaware
+New Jersey,Washington,34,53,3709.486572,3453,1,New Jersey,Washington
+New Jersey,Oklahoma,34,40,2061.335205,3440,NA,New Jersey,Oklahoma
+New Jersey,West Virginia,34,54,539.5774536,3454,NA,New Jersey,West Virginia
+New Jersey,Alaska,34,2,5491.665039,3402,NA,New Jersey,Alaska
+New Jersey,Pennsylvania,34,42,276.1923523,3442,1,New Jersey,Pennsylvania
+New Jersey,Colorado,34,8,2636.460938,3408,NA,New Jersey,Colorado
+New Jersey,North Carolina,34,37,649.4401245,3437,4,New Jersey,North Carolina
+New Jersey,Indiana,34,18,988.8826294,3418,NA,New Jersey,Indiana
+New Jersey,Kansas,34,20,2041.975952,3420,NA,New Jersey,Kansas
+New Jersey,District of Columbia,34,11,246.6905365,3411,1,New Jersey,District of Columbia
+New Jersey,Rhode Island,34,44,310.3905945,3444,NA,New Jersey,Rhode Island
+New Jersey,Wyoming,34,56,2735.430664,3456,NA,New Jersey,Wyoming
+New Jersey,Mississippi,34,28,1573.185913,3428,NA,New Jersey,Mississippi
+New Jersey,Massachusetts,34,25,333.8828125,3425,NA,New Jersey,Massachusetts
+New Jersey,Connecticut,34,9,228.1221466,3409,NA,New Jersey,Connecticut
+New Jersey,Vermont,34,50,462.6689758,3450,NA,New Jersey,Vermont
+New Jersey,Maine,34,23,724.2523804,3423,NA,New Jersey,Maine
+New Jersey,New Hampshire,34,33,465.1577148,3433,NA,New Jersey,New Hampshire
+New Jersey,New Mexico,34,35,2839.25415,3435,NA,New Jersey,New Mexico
+New Jersey,Ohio,34,39,690.2140503,3439,NA,New Jersey,Ohio
+New Jersey,Alabama,34,1,1362.112427,3401,NA,New Jersey,Alabama
+New Jersey,Nebraska,34,31,2111.451172,3431,NA,New Jersey,Nebraska
+New Jersey,South Dakota,34,46,2145.439209,3446,NA,New Jersey,South Dakota
+New Jersey,Nevada,34,32,3555.078613,3432,NA,New Jersey,Nevada
+New Jersey,North Dakota,34,38,2209.739502,3438,NA,New Jersey,North Dakota
+New Jersey,South Carolina,34,45,889.4481201,3445,NA,New Jersey,South Carolina
+New Jersey,Arizona,34,4,3315.991211,3404,NA,New Jersey,Arizona
+New Jersey,Arkansas,34,5,1670.529175,3405,1,New Jersey,Arkansas
+North Dakota,California,38,6,1927.100708,3806,3,North Dakota,California
+North Dakota,Wisconsin,38,55,866.4492798,3855,NA,North Dakota,Wisconsin
+North Dakota,Idaho,38,16,1145.712158,3816,NA,North Dakota,Idaho
+North Dakota,Minnesota,38,27,486.0323181,3827,12,North Dakota,Minnesota
+North Dakota,Iowa,38,19,811.7848511,3819,NA,North Dakota,Iowa
+North Dakota,Missouri,38,29,1201.696899,3829,NA,North Dakota,Missouri
+North Dakota,Maryland,38,24,2126.162354,3824,NA,North Dakota,Maryland
+North Dakota,Oregon,38,41,1604.185913,3841,NA,North Dakota,Oregon
+North Dakota,Michigan,38,26,1215.204712,3826,3,North Dakota,Michigan
+North Dakota,Montana,38,30,692.795105,3830,3,North Dakota,Montana
+North Dakota,Utah,38,49,1278.237671,3849,NA,North Dakota,Utah
+North Dakota,Virginia,38,51,2081.230469,3851,NA,North Dakota,Virginia
+North Dakota,Illinois,38,17,1221.828979,3817,NA,North Dakota,Illinois
+North Dakota,Texas,38,48,1782.789917,3848,NA,North Dakota,Texas
+North Dakota,Louisiana,38,22,1967.045532,3822,NA,North Dakota,Louisiana
+North Dakota,Florida,38,12,2611.576904,3812,NA,North Dakota,Florida
+North Dakota,Kentucky,38,21,1656.531372,3821,NA,North Dakota,Kentucky
+North Dakota,Tennessee,38,47,1737.285278,3847,NA,North Dakota,Tennessee
+North Dakota,New York,38,36,2010.011597,3836,NA,North Dakota,New York
+North Dakota,Georgia,38,13,2184.550537,3813,6,North Dakota,Georgia
+North Dakota,Hawaii,38,15,5820.251465,3815,NA,North Dakota,Hawaii
+North Dakota,Delaware,38,10,2217.519775,3810,NA,North Dakota,Delaware
+North Dakota,Washington,38,53,1502.963013,3853,NA,North Dakota,Washington
+North Dakota,Oklahoma,38,40,1341.6073,3840,NA,North Dakota,Oklahoma
+North Dakota,West Virginia,38,54,1878.497192,3854,NA,North Dakota,West Virginia
+North Dakota,Alaska,38,2,3591.076416,3802,NA,North Dakota,Alaska
+North Dakota,Pennsylvania,38,42,1941.182251,3842,NA,North Dakota,Pennsylvania
+North Dakota,Colorado,38,8,1025.613647,3808,NA,North Dakota,Colorado
+North Dakota,North Carolina,38,37,2199.618652,3837,NA,North Dakota,North Carolina
+North Dakota,Indiana,38,18,1413.251343,3818,NA,North Dakota,Indiana
+North Dakota,Kansas,38,20,1010.169067,3820,NA,North Dakota,Kansas
+North Dakota,District of Columbia,38,11,2114.292725,3811,NA,North Dakota,District of Columbia
+North Dakota,Rhode Island,38,44,2365.790527,3844,NA,North Dakota,Rhode Island
+North Dakota,Wyoming,38,56,743.2850952,3856,3,North Dakota,Wyoming
+North Dakota,Mississippi,38,28,1872.312866,3828,NA,North Dakota,Mississippi
+North Dakota,Massachusetts,38,25,2322.016602,3825,NA,North Dakota,Massachusetts
+North Dakota,Connecticut,38,9,2278.383545,3809,NA,North Dakota,Connecticut
+North Dakota,Vermont,38,50,2177.077637,3850,NA,North Dakota,Vermont
+North Dakota,Maine,38,23,2391.263428,3823,NA,North Dakota,Maine
+North Dakota,New Hampshire,38,33,2273.75,3833,NA,North Dakota,New Hampshire
+North Dakota,New Mexico,38,35,1524.874756,3835,5,North Dakota,New Mexico
+North Dakota,Ohio,38,39,1619.401611,3839,NA,North Dakota,Ohio
+North Dakota,Alabama,38,1,1995.310669,3801,NA,North Dakota,Alabama
+North Dakota,Nebraska,38,31,659.5610352,3831,NA,North Dakota,Nebraska
+North Dakota,South Dakota,38,46,334.7545471,3846,2,North Dakota,South Dakota
+North Dakota,Nevada,38,32,1583.015137,3832,NA,North Dakota,Nevada
+North Dakota,New Jersey,38,34,2209.739502,3834,NA,North Dakota,New Jersey
+North Dakota,South Carolina,38,45,2222.852295,3845,NA,North Dakota,South Carolina
+North Dakota,Arizona,38,4,1737.46521,3804,1,North Dakota,Arizona
+North Dakota,Arkansas,38,5,1547.288208,3805,NA,North Dakota,Arkansas
+South Carolina,California,45,6,3485.848145,4506,2,South Carolina,California
+South Carolina,Wisconsin,45,55,1424.409668,4555,1,South Carolina,Wisconsin
+South Carolina,Idaho,45,16,3105.052979,4516,NA,South Carolina,Idaho
+South Carolina,Minnesota,45,27,1782.504883,4527,NA,South Carolina,Minnesota
+South Carolina,Iowa,45,19,1427.492798,4519,NA,South Carolina,Iowa
+South Carolina,Missouri,45,29,1149.713501,4529,NA,South Carolina,Missouri
+South Carolina,Maryland,45,24,679.4476929,4524,NA,South Carolina,Maryland
+South Carolina,Oregon,45,41,3569.948242,4541,NA,South Carolina,Oregon
+South Carolina,Michigan,45,26,1222.786865,4526,NA,South Carolina,Michigan
+South Carolina,Montana,45,30,2812.641357,4530,NA,South Carolina,Montana
+South Carolina,Utah,45,49,2798.070557,4549,NA,South Carolina,Utah
+South Carolina,Virginia,45,51,443.8032837,4551,6,South Carolina,Virginia
+South Carolina,Illinois,45,17,1004.000122,4517,NA,South Carolina,Illinois
+South Carolina,Texas,45,48,1742.709229,4548,NA,South Carolina,Texas
+South Carolina,Louisiana,45,22,1084.207764,4522,NA,South Carolina,Louisiana
+South Carolina,Florida,45,12,610.5233765,4512,NA,South Carolina,Florida
+South Carolina,Kentucky,45,21,566.7122192,4521,NA,South Carolina,Kentucky
+South Carolina,Tennessee,45,47,543.074646,4547,2,South Carolina,Tennessee
+South Carolina,New York,45,36,1107.516357,4536,1,South Carolina,New York
+South Carolina,Georgia,45,13,275.4049683,4513,2,South Carolina,Georgia
+South Carolina,Hawaii,45,15,7464.147461,4515,NA,South Carolina,Hawaii
+South Carolina,Delaware,45,10,743.3060303,4510,NA,South Carolina,Delaware
+South Carolina,Washington,45,53,3613.317383,4553,NA,South Carolina,Washington
+South Carolina,Oklahoma,45,40,1526.775757,4540,6,South Carolina,Oklahoma
+South Carolina,West Virginia,45,54,527.1899414,4554,NA,South Carolina,West Virginia
+South Carolina,Alaska,45,2,5770.61377,4502,NA,South Carolina,Alaska
+South Carolina,Pennsylvania,45,42,821.7792358,4542,8,South Carolina,Pennsylvania
+South Carolina,Colorado,45,8,2269.205811,4508,NA,South Carolina,Colorado
+South Carolina,North Carolina,45,37,240.5979767,4537,9,South Carolina,North Carolina
+South Carolina,Indiana,45,18,820.0612793,4518,NA,South Carolina,Indiana
+South Carolina,Kansas,45,20,1646.977051,4520,NA,South Carolina,Kansas
+South Carolina,District of Columbia,45,11,654.786377,4511,NA,South Carolina,District of Columbia
+South Carolina,Rhode Island,45,44,1190.16748,4544,NA,South Carolina,Rhode Island
+South Carolina,Wyoming,45,56,2518.200928,4556,2,South Carolina,Wyoming
+South Carolina,Mississippi,45,28,825.4296265,4528,NA,South Carolina,Mississippi
+South Carolina,Massachusetts,45,25,1222.209595,4525,NA,South Carolina,Massachusetts
+South Carolina,Connecticut,45,9,1116.999634,4509,NA,South Carolina,Connecticut
+South Carolina,Vermont,45,50,1333.363037,4550,NA,South Carolina,Vermont
+South Carolina,Maine,45,23,1612.54895,4523,NA,South Carolina,Maine
+South Carolina,New Hampshire,45,33,1351.56311,4533,NA,South Carolina,New Hampshire
+South Carolina,New Mexico,45,35,2315.588379,4535,NA,South Carolina,New Mexico
+South Carolina,Ohio,45,39,729.7696533,4539,1,South Carolina,Ohio
+South Carolina,Alabama,45,1,565.9052734,4501,NA,South Carolina,Alabama
+South Carolina,Nebraska,45,31,1861.21167,4531,NA,South Carolina,Nebraska
+South Carolina,South Dakota,45,46,2029.197876,4546,NA,South Carolina,South Dakota
+South Carolina,Nevada,45,32,3224.796387,4532,NA,South Carolina,Nevada
+South Carolina,New Jersey,45,34,889.4481201,4534,NA,South Carolina,New Jersey
+South Carolina,North Dakota,45,38,2222.852295,4538,NA,South Carolina,North Dakota
+South Carolina,Arizona,45,4,2822.993896,4504,NA,South Carolina,Arizona
+South Carolina,Arkansas,45,5,1064.987183,4505,NA,South Carolina,Arkansas
+Arizona,California,4,6,775.3471069,406,13,Arizona,California
+Arizona,Wisconsin,4,55,2177.372559,455,NA,Arizona,Wisconsin
+Arizona,Idaho,4,16,1148.726318,416,NA,Arizona,Idaho
+Arizona,Minnesota,4,27,1979.62085,427,NA,Arizona,Minnesota
+Arizona,Iowa,4,19,1804.052246,419,1,Arizona,Iowa
+Arizona,Missouri,4,29,1775.634277,429,1,Arizona,Missouri
+Arizona,Maryland,4,24,3139.852051,424,1,Arizona,Maryland
+Arizona,Oregon,4,41,1318.835449,441,4,Arizona,Oregon
+Arizona,Michigan,4,26,2507.789307,426,6,Arizona,Michigan
+Arizona,Montana,4,30,1431.050049,430,NA,Arizona,Montana
+Arizona,Utah,4,49,559.4372559,449,9,Arizona,Utah
+Arizona,Virginia,4,51,2966.898926,451,NA,Arizona,Virginia
+Arizona,Illinois,4,17,2084.8396,417,NA,Arizona,Illinois
+Arizona,Texas,4,48,1195.56543,448,7,Arizona,Texas
+Arizona,Louisiana,4,22,1879.257813,422,1,Arizona,Louisiana
+Arizona,Florida,4,12,2832.18457,412,NA,Arizona,Florida
+Arizona,Kentucky,4,21,2393.660156,421,NA,Arizona,Kentucky
+Arizona,Tennessee,4,47,2304.015137,447,2,Arizona,Tennessee
+Arizona,New York,4,36,3257.967285,436,6,Arizona,New York
+Arizona,Georgia,4,13,2616.636963,413,1,Arizona,Georgia
+Arizona,Hawaii,4,15,4641.169434,415,NA,Arizona,Hawaii
+Arizona,Delaware,4,10,3247.266113,410,1,Arizona,Delaware
+Arizona,Washington,4,53,1634.61084,453,1,Arizona,Washington
+Arizona,Oklahoma,4,40,1298.5,440,NA,Arizona,Oklahoma
+Arizona,West Virginia,4,54,2804.267334,454,NA,Arizona,West Virginia
+Arizona,Alaska,4,2,4288.591309,402,1,Arizona,Alaska
+Arizona,Pennsylvania,4,42,3052.581299,442,1,Arizona,Pennsylvania
+Arizona,Colorado,4,8,756.7660522,408,NA,Arizona,Colorado
+Arizona,North Carolina,4,37,2951.563965,437,4,Arizona,North Carolina
+Arizona,Indiana,4,18,2327.513916,418,NA,Arizona,Indiana
+Arizona,Kansas,4,20,1276.747925,420,NA,Arizona,Kansas
+Arizona,District of Columbia,4,11,3116.490967,411,NA,Arizona,District of Columbia
+Arizona,Rhode Island,4,44,3578.290771,444,NA,Arizona,Rhode Island
+Arizona,Wyoming,4,56,1033.000366,456,4,Arizona,Wyoming
+Arizona,Mississippi,4,28,2042.581787,428,NA,Arizona,Mississippi
+Arizona,Massachusetts,4,25,3560.320068,425,NA,Arizona,Massachusetts
+Arizona,Connecticut,4,9,3478.876953,409,NA,Arizona,Connecticut
+Arizona,Vermont,4,50,3496.497314,450,NA,Arizona,Vermont
+Arizona,Maine,4,23,3778.072266,423,3,Arizona,Maine
+Arizona,New Hampshire,4,33,3580.417969,433,NA,Arizona,New Hampshire
+Arizona,New Mexico,4,35,509.5032349,435,18,Arizona,New Mexico
+Arizona,Ohio,4,39,2627.059326,439,11,Arizona,Ohio
+Arizona,Alabama,4,1,2302.01416,401,NA,Arizona,Alabama
+Arizona,Nebraska,4,31,1315.493774,431,NA,Arizona,Nebraska
+Arizona,South Dakota,4,46,1495.326294,446,1,Arizona,South Dakota
+Arizona,Nevada,4,32,715.1392822,432,2,Arizona,Nevada
+Arizona,New Jersey,4,34,3315.991211,434,4,Arizona,New Jersey
+Arizona,North Dakota,4,38,1737.46521,438,NA,Arizona,North Dakota
+Arizona,South Carolina,4,45,2822.993896,445,NA,Arizona,South Carolina
+Arizona,Arkansas,4,5,1758.049316,405,NA,Arizona,Arkansas
+Arkansas,California,5,6,2435.526611,506,NA,Arkansas,California
+Arkansas,Wisconsin,5,55,1102.058105,555,NA,Arkansas,Wisconsin
+Arkansas,Idaho,5,16,2160.608643,516,NA,Arkansas,Idaho
+Arkansas,Minnesota,5,27,1275.936157,527,NA,Arkansas,Minnesota
+Arkansas,Iowa,5,19,803.7629395,519,NA,Arkansas,Iowa
+Arkansas,Missouri,5,29,385.1062012,529,4,Arkansas,Missouri
+Arkansas,Maryland,5,24,1466.38147,524,NA,Arkansas,Maryland
+Arkansas,Oregon,5,41,2600.427246,541,NA,Arkansas,Oregon
+Arkansas,Michigan,5,26,1210.995728,526,NA,Arkansas,Michigan
+Arkansas,Montana,5,30,1969.333862,530,NA,Arkansas,Montana
+Arkansas,Utah,5,49,1770.559082,549,NA,Arkansas,Utah
+Arkansas,Virginia,5,51,1257.214844,551,NA,Arkansas,Virginia
+Arkansas,Illinois,5,17,639.8170776,517,NA,Arkansas,Illinois
+Arkansas,Texas,5,48,744.8344727,548,12,Arkansas,Texas
+Arkansas,Louisiana,5,22,434.1616211,522,NA,Arkansas,Louisiana
+Arkansas,Florida,5,12,1175.792725,512,4,Arkansas,Florida
+Arkansas,Kentucky,5,21,704.4672241,521,NA,Arkansas,Kentucky
+Arkansas,Tennessee,5,47,562.6862793,547,2,Arkansas,Tennessee
+Arkansas,New York,5,36,1711.893799,536,NA,Arkansas,New York
+Arkansas,Georgia,5,13,869.3598633,513,8,Arkansas,Georgia
+Arkansas,Hawaii,5,15,6399.21875,515,NA,Arkansas,Hawaii
+Arkansas,Delaware,5,10,1570.476807,510,1,Arkansas,Delaware
+Arkansas,Washington,5,53,2707.457764,553,NA,Arkansas,Washington
+Arkansas,Oklahoma,5,40,465.271759,540,NA,Arkansas,Oklahoma
+Arkansas,West Virginia,5,54,1131.265747,554,NA,Arkansas,West Virginia
+Arkansas,Alaska,5,2,5113.195313,502,NA,Arkansas,Alaska
+Arkansas,Pennsylvania,5,42,1444.431763,542,NA,Arkansas,Pennsylvania
+Arkansas,Colorado,5,8,1249.3927,508,NA,Arkansas,Colorado
+Arkansas,North Carolina,5,37,1205.886475,537,NA,Arkansas,North Carolina
+Arkansas,Indiana,5,18,777.6072998,518,NA,Arkansas,Indiana
+Arkansas,Kansas,5,20,663.322937,520,1,Arkansas,Kansas
+Arkansas,District of Columbia,5,11,1440.138916,511,NA,Arkansas,District of Columbia
+Arkansas,Rhode Island,5,44,1967.825562,544,NA,Arkansas,Rhode Island
+Arkansas,Wyoming,5,56,1583.262695,556,NA,Arkansas,Wyoming
+Arkansas,Mississippi,5,28,351.2592468,528,NA,Arkansas,Mississippi
+Arkansas,Massachusetts,5,25,1968.460815,525,NA,Arkansas,Massachusetts
+Arkansas,Connecticut,5,9,1871.112793,509,NA,Arkansas,Connecticut
+Arkansas,Vermont,5,50,1972.580688,550,NA,Arkansas,Vermont
+Arkansas,Maine,5,23,2277.827148,523,NA,Arkansas,Maine
+Arkansas,New Hampshire,5,33,2035.820923,533,NA,Arkansas,New Hampshire
+Arkansas,New Mexico,5,35,1250.727295,535,NA,Arkansas,New Mexico
+Arkansas,Ohio,5,39,1039.392456,539,NA,Arkansas,Ohio
+Arkansas,Alabama,5,1,569.1824341,501,NA,Arkansas,Alabama
+Arkansas,Nebraska,5,31,978.2046509,531,NA,Arkansas,Nebraska
+Arkansas,South Dakota,5,46,1252.332031,546,NA,Arkansas,South Dakota
+Arkansas,Nevada,5,32,2193.831543,532,NA,Arkansas,Nevada
+Arkansas,New Jersey,5,34,1670.529175,534,NA,Arkansas,New Jersey
+Arkansas,North Dakota,5,38,1547.288208,538,NA,Arkansas,North Dakota
+Arkansas,South Carolina,5,45,1064.987183,545,NA,Arkansas,South Carolina
+Arkansas,Arizona,5,4,1758.049316,504,NA,Arkansas,Arizona

@@ -1,0 +1,54 @@
+---
+title: "Untitled"
+format: html
+editor: visual
+---
+
+# Preparation 
+
+```{r}
+library(tidyverse)
+library(tidycensus)
+library(tidymodels)
+```
+
+# Load Dataset
+
+```{r}
+library(haven)
+yr1_movestate <- read_dta("1y_movestate.dta")
+
+library(haven)
+state_cd <- read_dta("state_cent_d_v1.dta")
+```
+
+# Merge distance and migration number
+
+```{r}
+mig_count <- yr1_movestate |>
+  mutate(state_comb = migsta1*100 + statefip) |>
+  count(state_comb)
+  group_by(state_comb) |>
+  summarize(n = n())
+```
+
+## state_sr1: n = NA for non-existing state combo
+
+```{r}
+state_sr1 <- state_cd |>
+  left_join(mig_count, by = "state_comb") 
+```
+
+## state_sr2: n = 0 for non-existing state combo
+
+```{r}
+state_sr2 <- state_sr1
+state_sr2$n <- replace_na(state_sr2$n, 0)
+```
+
+# use state_sr2 below
+
+```{r}
+
+```
+

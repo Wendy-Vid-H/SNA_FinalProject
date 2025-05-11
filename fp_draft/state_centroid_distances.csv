@@ -1,0 +1,2551 @@
+"state1_name","state2_name","state1_fips","state2_fips","distance_km"
+"California","Wisconsin","06","55",2595.70205015696
+"California","Idaho","06","16",896.002269368324
+"California","Minnesota","06","27",2307.51016336771
+"California","Iowa","06","19",2280.83358379348
+"California","Missouri","06","29",2369.66655672851
+"California","Maryland","06","24",3709.99124186271
+"California","Oregon","06","41",756.759968753905
+"California","Michigan","06","26",2956.13505300258
+"California","Montana","06","30",1363.06541908349
+"California","Utah","06","49",720.978349039922
+"California","Virginia","06","51",3567.03049942939
+"California","Illinois","06","17",2637.08630181823
+"California","Texas","06","48",1954.66523519748
+"California","Louisiana","06","22",2616.68205790068
+"California","Florida","06","12",3562.08270006961
+"California","Kentucky","06","21",3003.77408867814
+"California","Tennessee","06","47",2948.72598638236
+"California","New York","06","36",3753.02644648128
+"California","Georgia","06","13",3304.87614874382
+"California","Hawaii","06","15",4022.67233266514
+"California","Delaware","06","10",3816.0623727201
+"California","Washington","06","53",1138.6437219164
+"California","Oklahoma","06","40",1970.9816733194
+"California","West Virginia","06","54",3386.70403514174
+"California","Alaska","06","02",3682.2936022231
+"California","Pennsylvania","06","42",3589.0855775125
+"California","Colorado","06","08",1234.06552715165
+"California","North Carolina","06","37",3585.03672234432
+"California","Indiana","06","18",2886.02776874921
+"California","Kansas","06","20",1854.23277157744
+"California","District of Columbia","06","11",3689.25186954484
+"California","Rhode Island","06","44",4094.9372069136
+"California","Wyoming","06","56",1201.04975053278
+"California","Mississippi","06","28",2749.34095618579
+"California","Massachusetts","06","25",4066.83660537532
+"California","Connecticut","06","09",3997.52272977957
+"California","Vermont","06","50",3969.01631719197
+"California","Maine","06","23",4225.93041294947
+"California","New Hampshire","06","33",4060.11908414783
+"California","New Mexico","06","35",1242.61933250225
+"California","Ohio","06","39",3177.24308349253
+"California","Alabama","06","01",2999.02677623406
+"California","Nebraska","06","31",1755.46388796043
+"California","South Dakota","06","46",1803.87512500182
+"California","Nevada","06","32",344.476149581608
+"California","New Jersey","06","34",3862.7288872283
+"California","North Dakota","06","38",1927.1007461055
+"California","South Carolina","06","45",3485.84822531187
+"California","Arizona","06","04",775.347079898861
+"California","Arkansas","06","05",2435.5266195967
+"Wisconsin","California","55","06",2595.70205015696
+"Wisconsin","Idaho","55","16",1945.80606060905
+"Wisconsin","Minnesota","55","27",383.326033189225
+"Wisconsin","Iowa","55","19",400.744973251869
+"Wisconsin","Missouri","55","29",726.579964344986
+"Wisconsin","Maryland","55","24",1259.71332723354
+"Wisconsin","Oregon","55","41",2420.6104870684
+"Wisconsin","Michigan","55","26",367.079567865143
+"Wisconsin","Montana","55","30",1540.87925662995
+"Wisconsin","Utah","55","49",1880.75768610637
+"Wisconsin","Virginia","55","51",1224.82636312005
+"Wisconsin","Illinois","55","17",514.055113871077
+"Wisconsin","Texas","55","48",1674.889613417
+"Wisconsin","Louisiana","55","22",1523.12337550656
+"Wisconsin","Florida","55","12",1904.69402138951
+"Wisconsin","Kentucky","55","21",880.767958125412
+"Wisconsin","Tennessee","55","47",1022.48967774506
+"Wisconsin","New York","55","36",1176.74298506002
+"Wisconsin","Georgia","55","13",1448.50184134829
+"Wisconsin","Hawaii","55","15",6590.16584961266
+"Wisconsin","Delaware","55","10",1351.54447351628
+"Wisconsin","Washington","55","53",2360.5614522158
+"Wisconsin","Oklahoma","55","40",1189.08159241625
+"Wisconsin","West Virginia","55","54",1023.03873351176
+"Wisconsin","Alaska","55","02",4346.88456088635
+"Wisconsin","Pennsylvania","55","42",1077.81505645481
+"Wisconsin","Colorado","55","08",1429.95821068573
+"Wisconsin","North Carolina","55","37",1362.76231644982
+"Wisconsin","Indiana","55","18",608.217949344052
+"Wisconsin","Kansas","55","20",974.552590892588
+"Wisconsin","District of Columbia","55","11",1247.95442370294
+"Wisconsin","Rhode Island","55","44",1529.95928823353
+"Wisconsin","Wyoming","55","56",1417.7952680595
+"Wisconsin","Mississippi","55","28",1322.41241775858
+"Wisconsin","Massachusetts","55","25",1493.04173467496
+"Wisconsin","Connecticut","55","09",1437.50353507086
+"Wisconsin","Vermont","55","50",1376.5177345686
+"Wisconsin","Maine","55","23",1630.74508212804
+"Wisconsin","New Hampshire","55","33",1469.57075605989
+"Wisconsin","New Mexico","55","35",1784.04031708647
+"Wisconsin","Ohio","55","39",761.595044138358
+"Wisconsin","Alabama","55","01",1345.6150339721
+"Wisconsin","Nebraska","55","31",866.269323588273
+"Wisconsin","South Dakota","55","46",810.993655684592
+"Wisconsin","Nevada","55","32",2268.24211532373
+"Wisconsin","New Jersey","55","34",1349.59494328384
+"Wisconsin","North Dakota","55","38",866.449296733943
+"Wisconsin","South Carolina","55","45",1424.40970051181
+"Wisconsin","Arizona","55","04",2177.37258359142
+"Wisconsin","Arkansas","55","05",1102.05812057705
+"Idaho","California","16","06",896.002269368324
+"Idaho","Wisconsin","16","55",1945.80606060905
+"Idaho","Minnesota","16","27",1597.95593790132
+"Idaho","Iowa","16","19",1725.02407750585
+"Idaho","Missouri","16","29",1958.14705380326
+"Idaho","Maryland","16","24",3170.51052941554
+"Idaho","Oregon","16","41",476.976276129947
+"Idaho","Michigan","16","26",2311.93349503046
+"Idaho","Montana","16","30",489.584002203965
+"Idaho","Utah","16","49",611.648857512671
+"Idaho","Virginia","16","51",3076.49084497834
+"Idaho","Illinois","16","17",2138.65369939406
+"Idaho","Texas","16","48",1959.4823012611
+"Idaho","Louisiana","16","22",2472.52598531091
+"Idaho","Florida","16","12",3335.97681691369
+"Idaho","Kentucky","16","21",2560.32310252175
+"Idaho","Tennessee","16","47",2566.72694623505
+"Idaho","New York","16","36",3120.98724570103
+"Idaho","Georgia","16","13",2985.60452836372
+"Idaho","Hawaii","16","15",4674.79001840321
+"Idaho","Delaware","16","10",3270.498435612
+"Idaho","Washington","16","53",567.11344649436
+"Idaho","Oklahoma","16","40",1748.65782867535
+"Idaho","West Virginia","16","54",2879.21751378649
+"Idaho","Alaska","16","02",3195.03215755581
+"Idaho","Pennsylvania","16","42",3011.39867576374
+"Idaho","Colorado","16","08",958.848363324938
+"Idaho","North Carolina","16","37",3146.59379777274
+"Idaho","Indiana","16","18",2376.00498493399
+"Idaho","Kansas","16","20",1498.63011709767
+"Idaho","District of Columbia","16","11",3154.19949292702
+"Idaho","Rhode Island","16","44",3475.30620719575
+"Idaho","Wyoming","16","56",587.339649965935
+"Idaho","Mississippi","16","28",2509.90304881696
+"Idaho","Massachusetts","16","25",3436.76493636044
+"Idaho","Connecticut","16","09",3383.287011226
+"Idaho","Vermont","16","50",3306.19632700163
+"Idaho","Maine","16","23",3532.15000209217
+"Idaho","New Hampshire","16","33",3401.82021947592
+"Idaho","New Mexico","16","35",1323.62306041575
+"Idaho","Ohio","16","39",2637.35020574578
+"Idaho","Alabama","16","01",2718.21389542204
+"Idaho","Nebraska","16","31",1244.08548423972
+"Idaho","South Dakota","16","46",1141.4427469508
+"Idaho","Nevada","16","32",582.931796656633
+"Idaho","New Jersey","16","34",3286.82222630159
+"Idaho","North Dakota","16","38",1145.71218252455
+"Idaho","South Carolina","16","45",3105.05307012112
+"Idaho","Arizona","16","04",1148.72631199307
+"Idaho","Arkansas","16","05",2160.60866139816
+"Minnesota","California","27","06",2307.51016336771
+"Minnesota","Wisconsin","27","55",383.326033189225
+"Minnesota","Idaho","27","16",1597.95593790132
+"Minnesota","Iowa","27","19",472.194209435477
+"Minnesota","Missouri","27","29",894.097655660803
+"Minnesota","Maryland","27","24",1641.80577851894
+"Minnesota","Oregon","27","41",2067.65042389021
+"Minnesota","Michigan","27","26",729.797027438782
+"Minnesota","Montana","27","30",1170.88306580107
+"Minnesota","Utah","27","49",1610.5772268991
+"Minnesota","Virginia","27","51",1606.50949125836
+"Minnesota","Illinois","27","17",807.864261776084
+"Minnesota","Texas","27","48",1705.10723080016
+"Minnesota","Louisiana","27","22",1710.09765968744
+"Minnesota","Florida","27","12",2223.38601073777
+"Minnesota","Kentucky","27","21",1223.52716618367
+"Minnesota","Tennessee","27","47",1335.61014284144
+"Minnesota","New York","27","36",1530.13317197337
+"Minnesota","Georgia","27","13",1777.47977047339
+"Minnesota","Hawaii","27","15",6265.07703798533
+"Minnesota","Delaware","27","10",1732.16132771568
+"Minnesota","Washington","27","53",1986.92814472386
+"Minnesota","Oklahoma","27","40",1218.58978394056
+"Minnesota","West Virginia","27","54",1404.23266141844
+"Minnesota","Alaska","27","02",3992.2160523301
+"Minnesota","Pennsylvania","27","42",1455.17911000389
+"Minnesota","Colorado","27","08",1223.51406718969
+"Minnesota","North Carolina","27","37",1737.39581564448
+"Minnesota","Indiana","27","18",962.84272358034
+"Minnesota","Kansas","27","20",928.096232033875
+"Minnesota","District of Columbia","27","11",1630.52687241722
+"Minnesota","Rhode Island","27","44",1885.85922743288
+"Minnesota","Wyoming","27","56",1108.47433349792
+"Minnesota","Mississippi","27","28",1557.23695136363
+"Minnesota","Massachusetts","27","25",1844.14378196205
+"Minnesota","Connecticut","27","09",1796.83643983144
+"Minnesota","Vermont","27","50",1708.32262468641
+"Minnesota","Maine","27","23",1938.53926269282
+"Minnesota","New Hampshire","27","33",1804.10647321117
+"Minnesota","New Mexico","27","35",1653.02089034273
+"Minnesota","Ohio","27","39",1143.26794476274
+"Minnesota","Alabama","27","01",1631.02022038404
+"Minnesota","Nebraska","27","31",686.557989368256
+"Minnesota","South Dakota","27","46",505.798384555737
+"Minnesota","Nevada","27","32",1970.22295479161
+"Minnesota","New Jersey","27","34",1723.85906585879
+"Minnesota","North Dakota","27","38",486.032315791264
+"Minnesota","South Carolina","27","45",1782.504825032
+"Minnesota","Arizona","27","04",1979.6209058286
+"Minnesota","Arkansas","27","05",1275.9361758632
+"Iowa","California","19","06",2280.83358379348
+"Iowa","Wisconsin","19","55",400.744973251869
+"Iowa","Idaho","19","16",1725.02407750585
+"Iowa","Minnesota","19","27",472.194209435477
+"Iowa","Missouri","19","29",422.684277363073
+"Iowa","Maryland","19","24",1452.74747944625
+"Iowa","Oregon","19","41",2200.81992570407
+"Iowa","Michigan","19","26",703.80616219267
+"Iowa","Montana","19","30",1389.67032380505
+"Iowa","Utah","19","49",1559.87723444052
+"Iowa","Virginia","19","51",1351.74805350974
+"Iowa","Illinois","19","17",425.518678717033
+"Iowa","Texas","19","48",1289.8213081044
+"Iowa","Louisiana","19","22",1237.92284032684
+"Iowa","Florida","19","12",1800.64106288605
+"Iowa","Kentucky","19","21",862.469946465931
+"Iowa","Tennessee","19","47",926.491417742564
+"Iowa","New York","19","36",1475.21193823868
+"Iowa","Georgia","19","13",1373.57983791756
+"Iowa","Hawaii","19","15",6298.91515232063
+"Iowa","Delaware","19","10",1555.54677905933
+"Iowa","Washington","19","53",2200.96627877872
+"Iowa","Oklahoma","19","40",799.87161893316
+"Iowa","West Virginia","19","54",1154.22743018952
+"Iowa","Alaska","19","02",4400.64465319888
+"Iowa","Pennsylvania","19","42",1312.47765126852
+"Iowa","Colorado","19","08",1073.39947357369
+"Iowa","North Carolina","19","37",1433.91941412649
+"Iowa","Indiana","19","18",652.054937581042
+"Iowa","Kansas","19","20",574.369663568987
+"Iowa","District of Columbia","19","11",1434.90780213451
+"Iowa","Rhode Island","19","44",1814.20775080086
+"Iowa","Wyoming","19","56",1154.87782796584
+"Iowa","Mississippi","19","28",1091.90607668094
+"Iowa","Massachusetts","19","25",1787.21699160953
+"Iowa","Connecticut","19","09",1716.69294292645
+"Iowa","Vermont","19","50",1701.71301539803
+"Iowa","Maine","19","23",1976.34094247019
+"Iowa","New Hampshire","19","33",1789.39178077479
+"Iowa","New Mexico","19","35",1390.77895071766
+"Iowa","Ohio","19","39",916.425876716408
+"Iowa","Alabama","19","01",1188.8644043175
+"Iowa","Nebraska","19","31",525.422806790122
+"Iowa","South Dakota","19","46",605.200386922011
+"Iowa","Nevada","19","32",1967.90806367953
+"Iowa","New Jersey","19","34",1588.02158939099
+"Iowa","North Dakota","19","38",811.784856153342
+"Iowa","South Carolina","19","45",1427.49285822999
+"Iowa","Arizona","19","04",1804.05223027888
+"Iowa","Arkansas","19","05",803.762946909848
+"Missouri","California","29","06",2369.66655672851
+"Missouri","Wisconsin","29","55",726.579964344986
+"Missouri","Idaho","29","16",1958.14705380326
+"Missouri","Minnesota","29","27",894.097655660803
+"Missouri","Iowa","29","19",422.684277363073
+"Missouri","Maryland","29","24",1364.31032912505
+"Missouri","Oregon","29","41",2420.6593542932
+"Missouri","Michigan","29","26",889.091115701118
+"Missouri","Montana","29","30",1698.1373808758
+"Missouri","Utah","29","49",1664.30597736843
+"Missouri","Virginia","29","51",1200.53703082937
+"Missouri","Illinois","29","17",337.706453072702
+"Missouri","Texas","29","48",989.745613816104
+"Missouri","Louisiana","29","22",818.069512548496
+"Missouri","Florida","29","12",1427.45203078395
+"Missouri","Kentucky","29","21",634.158179373426
+"Missouri","Tennessee","29","47",608.783000362165
+"Missouri","New York","29","36",1515.16729638896
+"Missouri","Georgia","29","13",1034.56933467683
+"Missouri","Hawaii","29","15",6383.29582902473
+"Missouri","Delaware","29","10",1471.72164660541
+"Missouri","Washington","29","53",2478.38443713068
+"Missouri","Oklahoma","29","40",542.873284692522
+"Missouri","West Virginia","29","54",1029.84875672802
+"Missouri","Alaska","29","02",4789.3813688195
+"Missouri","Pennsylvania","29","42",1284.88835801226
+"Missouri","Colorado","29","08",1137.46978793387
+"Missouri","North Carolina","29","37",1219.12144022995
+"Missouri","Indiana","29","18",559.471927044625
+"Missouri","Kansas","29","20",515.736484533997
+"Missouri","District of Columbia","29","11",1341.12517844121
+"Missouri","Rhode Island","29","44",1814.98751180782
+"Missouri","Wyoming","29","56",1370.8127057135
+"Missouri","Mississippi","29","28",674.156562055816
+"Missouri","Massachusetts","29","25",1803.1052987167
+"Missouri","Connecticut","29","09",1715.5720879254
+"Missouri","Vermont","29","50",1767.78758336066
+"Missouri","Maine","29","23",2065.61353739278
+"Missouri","New Hampshire","29","33",1842.997636641
+"Missouri","New Mexico","29","35",1297.28103143317
+"Missouri","Ohio","29","39",858.043770606965
+"Missouri","Alabama","29","01",802.349249367298
+"Missouri","Nebraska","29","31",718.060341882949
+"Missouri","South Dakota","29","46",936.138045062213
+"Missouri","Nevada","29","32",2090.06342785686
+"Missouri","New Jersey","29","34",1542.64133477019
+"Missouri","North Dakota","29","38",1201.69686909163
+"Missouri","South Carolina","29","45",1149.71352305598
+"Missouri","Arizona","29","04",1775.63430243477
+"Missouri","Arkansas","29","05",385.106186385532
+"Maryland","California","24","06",3709.99124186271
+"Maryland","Wisconsin","24","55",1259.71332723354
+"Maryland","Idaho","24","16",3170.51052941554
+"Maryland","Minnesota","24","27",1641.80577851894
+"Maryland","Iowa","24","19",1452.74747944625
+"Maryland","Missouri","24","29",1364.31032912505
+"Maryland","Oregon","24","41",3647.4346076254
+"Maryland","Michigan","24","26",928.392924802702
+"Maryland","Montana","24","30",2793.80737501257
+"Maryland","Utah","24","49",2992.27242187076
+"Maryland","Virginia","24","51",245.709841805153
+"Maryland","Illinois","24","17",1072.98775489456
+"Maryland","Texas","24","48",2208.27845182842
+"Maryland","Louisiana","24","22",1642.01650006609
+"Maryland","Florida","24","12",1275.21541853465
+"Maryland","Kentucky","24","21",764.906954896136
+"Maryland","Tennessee","24","47",917.737493089115
+"Maryland","New York","24","36",446.571093132303
+"Maryland","Georgia","24","13",931.561106006421
+"Maryland","Hawaii","24","15",7732.36139696491
+"Maryland","Delaware","24","10",107.414121935991
+"Maryland","Washington","24","53",3614.63640833912
+"Maryland","Oklahoma","24","40",1870.3715322135
+"Maryland","West Virginia","24","54",338.69228987859
+"Maryland","Alaska","24","02",5496.60033798539
+"Maryland","Pennsylvania","24","42",224.559642496818
+"Maryland","Colorado","24","08",2478.19737643789
+"Maryland","North Carolina","24","37",442.568619064952
+"Maryland","Indiana","24","18",824.077684980777
+"Maryland","Kansas","24","20",1872.38153046868
+"Maryland","District of Columbia","24","11",27.4363337226607
+"Maryland","Rhode Island","24","44",529.710518806359
+"Maryland","Wyoming","24","56",2607.25899503796
+"Maryland","Mississippi","24","28",1356.27133832873
+"Maryland","Massachusetts","24","25",551.588234672323
+"Maryland","Connecticut","24","09",445.774766700388
+"Maryland","Vermont","24","50",654.931576272139
+"Maryland","Maine","24","23",934.42043578837
+"Maryland","New Hampshire","24","33",672.863975931575
+"Maryland","New Mexico","24","35",2655.70834886714
+"Maryland","Ohio","24","39",536.719858250757
+"Maryland","Alabama","24","01",1142.82884241329
+"Maryland","Nebraska","24","31",1969.20835909573
+"Maryland","South Dakota","24","46",2031.38606052343
+"Maryland","Nevada","24","32",3409.93784901383
+"Maryland","New Jersey","24","34",219.395386879303
+"Maryland","North Dakota","24","38",2126.16244290854
+"Maryland","South Carolina","24","45",679.447662893865
+"Maryland","Arizona","24","04",3139.85213542447
+"Maryland","Arkansas","24","05",1466.38149705576
+"Oregon","California","41","06",756.759968753905
+"Oregon","Wisconsin","41","55",2420.6104870684
+"Oregon","Idaho","41","16",476.976276129947
+"Oregon","Minnesota","41","27",2067.65042389021
+"Oregon","Iowa","41","19",2200.81992570407
+"Oregon","Missouri","41","29",2420.6593542932
+"Oregon","Maryland","41","24",3647.4346076254
+"Oregon","Michigan","41","26",2786.09610573518
+"Oregon","Montana","41","30",918.917331796298
+"Oregon","Utah","41","49",899.960493633027
+"Oregon","Virginia","41","51",3551.71930636215
+"Oregon","Illinois","41","17",2612.20462125799
+"Oregon","Texas","41","48",2318.52324398766
+"Oregon","Louisiana","41","22",2885.02537395674
+"Oregon","Florida","41","12",3775.31523077868
+"Oregon","Kentucky","41","21",3030.48417970494
+"Oregon","Tennessee","41","47",3029.28630063595
+"Oregon","New York","41","36",3594.35460279326
+"Oregon","Georgia","41","13",3440.6835879779
+"Oregon","Hawaii","41","15",4222.3640614844
+"Oregon","Delaware","41","10",3747.47275592252
+"Oregon","Washington","41","53",384.422769159197
+"Oregon","Oklahoma","41","40",2169.43456612101
+"Oregon","West Virginia","41","54",3355.02472871841
+"Oregon","Alaska","41","02",2977.70013757451
+"Oregon","Pennsylvania","41","42",3488.08058228021
+"Oregon","Colorado","41","08",1363.67812583187
+"Oregon","North Carolina","41","37",3618.09607145844
+"Oregon","Indiana","41","18",2851.05578489503
+"Oregon","Kansas","41","20",1944.84708079732
+"Oregon","District of Columbia","41","11",3631.06441510771
+"Oregon","Rhode Island","41","44",3949.17554357268
+"Oregon","Wyoming","41","56",1054.1668473517
+"Oregon","Mississippi","41","28",2945.86536649139
+"Oregon","Massachusetts","41","25",3909.73439418999
+"Oregon","Connecticut","41","09",3857.7324749451
+"Oregon","Vermont","41","50",3775.46878736134
+"Oregon","Maine","41","23",3995.37102971186
+"Oregon","New Hampshire","41","33",3871.50113466367
+"Oregon","New Mexico","41","35",1630.99808432662
+"Oregon","Ohio","41","39",3114.03395670799
+"Oregon","Alabama","41","01",3164.56941037882
+"Oregon","Nebraska","41","31",1712.30197421863
+"Oregon","South Dakota","41","46",1618.19994732062
+"Oregon","Nevada","41","32",607.311935834094
+"Oregon","New Jersey","41","34",3763.38240618371
+"Oregon","North Dakota","41","38",1604.18587697491
+"Oregon","South Carolina","41","45",3569.94829964515
+"Oregon","Arizona","41","04",1318.83548773964
+"Oregon","Arkansas","41","05",2600.42719781137
+"Michigan","California","26","06",2956.13505300258
+"Michigan","Wisconsin","26","55",367.079567865143
+"Michigan","Idaho","26","16",2311.93349503046
+"Michigan","Minnesota","26","27",729.797027438782
+"Michigan","Iowa","26","19",703.80616219267
+"Michigan","Missouri","26","29",889.091115701118
+"Michigan","Maryland","26","24",928.392924802702
+"Michigan","Oregon","26","41",2786.09610573518
+"Michigan","Montana","26","30",1899.44843609336
+"Michigan","Utah","26","49",2238.53934388914
+"Michigan","Virginia","26","51",938.144024869395
+"Michigan","Illinois","26","17",572.092449389616
+"Michigan","Texas","26","48",1878.61087227238
+"Michigan","Louisiana","26","22",1588.85819705645
+"Michigan","Florida","26","12",1771.61375207375
+"Michigan","Kentucky","26","21",756.926937254478
+"Michigan","Tennessee","26","47",946.806398506324
+"Michigan","New York","26","36",809.712976466349
+"Michigan","Georgia","26","13",1312.3487404012
+"Michigan","Hawaii","26","15",6956.13801375099
+"Michigan","Delaware","26","10",1012.01526073036
+"Michigan","Washington","26","53",2716.6629277214
+"Michigan","Oklahoma","26","40",1415.86022183538
+"Michigan","West Virginia","26","54",747.139402205028
+"Michigan","Alaska","26","02",4597.5986104926
+"Michigan","Pennsylvania","26","42",729.777754329809
+"Michigan","Colorado","26","08",1771.78117140062
+"Michigan","North Carolina","26","37",1110.21793622631
+"Michigan","Indiana","26","18",500.051133424274
+"Michigan","Kansas","26","20",1261.55671293043
+"Michigan","District of Columbia","26","11",920.504940632658
+"Michigan","Rhode Island","26","44",1163.38739895781
+"Michigan","Wyoming","26","56",1783.97306488634
+"Michigan","Mississippi","26","28",1342.63653792302
+"Michigan","Massachusetts","26","25",1125.98147790621
+"Michigan","Connecticut","26","09",1071.65987493406
+"Michigan","Vermont","26","50",1012.99282486523
+"Michigan","Maine","26","23",1276.48095177397
+"Michigan","New Hampshire","26","33",1104.90221528108
+"Michigan","New Mexico","26","35",2087.46654570088
+"Michigan","Ohio","26","39",497.930714192843
+"Michigan","Alabama","26","01",1292.08898901409
+"Michigan","Nebraska","26","31",1212.17474397997
+"Michigan","South Dakota","26","46",1178.021716137
+"Michigan","Nevada","26","32",2631.3766128228
+"Michigan","New Jersey","26","34",994.925922174138
+"Michigan","North Dakota","26","38",1215.20467218811
+"Michigan","South Carolina","26","45",1222.78686080714
+"Michigan","Arizona","26","04",2507.78930835553
+"Michigan","Arkansas","26","05",1210.99569509152
+"Montana","California","30","06",1363.06541908349
+"Montana","Wisconsin","30","55",1540.87925662995
+"Montana","Idaho","30","16",489.584002203965
+"Montana","Minnesota","30","27",1170.88306580107
+"Montana","Iowa","30","19",1389.67032380505
+"Montana","Missouri","30","29",1698.1373808758
+"Montana","Maryland","30","24",2793.80737501257
+"Montana","Oregon","30","41",918.917331796298
+"Montana","Michigan","30","26",1899.44843609336
+"Montana","Utah","30","49",877.112829610706
+"Montana","Virginia","30","51",2726.64031977149
+"Montana","Illinois","30","17",1815.03781233903
+"Montana","Texas","30","48",1946.46153163777
+"Montana","Louisiana","30","22",2337.78225688273
+"Montana","Florida","30","12",3120.61604992772
+"Montana","Kentucky","30","21",2250.71592657272
+"Montana","Tennessee","30","47",2291.61899170116
+"Montana","New York","30","36",2700.39071598269
+"Montana","Georgia","30","13",2730.22043430481
+"Montana","Hawaii","30","15",5141.17265860287
+"Montana","Delaware","30","10",2889.06075657432
+"Montana","Washington","30","53",820.829387079043
+"Montana","Oklahoma","30","40",1624.5418834203
+"Montana","West Virginia","30","54",2525.06021820523
+"Montana","Alaska","30","02",3183.03449605686
+"Montana","Pennsylvania","30","42",2618.49121116483
+"Montana","Colorado","30","08",954.961503301656
+"Montana","North Carolina","30","37",2822.4116519104
+"Montana","Indiana","30","18",2035.56286895986
+"Montana","Kansas","30","20",1320.10407591679
+"Montana","District of Columbia","30","11",2780.01244590584
+"Montana","Rhode Island","30","44",3056.2102270904
+"Montana","Wyoming","30","56",479.804530395487
+"Montana","Mississippi","30","28",2318.81214880811
+"Montana","Massachusetts","30","25",3013.42517856898
+"Montana","Connecticut","30","09",2967.65337829712
+"Montana","Vermont","30","50",2869.87224154249
+"Montana","Maine","30","23",3081.37192250118
+"Montana","New Hampshire","30","33",2966.54222685696
+"Montana","New Mexico","30","35",1436.67563326966
+"Montana","Ohio","30","39",2272.12291740414
+"Montana","Alabama","30","01",2494.05528755449
+"Montana","Nebraska","30","31",993.190623874737
+"Montana","South Dakota","30","46",784.596397538236
+"Montana","Nevada","30","32",1028.463289373
+"Montana","New Jersey","30","34",2890.38186567525
+"Montana","North Dakota","30","38",692.795091387043
+"Montana","South Carolina","30","45",2812.64128059316
+"Montana","Arizona","30","04",1431.05000166641
+"Montana","Arkansas","30","05",1969.3338119559
+"Utah","California","49","06",720.978349039922
+"Utah","Wisconsin","49","55",1880.75768610637
+"Utah","Idaho","49","16",611.648857512671
+"Utah","Minnesota","49","27",1610.5772268991
+"Utah","Iowa","49","19",1559.87723444052
+"Utah","Missouri","49","29",1664.30597736843
+"Utah","Maryland","49","24",2992.27242187076
+"Utah","Oregon","49","41",899.960493633027
+"Utah","Michigan","49","26",2238.53934388914
+"Utah","Montana","49","30",877.112829610706
+"Utah","Virginia","49","51",2855.24333213714
+"Utah","Illinois","49","17",1920.12741432453
+"Utah","Texas","49","48",1419.61830864372
+"Utah","Louisiana","49","22",2011.28571406355
+"Utah","Florida","49","12",2930.18090984657
+"Utah","Kentucky","49","21",2297.5663856007
+"Utah","Tennessee","49","47",2256.40824146515
+"Utah","New York","49","36",3032.74288598572
+"Utah","Georgia","49","13",2634.85049168312
+"Utah","Hawaii","49","15",4742.1239682627
+"Utah","Delaware","49","10",3097.97233024903
+"Utah","Washington","49","53",1146.47175824081
+"Utah","Oklahoma","49","40",1316.19313262271
+"Utah","West Virginia","49","54",2671.78994402296
+"Utah","Alaska","49","02",3799.22880376689
+"Utah","Pennsylvania","49","42",2868.54654410192
+"Utah","Colorado","49","08",528.947988510345
+"Utah","North Carolina","49","37",2883.29837764676
+"Utah","Indiana","49","18",2168.93249604629
+"Utah","Kansas","49","20",1152.79492442033
+"Utah","District of Columbia","49","11",2971.93745154576
+"Utah","Rhode Island","49","44",3374.03228749164
+"Utah","Wyoming","49","56",535.855627785975
+"Utah","Mississippi","49","28",2102.95538093754
+"Utah","Massachusetts","49","25",3346.21728267731
+"Utah","Connecticut","49","09",3276.57014194783
+"Utah","Vermont","49","50",3250.81734155836
+"Utah","Maine","49","23",3511.44419548707
+"Utah","New Hampshire","49","33",3341.31778516968
+"Utah","New Mexico","49","35",735.323564551065
+"Utah","Ohio","49","39",2458.2818161252
+"Utah","Alabama","49","01",2339.6593042838
+"Utah","Nebraska","49","31",1034.54976143019
+"Utah","South Dakota","49","46",1104.86262780609
+"Utah","Nevada","49","32",426.760146213004
+"Utah","New Jersey","49","34",3142.52139990718
+"Utah","North Dakota","49","38",1278.23763674633
+"Utah","South Carolina","49","45",2798.07066895598
+"Utah","Arizona","49","04",559.437284217852
+"Utah","Arkansas","49","05",1770.55911321082
+"Virginia","California","51","06",3567.03049942939
+"Virginia","Wisconsin","51","55",1224.82636312005
+"Virginia","Idaho","51","16",3076.49084497834
+"Virginia","Minnesota","51","27",1606.50949125836
+"Virginia","Iowa","51","19",1351.74805350974
+"Virginia","Missouri","51","29",1200.53703082937
+"Virginia","Maryland","51","24",245.709841805153
+"Virginia","Oregon","51","41",3551.71930636215
+"Virginia","Michigan","51","26",938.144024869395
+"Virginia","Montana","51","30",2726.64031977149
+"Virginia","Utah","51","49",2855.24333213714
+"Virginia","Illinois","51","17",943.288292721937
+"Virginia","Texas","51","48",1992.22303614105
+"Virginia","Louisiana","51","22",1405.11353841026
+"Virginia","Florida","51","12",1050.35291211834
+"Virginia","Kentucky","51","21",573.325356300071
+"Virginia","Tennessee","51","47",697.855063654368
+"Virginia","New York","51","36",663.863993770647
+"Virginia","Georgia","51","13",687.224649231658
+"Virginia","Hawaii","51","15",7583.72308081296
+"Virginia","Delaware","51","10",331.621725592962
+"Virginia","Washington","51","53",3545.01808570487
+"Virginia","Oklahoma","51","40",1680.91657539764
+"Virginia","West Virginia","51","54",202.736220355004
+"Virginia","Alaska","51","02",5535.72486959185
+"Virginia","Pennsylvania","51","42",383.38808560156
+"Virginia","Colorado","51","08",2333.01618599823
+"Virginia","North Carolina","51","37",221.259025355112
+"Virginia","Indiana","51","18",700.697061346848
+"Virginia","Kansas","51","20",1715.66919765308
+"Virginia","District of Columbia","51","11",218.977273058084
+"Virginia","Rhode Island","51","44",774.076330279379
+"Virginia","Wyoming","51","56",2501.47620177065
+"Virginia","Mississippi","51","28",1121.22756605426
+"Virginia","Massachusetts","51","25",797.289743764651
+"Virginia","Connecticut","51","09",691.463376937084
+"Virginia","Vermont","51","50",892.149011550027
+"Virginia","Maine","51","23",1177.96859836132
+"Virginia","New Hampshire","51","33",916.144638528559
+"Virginia","New Mexico","51","35",2473.75452183755
+"Virginia","Ohio","51","39",463.292871963683
+"Virginia","Alabama","51","01",900.223423911545
+"Virginia","Nebraska","51","31",1850.35165599633
+"Virginia","South Dakota","51","46",1949.29921177777
+"Virginia","Nevada","51","32",3277.92744689466
+"Virginia","New Jersey","51","34",464.448693569268
+"Virginia","North Dakota","51","38",2081.23034775451
+"Virginia","South Carolina","51","45",443.803294990678
+"Virginia","Arizona","51","04",2966.89897096888
+"Virginia","Arkansas","51","05",1257.21478676441
+"Illinois","California","17","06",2637.08630181823
+"Illinois","Wisconsin","17","55",514.055113871077
+"Illinois","Idaho","17","16",2138.65369939406
+"Illinois","Minnesota","17","27",807.864261776084
+"Illinois","Iowa","17","19",425.518678717033
+"Illinois","Missouri","17","29",337.706453072702
+"Illinois","Maryland","17","24",1072.98775489456
+"Illinois","Oregon","17","41",2612.20462125799
+"Illinois","Michigan","17","26",572.092449389616
+"Illinois","Montana","17","30",1815.03781233903
+"Illinois","Utah","17","49",1920.12741432453
+"Illinois","Virginia","17","51",943.288292721937
+"Illinois","Texas","17","48",1319.66363197621
+"Illinois","Louisiana","17","22",1033.73656703231
+"Illinois","Florida","17","12",1415.63801771788
+"Illinois","Kentucky","17","21",437.703688277204
+"Illinois","Tennessee","17","47",527.745891008538
+"Illinois","New York","17","36",1183.60182838479
+"Illinois","Georgia","17","13",971.129148624394
+"Illinois","Hawaii","17","15",6659.37367153357
+"Illinois","Delaware","17","10",1179.30911606179
+"Illinois","Washington","17","53",2624.59316479932
+"Illinois","Oklahoma","17","40",880.49040535448
+"Illinois","West Virginia","17","54",753.227908681476
+"Illinois","Alaska","17","02",4794.84380032461
+"Illinois","Pennsylvania","17","42",967.994850285463
+"Illinois","Colorado","17","08",1405.41767631031
+"Illinois","North Carolina","17","37",1010.71187341625
+"Illinois","Indiana","17","18",248.941510800361
+"Illinois","Kansas","17","20",808.504507603505
+"Illinois","District of Columbia","17","11",1052.16766118422
+"Illinois","Rhode Island","17","44",1493.93658720429
+"Illinois","Wyoming","17","56",1559.76820962745
+"Illinois","Mississippi","17","28",813.308211623088
+"Illinois","Massachusetts","17","25",1478.10531071954
+"Illinois","Connecticut","17","09",1394.45770414564
+"Illinois","Vermont","17","50",1433.4621951978
+"Illinois","Maine","17","23",1729.55188535264
+"Illinois","New Hampshire","17","33",1510.69139259362
+"Illinois","New Mexico","17","35",1620.17712810042
+"Illinois","Ohio","17","39",544.43830112397
+"Illinois","Alabama","17","01",834.953782498783
+"Illinois","Nebraska","17","31",907.063457736598
+"Illinois","South Dakota","17","46",1030.45640469889
+"Illinois","Nevada","17","32",2339.75398309125
+"Illinois","New Jersey","17","34",1234.62687103868
+"Illinois","North Dakota","17","38",1221.82897675321
+"Illinois","South Carolina","17","45",1004.00010786648
+"Illinois","Arizona","17","04",2084.839557887
+"Illinois","Arkansas","17","05",639.817054616156
+"Texas","California","48","06",1954.66523519748
+"Texas","Wisconsin","48","55",1674.889613417
+"Texas","Idaho","48","16",1959.4823012611
+"Texas","Minnesota","48","27",1705.10723080016
+"Texas","Iowa","48","19",1289.8213081044
+"Texas","Missouri","48","29",989.745613816104
+"Texas","Maryland","48","24",2208.27845182842
+"Texas","Oregon","48","41",2318.52324398766
+"Texas","Michigan","48","26",1878.61087227238
+"Texas","Montana","48","30",1946.46153163777
+"Texas","Utah","48","49",1419.61830864372
+"Texas","Virginia","48","51",1992.22303614105
+"Texas","Illinois","48","17",1319.66363197621
+"Texas","Louisiana","48","22",702.333995680664
+"Texas","Florida","48","12",1651.53148242593
+"Texas","Kentucky","48","21",1448.98429292535
+"Texas","Tennessee","48","47",1294.43856169794
+"Texas","New York","48","36",2452.31029854445
+"Texas","Georgia","48","13",1500.34350136349
+"Texas","Hawaii","48","15",5778.88347292359
+"Texas","Delaware","48","10",2311.25012446332
+"Texas","Washington","48","53",2525.87642923356
+"Texas","Oklahoma","48","40",490.669040587782
+"Texas","West Virginia","48","54",1874.98568291681
+"Texas","Alaska","48","02",5116.81047452535
+"Texas","Pennsylvania","48","42",2188.7311704638
+"Texas","Colorado","48","08",1013.06736153947
+"Texas","North Carolina","48","37",1917.28281707177
+"Texas","Indiana","48","18",1502.87933034213
+"Texas","Kansas","48","20",788.667086819901
+"Texas","District of Columbia","48","11",2181.74793428136
+"Texas","Rhode Island","48","44",2712.64726636306
+"Texas","Wyoming","48","56",1476.05079860879
+"Texas","Mississippi","48","28",918.976383542789
+"Texas","Massachusetts","48","25",2713.08776235345
+"Texas","Connecticut","48","09",2615.93899304646
+"Texas","Vermont","48","50",2712.11070875917
+"Texas","Maine","48","23",3016.33833255339
+"Texas","New Hampshire","48","33",2777.79521813235
+"Texas","New Mexico","48","35",715.787927301017
+"Texas","Ohio","48","39",1778.83279266325
+"Texas","Alabama","48","01",1183.3951181939
+"Texas","Nebraska","48","31",1123.48464645921
+"Texas","South Dakota","48","46",1448.04303112844
+"Texas","Nevada","48","32",1794.65789535309
+"Texas","New Jersey","48","34",2414.5266478827
+"Texas","North Dakota","48","38",1782.78987529485
+"Texas","South Carolina","48","45",1742.70919138455
+"Texas","Arizona","48","04",1195.5654442634
+"Texas","Arkansas","48","05",744.834494178052
+"Louisiana","California","22","06",2616.68205790068
+"Louisiana","Wisconsin","22","55",1523.12337550656
+"Louisiana","Idaho","22","16",2472.52598531091
+"Louisiana","Minnesota","22","27",1710.09765968744
+"Louisiana","Iowa","22","19",1237.92284032684
+"Louisiana","Missouri","22","29",818.069512548496
+"Louisiana","Maryland","22","24",1642.01650006609
+"Louisiana","Oregon","22","41",2885.02537395674
+"Louisiana","Michigan","22","26",1588.85819705645
+"Louisiana","Montana","22","30",2337.78225688273
+"Louisiana","Utah","22","49",2011.28571406355
+"Louisiana","Virginia","22","51",1405.11353841026
+"Louisiana","Illinois","22","17",1033.73656703231
+"Louisiana","Texas","22","48",702.333995680664
+"Louisiana","Florida","22","12",953.436978972623
+"Louisiana","Kentucky","22","21",946.609382337255
+"Louisiana","Tennessee","22","47",747.230137913159
+"Louisiana","New York","22","36",1965.02418585646
+"Louisiana","Georgia","22","13",822.771988862582
+"Louisiana","Hawaii","22","15",6481.21540832768
+"Louisiana","Delaware","22","10",1736.18358214845
+"Louisiana","Washington","22","53",3033.23413288644
+"Louisiana","Oklahoma","22","40",725.089226121496
+"Louisiana","West Virginia","22","54",1334.3722095047
+"Louisiana","Alaska","22","02",5507.1056420815
+"Louisiana","Pennsylvania","22","42",1675.96494437653
+"Louisiana","Colorado","22","08",1522.3257512639
+"Louisiana","North Carolina","22","37",1286.99973587874
+"Louisiana","Indiana","22","18",1111.66442378297
+"Louisiana","Kansas","22","20",1018.5183915535
+"Louisiana","District of Columbia","22","11",1614.59653751269
+"Louisiana","Rhode Island","22","44",2168.73557677698
+"Louisiana","Wyoming","22","56",1917.21002855766
+"Louisiana","Mississippi","22","28",287.287144846921
+"Louisiana","Massachusetts","22","25",2181.80545001425
+"Louisiana","Connecticut","22","09",2078.32355658846
+"Louisiana","Vermont","22","50",2224.46506887609
+"Louisiana","Maine","22","23",2529.0376059302
+"Louisiana","New Hampshire","22","33",2274.11817239922
+"Louisiana","New Mexico","22","35",1378.00901717112
+"Louisiana","Ohio","22","39",1319.68746979195
+"Louisiana","Alabama","22","01",519.960364047148
+"Louisiana","Nebraska","22","31",1364.72281894496
+"Louisiana","South Dakota","22","46",1659.97633601953
+"Louisiana","Nevada","22","32",2418.06787361631
+"Louisiana","New Jersey","22","34",1859.45981142305
+"Louisiana","North Dakota","22","38",1967.04555575972
+"Louisiana","South Carolina","22","45",1084.2077648644
+"Louisiana","Arizona","22","04",1879.25787242767
+"Louisiana","Arkansas","22","05",434.161620959947
+"Florida","California","12","06",3562.08270006961
+"Florida","Wisconsin","12","55",1904.69402138951
+"Florida","Idaho","12","16",3335.97681691369
+"Florida","Minnesota","12","27",2223.38601073777
+"Florida","Iowa","12","19",1800.64106288605
+"Florida","Missouri","12","29",1427.45203078395
+"Florida","Maryland","12","24",1275.21541853465
+"Florida","Oregon","12","41",3775.31523077868
+"Florida","Michigan","12","26",1771.61375207375
+"Florida","Montana","12","30",3120.61604992772
+"Florida","Utah","12","49",2930.18090984657
+"Florida","Virginia","12","51",1050.35291211834
+"Florida","Illinois","12","17",1415.63801771788
+"Florida","Texas","12","48",1651.53148242593
+"Florida","Louisiana","12","22",953.436978972623
+"Florida","Kentucky","12","21",1030.17900256008
+"Florida","Tennessee","12","47",888.083798221597
+"Florida","New York","12","36",1713.25862246949
+"Florida","Georgia","12","13",460.660641150784
+"Florida","Hawaii","12","15",7425.79292007582
+"Florida","Delaware","12","10",1323.62339865114
+"Florida","Washington","12","53",3879.31594862867
+"Florida","Oklahoma","12","40",1614.49541577612
+"Florida","West Virginia","12","54",1131.52170540756
+"Florida","Alaska","12","02",6201.16977164785
+"Florida","Pennsylvania","12","42",1431.46006594103
+"Florida","Colorado","12","08",2418.20933207069
+"Florida","North Carolina","12","37",834.159300752049
+"Florida","Indiana","12","18",1305.8674019832
+"Florida","Kansas","12","20",1837.52381607569
+"Florida","District of Columbia","12","11",1252.48924065202
+"Florida","Rhode Island","12","44",1758.05318440391
+"Florida","Wyoming","12","56",2756.14300167644
+"Florida","Mississippi","12","28",829.883138010393
+"Florida","Massachusetts","12","25",1798.30410417472
+"Florida","Connecticut","12","09",1695.76196942577
+"Florida","Vermont","12","50",1929.19720286799
+"Florida","Maine","12","23",2195.78815767099
+"Florida","New Hampshire","12","33",1938.27449261437
+"Florida","New Mexico","12","35",2328.75272719326
+"Florida","Ohio","12","39",1302.51578617455
+"Florida","Alabama","12","01",626.604215984861
+"Florida","Nebraska","12","31",2129.42563671969
+"Florida","South Dakota","12","46",2363.1935294177
+"Florida","Nevada","12","32",3347.08057154414
+"Florida","New Jersey","12","34",1473.16433279635
+"Florida","North Dakota","12","38",2611.57697472203
+"Florida","South Carolina","12","45",610.523378281979
+"Florida","Arizona","12","04",2832.18452274047
+"Florida","Arkansas","12","05",1175.79267395589
+"Kentucky","California","21","06",3003.77408867814
+"Kentucky","Wisconsin","21","55",880.767958125412
+"Kentucky","Idaho","21","16",2560.32310252175
+"Kentucky","Minnesota","21","27",1223.52716618367
+"Kentucky","Iowa","21","19",862.469946465931
+"Kentucky","Missouri","21","29",634.158179373426
+"Kentucky","Maryland","21","24",764.906954896136
+"Kentucky","Oregon","21","41",3030.48417970494
+"Kentucky","Michigan","21","26",756.926937254478
+"Kentucky","Montana","21","30",2250.71592657272
+"Kentucky","Utah","21","49",2297.5663856007
+"Kentucky","Virginia","21","51",573.325356300071
+"Kentucky","Illinois","21","17",437.703688277204
+"Kentucky","Texas","21","48",1448.98429292535
+"Kentucky","Louisiana","21","22",946.609382337255
+"Kentucky","Florida","21","12",1030.17900256008
+"Kentucky","Tennessee","21","47",208.447709372284
+"Kentucky","New York","21","36",1024.69025252708
+"Kentucky","Georgia","21","13",570.413719733772
+"Kentucky","Hawaii","21","15",7015.13433607504
+"Kentucky","Delaware","21","10",870.50721807702
+"Kentucky","Washington","21","53",3056.81876441416
+"Kentucky","Oklahoma","21","40",1109.49867240541
+"Kentucky","West Virginia","21","54",427.547236985041
+"Kentucky","Alaska","21","02",5215.62715771198
+"Kentucky","Pennsylvania","21","42",745.252188361031
+"Kentucky","Colorado","21","08",1771.47111532217
+"Kentucky","North Carolina","21","37",589.280231011851
+"Kentucky","Indiana","21","18",275.813385990506
+"Kentucky","Kansas","21","20",1149.61101369024
+"Kentucky","District of Columbia","21","11",739.241721106833
+"Kentucky","Rhode Island","21","44",1264.0203937712
+"Kentucky","Wyoming","21","56",1976.32258951492
+"Kentucky","Mississippi","21","28",664.788307036374
+"Kentucky","Massachusetts","21","25",1266.59705108996
+"Kentucky","Connecticut","21","09",1167.89653562035
+"Kentucky","Vermont","21","50",1285.70190769015
+"Kentucky","Maine","21","23",1591.54020452406
+"Kentucky","New Hampshire","21","33",1342.26433892053
+"Kentucky","New Mexico","21","35",1900.8310057419
+"Kentucky","Ohio","21","39",375.376571884957
+"Kentucky","Alabama","21","01",547.04403920339
+"Kentucky","Nebraska","21","31",1318.28645094041
+"Kentucky","South Dakota","21","46",1466.2806870875
+"Kentucky","Nevada","21","32",2722.71918033344
+"Kentucky","New Jersey","21","34",966.196487557145
+"Kentucky","North Dakota","21","38",1656.53133460768
+"Kentucky","South Carolina","21","45",566.712227796395
+"Kentucky","Arizona","21","04",2393.66020084889
+"Kentucky","Arkansas","21","05",704.467222826844
+"Tennessee","California","47","06",2948.72598638236
+"Tennessee","Wisconsin","47","55",1022.48967774506
+"Tennessee","Idaho","47","16",2566.72694623505
+"Tennessee","Minnesota","47","27",1335.61014284144
+"Tennessee","Iowa","47","19",926.491417742564
+"Tennessee","Missouri","47","29",608.783000362165
+"Tennessee","Maryland","47","24",917.737493089115
+"Tennessee","Oregon","47","41",3029.28630063595
+"Tennessee","Michigan","47","26",946.806398506324
+"Tennessee","Montana","47","30",2291.61899170116
+"Tennessee","Utah","47","49",2256.40824146515
+"Tennessee","Virginia","47","51",697.855063654368
+"Tennessee","Illinois","47","17",527.745891008538
+"Tennessee","Texas","47","48",1294.43856169794
+"Tennessee","Louisiana","47","22",747.230137913159
+"Tennessee","Florida","47","12",888.083798221597
+"Tennessee","Kentucky","47","21",208.447709372284
+"Tennessee","New York","47","36",1217.86809097505
+"Tennessee","Georgia","47","13",447.266251565629
+"Tennessee","Hawaii","47","15",6941.22243715197
+"Tennessee","Delaware","47","10",1018.74809410624
+"Tennessee","Washington","47","53",3082.7259559561
+"Tennessee","Oklahoma","47","40",1006.10676964968
+"Tennessee","West Virginia","47","54",593.729324476169
+"Tennessee","Alaska","47","02",5319.8943004941
+"Tennessee","Pennsylvania","47","42",930.393878841584
+"Tennessee","Colorado","47","08",1727.46025444833
+"Tennessee","North Carolina","47","37",647.906807570411
+"Tennessee","Indiana","47","18",448.763205885563
+"Tennessee","Kansas","47","20",1104.4074630585
+"Tennessee","District of Columbia","47","11",890.783717557152
+"Tennessee","Rhode Island","47","44",1434.94411481221
+"Tennessee","Wyoming","47","56",1979.4306188466
+"Tennessee","Mississippi","47","28",461.865332741101
+"Tennessee","Massachusetts","47","25",1443.22369598382
+"Tennessee","Connecticut","47","09",1341.55600914762
+"Tennessee","Vermont","47","50",1477.61263354344
+"Tennessee","Maine","47","23",1782.5819809237
+"Tennessee","New Hampshire","47","33",1529.13656952873
+"Tennessee","New Mexico","47","35",1801.49713945736
+"Tennessee","Ohio","47","39",582.663242383718
+"Tennessee","Alabama","47","01",345.590617205331
+"Tennessee","Nebraska","47","31",1324.69556776638
+"Tennessee","South Dakota","47","46",1513.91201196977
+"Tennessee","Nevada","47","32",2683.16731739577
+"Tennessee","New Jersey","47","34",1129.56580604403
+"Tennessee","North Dakota","47","38",1737.28529011249
+"Tennessee","South Carolina","47","45",543.074656794606
+"Tennessee","Arizona","47","04",2304.01506551031
+"Tennessee","Arkansas","47","05",562.686280944367
+"New York","California","36","06",3753.02644648128
+"New York","Wisconsin","36","55",1176.74298506002
+"New York","Idaho","36","16",3120.98724570103
+"New York","Minnesota","36","27",1530.13317197337
+"New York","Iowa","36","19",1475.21193823868
+"New York","Missouri","36","29",1515.16729638896
+"New York","Maryland","36","24",446.571093132303
+"New York","Oregon","36","41",3594.35460279326
+"New York","Michigan","36","26",809.712976466349
+"New York","Montana","36","30",2700.39071598269
+"New York","Utah","36","49",3032.74288598572
+"New York","Virginia","36","51",663.863993770647
+"New York","Illinois","36","17",1183.60182838479
+"New York","Texas","36","48",2452.31029854445
+"New York","Louisiana","36","22",1965.02418585646
+"New York","Florida","36","12",1713.25862246949
+"New York","Kentucky","36","21",1024.69025252708
+"New York","Tennessee","36","47",1217.86809097505
+"New York","Georgia","36","13",1338.96019665695
+"New York","Hawaii","36","15",7762.3157415584
+"New York","Delaware","36","10",437.61782709571
+"New York","Washington","36","53",3512.4776989774
+"New York","Oklahoma","36","40",2054.12150038809
+"New York","West Virginia","36","54",642.770418430321
+"New York","Alaska","36","02",5201.49702465147
+"New York","Pennsylvania","36","42",297.26240066727
+"New York","Colorado","36","08",2546.39940587726
+"New York","North Carolina","36","37",879.550315613139
+"New York","Indiana","36","18",959.433700544762
+"New York","Kansas","36","20",1983.36400461614
+"New York","District of Columbia","36","11",465.807081194133
+"New York","Rhode Island","36","44",355.828156197739
+"New York","Wyoming","36","56",2591.77097093064
+"New York","Mississippi","36","28",1678.80297252635
+"New York","Massachusetts","36","25",316.359913509533
+"New York","Connecticut","36","09",271.072822946639
+"New York","Vermont","36","50",261.248621281145
+"New York","Maine","36","23",567.172853969467
+"New York","New Hampshire","36","33",328.007777545295
+"New York","New Mexico","36","35",2802.92550033662
+"New York","Ohio","36","39",673.479260303527
+"New York","Alabama","36","01",1502.1428024365
+"New York","Nebraska","36","31",1998.93112152069
+"New York","South Dakota","36","46",1987.45988878036
+"New York","Nevada","36","32",3433.37924838684
+"New York","New Jersey","36","34",314.084299671866
+"New York","North Dakota","36","38",2010.01164002295
+"New York","South Carolina","36","45",1107.51634606917
+"New York","Arizona","36","04",3257.9673059683
+"New York","Arkansas","36","05",1711.89377571742
+"Georgia","California","13","06",3304.87614874382
+"Georgia","Wisconsin","13","55",1448.50184134829
+"Georgia","Idaho","13","16",2985.60452836372
+"Georgia","Minnesota","13","27",1777.47977047339
+"Georgia","Iowa","13","19",1373.57983791756
+"Georgia","Missouri","13","29",1034.56933467683
+"Georgia","Maryland","13","24",931.561106006421
+"Georgia","Oregon","13","41",3440.6835879779
+"Georgia","Michigan","13","26",1312.3487404012
+"Georgia","Montana","13","30",2730.22043430481
+"Georgia","Utah","13","49",2634.85049168312
+"Georgia","Virginia","13","51",687.224649231658
+"Georgia","Illinois","13","17",971.129148624394
+"Georgia","Texas","13","48",1500.34350136349
+"Georgia","Louisiana","13","22",822.771988862582
+"Georgia","Florida","13","12",460.660641150784
+"Georgia","Kentucky","13","21",570.413719733772
+"Georgia","Tennessee","13","47",447.266251565629
+"Georgia","New York","13","36",1338.96019665695
+"Georgia","Hawaii","13","15",7253.84344392977
+"Georgia","Delaware","13","10",1005.20259648368
+"Georgia","Washington","13","53",3512.38124468665
+"Georgia","Oklahoma","13","40",1334.15239129194
+"Georgia","West Virginia","13","54",714.383151255028
+"Georgia","Alaska","13","02",5765.75000534559
+"Georgia","Pennsylvania","13","42",1044.27686849803
+"Georgia","Colorado","13","08",2109.18791132615
+"Georgia","North Carolina","13","37",508.275964667284
+"Georgia","Indiana","13","18",846.225842279972
+"Georgia","Kansas","13","20",1497.93666887897
+"Georgia","District of Columbia","13","11",905.427824593916
+"Georgia","Rhode Island","13","44",1453.26944389852
+"Georgia","Wyoming","13","56",2399.08583145132
+"Georgia","Mississippi","13","28",583.212053152947
+"Georgia","Massachusetts","13","25",1481.3829853552
+"Georgia","Connecticut","13","09",1375.59654423637
+"Georgia","Vermont","13","50",1577.34157327363
+"Georgia","Maine","13","23",1865.1880983634
+"Georgia","New Hampshire","13","33",1603.36799998936
+"Georgia","New Mexico","13","35",2107.19056649032
+"Georgia","Ohio","13","39",853.017813537548
+"Georgia","Alabama","13","01",318.197576869924
+"Georgia","Nebraska","13","31",1751.88194337674
+"Georgia","South Dakota","13","46",1956.84772225533
+"Georgia","Nevada","13","32",3059.83857329535
+"Georgia","New Jersey","13","34",1147.50017289741
+"Georgia","North Dakota","13","38",2184.55045711146
+"Georgia","South Carolina","13","45",275.404983202883
+"Georgia","Arizona","13","04",2616.63695632579
+"Georgia","Arkansas","13","05",869.359842293818
+"Hawaii","California","15","06",4022.67233266514
+"Hawaii","Wisconsin","15","55",6590.16584961266
+"Hawaii","Idaho","15","16",4674.79001840321
+"Hawaii","Minnesota","15","27",6265.07703798533
+"Hawaii","Iowa","15","19",6298.91515232063
+"Hawaii","Missouri","15","29",6383.29582902473
+"Hawaii","Maryland","15","24",7732.36139696491
+"Hawaii","Oregon","15","41",4222.3640614844
+"Hawaii","Michigan","15","26",6956.13801375099
+"Hawaii","Montana","15","30",5141.17265860287
+"Hawaii","Utah","15","49",4742.1239682627
+"Hawaii","Virginia","15","51",7583.72308081296
+"Hawaii","Illinois","15","17",6659.37367153357
+"Hawaii","Texas","15","48",5778.88347292359
+"Hawaii","Louisiana","15","22",6481.21540832768
+"Hawaii","Florida","15","12",7425.79292007582
+"Hawaii","Kentucky","15","21",7015.13433607504
+"Hawaii","Tennessee","15","47",6941.22243715197
+"Hawaii","New York","15","36",7762.3157415584
+"Hawaii","Georgia","15","13",7253.84344392977
+"Hawaii","Delaware","15","10",7838.57881125188
+"Hawaii","Washington","15","53",4412.04785473445
+"Hawaii","Oklahoma","15","40",5938.42553804244
+"Hawaii","West Virginia","15","54",7407.12566089357
+"Hawaii","Alaska","15","02",4853.40414202524
+"Hawaii","Pennsylvania","15","42",7610.17735316301
+"Hawaii","Colorado","15","08",5254.52100454316
+"Hawaii","North Carolina","15","37",7586.69877215141
+"Hawaii","Indiana","15","18",6908.29232971917
+"Hawaii","Kansas","15","20",5868.07496948278
+"Hawaii","District of Columbia","15","11",7711.40711274052
+"Hawaii","Rhode Island","15","44",8109.50754968951
+"Hawaii","Wyoming","15","56",5172.37077621432
+"Hawaii","Mississippi","15","28",6674.30476432593
+"Hawaii","Massachusetts","15","25",8078.06474209243
+"Hawaii","Connecticut","15","09",8013.22015879222
+"Hawaii","Vermont","15","50",7965.66293701588
+"Hawaii","Maine","15","23",8203.53358677761
+"Hawaii","New Hampshire","15","33",8059.45760868688
+"Hawaii","New Mexico","15","35",5149.22278091573
+"Hawaii","Ohio","15","39",7199.90400185746
+"Hawaii","Alabama","15","01",6937.06506765029
+"Hawaii","Nebraska","15","31",5773.96879662241
+"Hawaii","South Dakota","15","46",5780.69761924295
+"Hawaii","Nevada","15","32",4331.31049991041
+"Hawaii","New Jersey","15","34",7884.53672321208
+"Hawaii","North Dakota","15","38",5820.2516590357
+"Hawaii","South Carolina","15","45",7464.14767317827
+"Hawaii","Arizona","15","04",4641.1693889583
+"Hawaii","Arkansas","15","05",6399.21860830264
+"Delaware","California","10","06",3816.0623727201
+"Delaware","Wisconsin","10","55",1351.54447351628
+"Delaware","Idaho","10","16",3270.498435612
+"Delaware","Minnesota","10","27",1732.16132771568
+"Delaware","Iowa","10","19",1555.54677905933
+"Delaware","Missouri","10","29",1471.72164660541
+"Delaware","Maryland","10","24",107.414121935991
+"Delaware","Oregon","10","41",3747.47275592252
+"Delaware","Michigan","10","26",1012.01526073036
+"Delaware","Montana","10","30",2889.06075657432
+"Delaware","Utah","10","49",3097.97233024903
+"Delaware","Virginia","10","51",331.621725592962
+"Delaware","Illinois","10","17",1179.30911606179
+"Delaware","Texas","10","48",2311.25012446332
+"Delaware","Louisiana","10","22",1736.18358214845
+"Delaware","Florida","10","12",1323.62339865114
+"Delaware","Kentucky","10","21",870.50721807702
+"Delaware","Tennessee","10","47",1018.74809410624
+"Delaware","New York","10","36",437.61782709571
+"Delaware","Georgia","10","13",1005.20259648368
+"Delaware","Hawaii","10","15",7838.57881125188
+"Delaware","Washington","10","53",3709.77104358558
+"Delaware","Oklahoma","10","40",1977.0912626073
+"Delaware","West Virginia","10","54",445.416996387689
+"Delaware","Alaska","10","02",5559.66707113186
+"Delaware","Pennsylvania","10","42",286.563252705865
+"Delaware","Colorado","10","08",2584.67736231148
+"Delaware","North Carolina","10","37",502.778776309358
+"Delaware","Indiana","10","18",930.48749215175
+"Delaware","Kansas","10","20",1979.59042844234
+"Delaware","District of Columbia","10","11",131.572557672619
+"Delaware","Rhode Island","10","44",448.072344535291
+"Delaware","Wyoming","10","56",2709.42834671465
+"Delaware","Mississippi","10","28",1451.58270291222
+"Delaware","Massachusetts","10","25",479.077535652044
+"Delaware","Connecticut","10","09",374.312253626475
+"Delaware","Vermont","10","50",611.050472516298
+"Delaware","Maine","10","23",872.994528855038
+"Delaware","New Hampshire","10","33",614.652333482611
+"Delaware","New Mexico","10","35",2762.94653039609
+"Delaware","Ohio","10","39",640.788815474028
+"Delaware","Alabama","10","01",1231.57546802472
+"Delaware","Nebraska","10","31",2073.53047715639
+"Delaware","South Dakota","10","46",2130.35156294852
+"Delaware","Nevada","10","32",3515.04699672329
+"Delaware","New Jersey","10","34",149.68635642534
+"Delaware","North Dakota","10","38",2217.51974790882
+"Delaware","South Carolina","10","45",743.306039155024
+"Delaware","Arizona","10","04",3247.26615343083
+"Delaware","Arkansas","10","05",1570.47683637974
+"Washington","California","53","06",1138.6437219164
+"Washington","Wisconsin","53","55",2360.5614522158
+"Washington","Idaho","53","16",567.11344649436
+"Washington","Minnesota","53","27",1986.92814472386
+"Washington","Iowa","53","19",2200.96627877872
+"Washington","Missouri","53","29",2478.38443713068
+"Washington","Maryland","53","24",3614.63640833912
+"Washington","Oregon","53","41",384.422769159197
+"Washington","Michigan","53","26",2716.6629277214
+"Washington","Montana","53","30",820.829387079043
+"Washington","Utah","53","49",1146.47175824081
+"Washington","Virginia","53","51",3545.01808570487
+"Washington","Illinois","53","17",2624.59316479932
+"Washington","Texas","53","48",2525.87642923356
+"Washington","Louisiana","53","22",3033.23413288644
+"Washington","Florida","53","12",3879.31594862867
+"Washington","Kentucky","53","21",3056.81876441416
+"Washington","Tennessee","53","47",3082.7259559561
+"Washington","New York","53","36",3512.4776989774
+"Washington","Georgia","53","13",3512.38124468665
+"Washington","Hawaii","53","15",4412.04785473445
+"Washington","Delaware","53","10",3709.77104358558
+"Washington","Oklahoma","53","40",2308.28250238541
+"Washington","West Virginia","53","54",3343.9296551406
+"Washington","Alaska","53","02",2658.04647187719
+"Washington","Pennsylvania","53","42",3438.37493005748
+"Washington","Colorado","53","08",1525.32902051166
+"Washington","North Carolina","53","37",3634.78624436314
+"Washington","Indiana","53","18",2850.78027024624
+"Washington","Kansas","53","20",2044.18082076546
+"Washington","District of Columbia","53","11",3600.82247694662
+"Washington","Rhode Island","53","44",3868.1284475981
+"Washington","Wyoming","53","56",1124.23192747882
+"Washington","Mississippi","53","28",3058.32405547667
+"Washington","Massachusetts","53","25",3823.38564263671
+"Washington","Connecticut","53","09",3781.23616178279
+"Washington","Vermont","53","50",3672.15954363882
+"Washington","Maine","53","23",3869.27797802634
+"Washington","New Hampshire","53","33",3769.25958804703
+"Washington","New Mexico","53","35",1876.89241531246
+"Washington","Ohio","53","39",3092.17584078342
+"Washington","Alabama","53","01",3256.76661250368
+"Washington","Nebraska","53","31",1760.52395965396
+"Washington","South Dakota","53","46",1597.09819621533
+"Washington","Nevada","53","32",949.12700017122
+"Washington","New Jersey","53","34",3709.48662900345
+"Washington","North Dakota","53","38",1502.96299776787
+"Washington","South Carolina","53","45",3613.31746147563
+"Washington","Arizona","53","04",1634.61087711293
+"Washington","Arkansas","53","05",2707.45772999682
+"Oklahoma","California","40","06",1970.9816733194
+"Oklahoma","Wisconsin","40","55",1189.08159241625
+"Oklahoma","Idaho","40","16",1748.65782867535
+"Oklahoma","Minnesota","40","27",1218.58978394056
+"Oklahoma","Iowa","40","19",799.87161893316
+"Oklahoma","Missouri","40","29",542.873284692522
+"Oklahoma","Maryland","40","24",1870.3715322135
+"Oklahoma","Oregon","40","41",2169.43456612101
+"Oklahoma","Michigan","40","26",1415.86022183538
+"Oklahoma","Montana","40","30",1624.5418834203
+"Oklahoma","Utah","40","49",1316.19313262271
+"Oklahoma","Virginia","40","51",1680.91657539764
+"Oklahoma","Illinois","40","17",880.49040535448
+"Oklahoma","Texas","40","48",490.669040587782
+"Oklahoma","Louisiana","40","22",725.089226121496
+"Oklahoma","Florida","40","12",1614.49541577612
+"Oklahoma","Kentucky","40","21",1109.49867240541
+"Oklahoma","Tennessee","40","47",1006.10676964968
+"Oklahoma","New York","40","36",2054.12150038809
+"Oklahoma","Georgia","40","13",1334.15239129194
+"Oklahoma","Hawaii","40","15",5938.42553804244
+"Oklahoma","Delaware","40","10",1977.0912626073
+"Oklahoma","Washington","40","53",2308.28250238541
+"Oklahoma","West Virginia","40","54",1531.71489819306
+"Oklahoma","Alaska","40","02",4804.8124522058
+"Oklahoma","Pennsylvania","40","42",1813.22837535804
+"Oklahoma","Colorado","40","08",806.474263414807
+"Oklahoma","North Carolina","40","37",1653.98784490652
+"Oklahoma","Indiana","40","18",1094.92868455469
+"Oklahoma","Kansas","40","20",332.366655444226
+"Oklahoma","District of Columbia","40","11",1845.51882107532
+"Oklahoma","Rhode Island","40","44",2344.03339266619
+"Oklahoma","Wyoming","40","56",1193.06370279083
+"Oklahoma","Mississippi","40","28",786.834387968962
+"Oklahoma","Massachusetts","40","25",2335.83552885249
+"Oklahoma","Connecticut","40","09",2245.0626586499
+"Oklahoma","Vermont","40","50",2308.63179452355
+"Oklahoma","Maine","40","23",2607.67148191924
+"Oklahoma","New Hampshire","40","33",2382.12907938408
+"Oklahoma","New Mexico","40","35",795.677435727999
+"Oklahoma","Ohio","40","39",1388.79245095395
+"Oklahoma","Alabama","40","01",1028.98094123279
+"Oklahoma","Nebraska","40","31",690.962678860662
+"Oklahoma","South Dakota","40","46",1011.59983546848
+"Oklahoma","Nevada","40","32",1735.9414408519
+"Oklahoma","New Jersey","40","34",2061.33508617254
+"Oklahoma","North Dakota","40","38",1341.60724851571
+"Oklahoma","South Carolina","40","45",1526.77576105186
+"Oklahoma","Arizona","40","04",1298.49995391598
+"Oklahoma","Arkansas","40","05",465.271752686418
+"West Virginia","California","54","06",3386.70403514174
+"West Virginia","Wisconsin","54","55",1023.03873351176
+"West Virginia","Idaho","54","16",2879.21751378649
+"West Virginia","Minnesota","54","27",1404.23266141844
+"West Virginia","Iowa","54","19",1154.22743018952
+"West Virginia","Missouri","54","29",1029.84875672802
+"West Virginia","Maryland","54","24",338.69228987859
+"West Virginia","Oregon","54","41",3355.02472871841
+"West Virginia","Michigan","54","26",747.139402205028
+"West Virginia","Montana","54","30",2525.06021820523
+"West Virginia","Utah","54","49",2671.78994402296
+"West Virginia","Virginia","54","51",202.736220355004
+"West Virginia","Illinois","54","17",753.227908681476
+"West Virginia","Texas","54","48",1874.98568291681
+"West Virginia","Louisiana","54","22",1334.3722095047
+"West Virginia","Florida","54","12",1131.52170540756
+"West Virginia","Kentucky","54","21",427.547236985041
+"West Virginia","Tennessee","54","47",593.729324476169
+"West Virginia","New York","54","36",642.770418430321
+"West Virginia","Georgia","54","13",714.383151255028
+"West Virginia","Hawaii","54","15",7407.12566089357
+"West Virginia","Delaware","54","10",445.416996387689
+"West Virginia","Washington","54","53",3343.9296551406
+"West Virginia","Oklahoma","54","40",1531.71489819306
+"West Virginia","Alaska","54","02",5342.88641654759
+"West Virginia","Pennsylvania","54","42",346.403237548577
+"West Virginia","Colorado","54","08",2153.03340792311
+"West Virginia","North Carolina","54","37",366.56077981989
+"West Virginia","Indiana","54","18",506.555578492963
+"West Virginia","Kansas","54","20",1541.35270527599
+"West Virginia","District of Columbia","54","11",313.85501724241
+"West Virginia","Rhode Island","54","44",841.787411742517
+"West Virginia","Wyoming","54","56",2306.69019078598
+"West Virginia","Mississippi","54","28",1047.08598806882
+"West Virginia","Massachusetts","54","25",849.573597008391
+"West Virginia","Connecticut","54","09",747.867608735194
+"West Virginia","Vermont","54","50",896.449674536133
+"West Virginia","Maine","54","23",1198.1204180114
+"West Virginia","New Hampshire","54","33",940.703631341579
+"West Virginia","New Mexico","54","35",2318.00673581331
+"West Virginia","Ohio","54","39",261.584139515542
+"West Virginia","Alabama","54","01",859.618161130827
+"West Virginia","Nebraska","54","31",1658.8100450855
+"West Virginia","South Dakota","54","46",1749.10190191434
+"West Virginia","Nevada","54","32",3092.55831917295
+"West Virginia","New Jersey","54","34",539.577457314391
+"West Virginia","North Dakota","54","38",1878.49717561727
+"West Virginia","South Carolina","54","45",527.189947042105
+"West Virginia","Arizona","54","04",2804.26740715775
+"West Virginia","Arkansas","54","05",1131.2657525134
+"Alaska","California","02","06",3682.2936022231
+"Alaska","Wisconsin","02","55",4346.88456088635
+"Alaska","Idaho","02","16",3195.03215755581
+"Alaska","Minnesota","02","27",3992.2160523301
+"Alaska","Iowa","02","19",4400.64465319888
+"Alaska","Missouri","02","29",4789.3813688195
+"Alaska","Maryland","02","24",5496.60033798539
+"Alaska","Oregon","02","41",2977.70013757451
+"Alaska","Michigan","02","26",4597.5986104926
+"Alaska","Montana","02","30",3183.03449605686
+"Alaska","Utah","02","49",3799.22880376689
+"Alaska","Virginia","02","51",5535.72486959185
+"Alaska","Illinois","02","17",4794.84380032461
+"Alaska","Texas","02","48",5116.81047452535
+"Alaska","Louisiana","02","22",5507.1056420815
+"Alaska","Florida","02","12",6201.16977164785
+"Alaska","Kentucky","02","21",5215.62715771198
+"Alaska","Tennessee","02","47",5319.8943004941
+"Alaska","New York","02","36",5201.49702465147
+"Alaska","Georgia","02","13",5765.75000534559
+"Alaska","Hawaii","02","15",4853.40414202524
+"Alaska","Delaware","02","10",5559.66707113186
+"Alaska","Washington","02","53",2658.04647187719
+"Alaska","Oklahoma","02","40",4804.8124522058
+"Alaska","West Virginia","02","54",5342.88641654759
+"Alaska","Pennsylvania","02","42",5276.23594558161
+"Alaska","Colorado","02","08",4105.32495534316
+"Alaska","North Carolina","02","37",5699.88390620119
+"Alaska","Indiana","02","18",4951.14440101654
+"Alaska","Kansas","02","20",4490.45723404123
+"Alaska","District of Columbia","02","11",5494.720898028
+"Alaska","Rhode Island","02","44",5506.35745192547
+"Alaska","Wyoming","02","56",3642.12248196489
+"Alaska","Mississippi","02","28",5452.09473318432
+"Alaska","Massachusetts","02","25",5443.362421481
+"Alaska","Connecticut","02","09",5453.27020093052
+"Alaska","Vermont","02","50",5235.00939958666
+"Alaska","Maine","02","23",5283.44455767832
+"Alaska","New Hampshire","02","33",5321.34834382996
+"Alaska","New Mexico","02","35",4518.01908846055
+"Alaska","Ohio","02","39",5085.88647346427
+"Alaska","Alabama","02","01",5586.34111771895
+"Alaska","Nebraska","02","31",4142.96022204151
+"Alaska","South Dakota","02","46",3862.21260180556
+"Alaska","Nevada","02","32",3584.39275986634
+"Alaska","New Jersey","02","34",5491.66493941139
+"Alaska","North Dakota","02","38",3591.07646435648
+"Alaska","South Carolina","02","45",5770.6139667361
+"Alaska","Arizona","02","04",4288.59108500319
+"Alaska","Arkansas","02","05",5113.19517545903
+"Pennsylvania","California","42","06",3589.0855775125
+"Pennsylvania","Wisconsin","42","55",1077.81505645481
+"Pennsylvania","Idaho","42","16",3011.39867576374
+"Pennsylvania","Minnesota","42","27",1455.17911000389
+"Pennsylvania","Iowa","42","19",1312.47765126852
+"Pennsylvania","Missouri","42","29",1284.88835801226
+"Pennsylvania","Maryland","42","24",224.559642496818
+"Pennsylvania","Oregon","42","41",3488.08058228021
+"Pennsylvania","Michigan","42","26",729.777754329809
+"Pennsylvania","Montana","42","30",2618.49121116483
+"Pennsylvania","Utah","42","49",2868.54654410192
+"Pennsylvania","Virginia","42","51",383.38808560156
+"Pennsylvania","Illinois","42","17",967.994850285463
+"Pennsylvania","Texas","42","48",2188.7311704638
+"Pennsylvania","Louisiana","42","22",1675.96494437653
+"Pennsylvania","Florida","42","12",1431.46006594103
+"Pennsylvania","Kentucky","42","21",745.252188361031
+"Pennsylvania","Tennessee","42","47",930.393878841584
+"Pennsylvania","New York","42","36",297.26240066727
+"Pennsylvania","Georgia","42","13",1044.27686849803
+"Pennsylvania","Hawaii","42","15",7610.17735316301
+"Pennsylvania","Delaware","42","10",286.563252705865
+"Pennsylvania","Washington","42","53",3438.37493005748
+"Pennsylvania","Oklahoma","42","40",1813.22837535804
+"Pennsylvania","West Virginia","42","54",346.403237548577
+"Pennsylvania","Alaska","42","02",5276.23594558161
+"Pennsylvania","Colorado","42","08",2365.0494226181
+"Pennsylvania","North Carolina","42","37",604.363186311229
+"Pennsylvania","Indiana","42","18",726.354345346953
+"Pennsylvania","Kansas","42","20",1776.49822401972
+"Pennsylvania","District of Columbia","42","11",229.472317369414
+"Pennsylvania","Rhode Island","42","44",530.875423862442
+"Pennsylvania","Wyoming","42","56",2459.23867048831
+"Pennsylvania","Mississippi","42","28",1388.96908444789
+"Pennsylvania","Massachusetts","42","25",524.975980677662
+"Pennsylvania","Connecticut","42","09",431.834766266702
+"Pennsylvania","Vermont","42","50",550.363419676002
+"Pennsylvania","Maine","42","23",853.382539429663
+"Pennsylvania","New Hampshire","42","33",598.771879031825
+"Pennsylvania","New Mexico","42","35",2581.91497277981
+"Pennsylvania","Ohio","42","39",426.886798343215
+"Pennsylvania","Alabama","42","01",1206.00228597179
+"Pennsylvania","Nebraska","42","31",1836.4745059906
+"Pennsylvania","South Dakota","42","46",1869.95815417865
+"Pennsylvania","Nevada","42","32",3280.01833807902
+"Pennsylvania","New Jersey","42","34",276.192356326937
+"Pennsylvania","North Dakota","42","38",1941.18224508199
+"Pennsylvania","South Carolina","42","45",821.779221596348
+"Pennsylvania","Arizona","42","04",3052.58126202044
+"Pennsylvania","Arkansas","42","05",1444.43180467246
+"Colorado","California","08","06",1234.06552715165
+"Colorado","Wisconsin","08","55",1429.95821068573
+"Colorado","Idaho","08","16",958.848363324938
+"Colorado","Minnesota","08","27",1223.51406718969
+"Colorado","Iowa","08","19",1073.39947357369
+"Colorado","Missouri","08","29",1137.46978793387
+"Colorado","Maryland","08","24",2478.19737643789
+"Colorado","Oregon","08","41",1363.67812583187
+"Colorado","Michigan","08","26",1771.78117140062
+"Colorado","Montana","08","30",954.961503301656
+"Colorado","Utah","08","49",528.947988510345
+"Colorado","Virginia","08","51",2333.01618599823
+"Colorado","Illinois","08","17",1405.41767631031
+"Colorado","Texas","08","48",1013.06736153947
+"Colorado","Louisiana","08","22",1522.3257512639
+"Colorado","Florida","08","12",2418.20933207069
+"Colorado","Kentucky","08","21",1771.47111532217
+"Colorado","Tennessee","08","47",1727.46025444833
+"Colorado","New York","08","36",2546.39940587726
+"Colorado","Georgia","08","13",2109.18791132615
+"Colorado","Hawaii","08","15",5254.52100454316
+"Colorado","Delaware","08","10",2584.67736231148
+"Colorado","Washington","08","53",1525.32902051166
+"Colorado","Oklahoma","08","40",806.474263414807
+"Colorado","West Virginia","08","54",2153.03340792311
+"Colorado","Alaska","08","02",4105.32495534316
+"Colorado","Pennsylvania","08","42",2365.0494226181
+"Colorado","North Carolina","08","37",2355.73692168407
+"Colorado","Indiana","08","18",1654.19010239222
+"Colorado","Kansas","08","20",624.180072794485
+"Colorado","District of Columbia","08","11",2457.02527556439
+"Colorado","Rhode Island","08","44",2879.8306734899
+"Colorado","Wyoming","08","56",475.332042327432
+"Colorado","Mississippi","08","28",1588.50678784583
+"Colorado","Massachusetts","08","25",2856.0015077877
+"Colorado","Connecticut","08","09",2781.2925330837
+"Colorado","Vermont","08","50",2775.11227698797
+"Colorado","Maine","08","23",3047.8150373223
+"Colorado","New Hampshire","08","33",2862.57486405001
+"Colorado","New Mexico","08","35",512.851285479107
+"Colorado","Ohio","08","39",1948.02002683646
+"Colorado","Alabama","08","01",1818.2301852532
+"Colorado","Nebraska","08","31",563.814019811091
+"Colorado","South Dakota","08","46",749.199074594507
+"Colorado","Nevada","08","32",955.707396088808
+"Colorado","New Jersey","08","34",2636.4608254737
+"Colorado","North Dakota","08","38",1025.61364688082
+"Colorado","South Carolina","08","45",2269.20570881694
+"Colorado","Arizona","08","04",756.766058541594
+"Colorado","Arkansas","08","05",1249.39269504936
+"North Carolina","California","37","06",3585.03672234432
+"North Carolina","Wisconsin","37","55",1362.76231644982
+"North Carolina","Idaho","37","16",3146.59379777274
+"North Carolina","Minnesota","37","27",1737.39581564448
+"North Carolina","Iowa","37","19",1433.91941412649
+"North Carolina","Missouri","37","29",1219.12144022995
+"North Carolina","Maryland","37","24",442.568619064952
+"North Carolina","Oregon","37","41",3618.09607145844
+"North Carolina","Michigan","37","26",1110.21793622631
+"North Carolina","Montana","37","30",2822.4116519104
+"North Carolina","Utah","37","49",2883.29837764676
+"North Carolina","Virginia","37","51",221.259025355112
+"North Carolina","Illinois","37","17",1010.71187341625
+"North Carolina","Texas","37","48",1917.28281707177
+"North Carolina","Louisiana","37","22",1286.99973587874
+"North Carolina","Florida","37","12",834.159300752049
+"North Carolina","Kentucky","37","21",589.280231011851
+"North Carolina","Tennessee","37","47",647.906807570411
+"North Carolina","New York","37","36",879.550315613139
+"North Carolina","Georgia","37","13",508.275964667284
+"North Carolina","Hawaii","37","15",7586.69877215141
+"North Carolina","Delaware","37","10",502.778776309358
+"North Carolina","Washington","37","53",3634.78624436314
+"North Carolina","Oklahoma","37","40",1653.98784490652
+"North Carolina","West Virginia","37","54",366.56077981989
+"North Carolina","Alaska","37","02",5699.88390620119
+"North Carolina","Pennsylvania","37","42",604.363186311229
+"North Carolina","Colorado","37","08",2355.73692168407
+"North Carolina","Indiana","37","18",788.84817557075
+"North Carolina","Kansas","37","20",1731.97419618549
+"North Carolina","District of Columbia","37","11",419.00497469608
+"North Carolina","Rhode Island","37","44",949.604150883074
+"North Carolina","Wyoming","37","56",2564.0231894014
+"North Carolina","Mississippi","37","28",1013.76767270603
+"North Carolina","Massachusetts","37","25",981.779813127715
+"North Carolina","Connecticut","37","09",876.692970314626
+"North Carolina","Vermont","37","50",1097.50007083308
+"North Carolina","Maine","37","23",1373.19972435369
+"North Carolina","New Hampshire","37","33",1112.68293824145
+"North Carolina","New Mexico","37","35",2449.39886368222
+"North Carolina","Ohio","37","39",614.815518017209
+"North Carolina","Alabama","37","01",768.233763885827
+"North Carolina","Nebraska","37","31",1906.50360639637
+"North Carolina","South Dakota","37","46",2038.74367176501
+"North Carolina","Nevada","37","32",3309.18111864811
+"North Carolina","New Jersey","37","34",649.440151876528
+"North Carolina","North Dakota","37","38",2199.61864944861
+"North Carolina","South Carolina","37","45",240.597981387965
+"North Carolina","Arizona","37","04",2951.56403385859
+"North Carolina","Arkansas","37","05",1205.88652802383
+"Indiana","California","18","06",2886.02776874921
+"Indiana","Wisconsin","18","55",608.217949344052
+"Indiana","Idaho","18","16",2376.00498493399
+"Indiana","Minnesota","18","27",962.84272358034
+"Indiana","Iowa","18","19",652.054937581042
+"Indiana","Missouri","18","29",559.471927044625
+"Indiana","Maryland","18","24",824.077684980777
+"Indiana","Oregon","18","41",2851.05578489503
+"Indiana","Michigan","18","26",500.051133424274
+"Indiana","Montana","18","30",2035.56286895986
+"Indiana","Utah","18","49",2168.93249604629
+"Indiana","Virginia","18","51",700.697061346848
+"Indiana","Illinois","18","17",248.941510800361
+"Indiana","Texas","18","48",1502.87933034213
+"Indiana","Louisiana","18","22",1111.66442378297
+"Indiana","Florida","18","12",1305.8674019832
+"Indiana","Kentucky","18","21",275.813385990506
+"Indiana","Tennessee","18","47",448.763205885563
+"Indiana","New York","18","36",959.433700544762
+"Indiana","Georgia","18","13",846.225842279972
+"Indiana","Hawaii","18","15",6908.29232971917
+"Indiana","Delaware","18","10",930.48749215175
+"Indiana","Washington","18","53",2850.78027024624
+"Indiana","Oklahoma","18","40",1094.92868455469
+"Indiana","West Virginia","18","54",506.555578492963
+"Indiana","Alaska","18","02",4951.14440101654
+"Indiana","Pennsylvania","18","42",726.354345346953
+"Indiana","Colorado","18","08",1654.19010239222
+"Indiana","North Carolina","18","37",788.84817557075
+"Indiana","Kansas","18","20",1053.16436078243
+"Indiana","District of Columbia","18","11",803.22756773623
+"Indiana","Rhode Island","18","44",1255.75981124961
+"Indiana","Wyoming","18","56",1801.0278640132
+"Indiana","Mississippi","18","28",851.533097542285
+"Indiana","Massachusetts","18","25",1243.69175787377
+"Indiana","Connecticut","18","09",1156.30380549428
+"Indiana","Vermont","18","50",1215.50698666092
+"Indiana","Maine","18","23",1517.13017625296
+"Indiana","New Hampshire","18","33",1287.40319907599
+"Indiana","New Mexico","18","35",1855.74691095388
+"Indiana","Ohio","18","39",299.720370349286
+"Indiana","Alabama","18","01",792.991504651783
+"Indiana","Nebraska","18","31",1152.27639798317
+"Indiana","South Dakota","18","46",1253.68236791976
+"Indiana","Nevada","18","32",2588.10204099634
+"Indiana","New Jersey","18","34",988.882629497707
+"Indiana","North Dakota","18","38",1413.25135948612
+"Indiana","South Carolina","18","45",820.06128456888
+"Indiana","Arizona","18","04",2327.51402624845
+"Indiana","Arkansas","18","05",777.607312160903
+"Kansas","California","20","06",1854.23277157744
+"Kansas","Wisconsin","20","55",974.552590892588
+"Kansas","Idaho","20","16",1498.63011709767
+"Kansas","Minnesota","20","27",928.096232033875
+"Kansas","Iowa","20","19",574.369663568987
+"Kansas","Missouri","20","29",515.736484533997
+"Kansas","Maryland","20","24",1872.38153046868
+"Kansas","Oregon","20","41",1944.84708079732
+"Kansas","Michigan","20","26",1261.55671293043
+"Kansas","Montana","20","30",1320.10407591679
+"Kansas","Utah","20","49",1152.79492442033
+"Kansas","Virginia","20","51",1715.66919765308
+"Kansas","Illinois","20","17",808.504507603505
+"Kansas","Texas","20","48",788.667086819901
+"Kansas","Louisiana","20","22",1018.5183915535
+"Kansas","Florida","20","12",1837.52381607569
+"Kansas","Kentucky","20","21",1149.61101369024
+"Kansas","Tennessee","20","47",1104.4074630585
+"Kansas","New York","20","36",1983.36400461614
+"Kansas","Georgia","20","13",1497.93666887897
+"Kansas","Hawaii","20","15",5868.07496948278
+"Kansas","Delaware","20","10",1979.59042844234
+"Kansas","Washington","20","53",2044.18082076546
+"Kansas","Oklahoma","20","40",332.366655444226
+"Kansas","West Virginia","20","54",1541.35270527599
+"Kansas","Alaska","20","02",4490.45723404123
+"Kansas","Pennsylvania","20","42",1776.49822401972
+"Kansas","Colorado","20","08",624.180072794485
+"Kansas","North Carolina","20","37",1731.97419618549
+"Kansas","Indiana","20","18",1053.16436078243
+"Kansas","District of Columbia","20","11",1850.03537251488
+"Kansas","Rhode Island","20","44",2301.54528357977
+"Kansas","Wyoming","20","56",919.959049764625
+"Kansas","Mississippi","20","28",1014.16263297389
+"Kansas","Massachusetts","20","25",2283.85955785159
+"Kansas","Connecticut","20","09",2202.13728788587
+"Kansas","Vermont","20","50",2225.80090162781
+"Kansas","Maine","20","23",2513.29417362895
+"Kansas","New Hampshire","20","33",2307.63639810866
+"Kansas","New Mexico","20","35",827.267819745598
+"Kansas","Ohio","20","39",1352.00624122813
+"Kansas","Alabama","20","01",1220.55397189412
+"Kansas","Nebraska","20","31",359.324575067454
+"Kansas","South Dakota","20","46",679.300202915188
+"Kansas","Nevada","20","32",1579.42648760251
+"Kansas","New Jersey","20","34",2041.97598430724
+"Kansas","North Dakota","20","38",1010.16903809905
+"Kansas","South Carolina","20","45",1646.97700138588
+"Kansas","Arizona","20","04",1276.74791146196
+"Kansas","Arkansas","20","05",663.32295441512
+"District of Columbia","California","11","06",3689.25186954484
+"District of Columbia","Wisconsin","11","55",1247.95442370294
+"District of Columbia","Idaho","11","16",3154.19949292702
+"District of Columbia","Minnesota","11","27",1630.52687241722
+"District of Columbia","Iowa","11","19",1434.90780213451
+"District of Columbia","Missouri","11","29",1341.12517844121
+"District of Columbia","Maryland","11","24",27.4363337226607
+"District of Columbia","Oregon","11","41",3631.06441510771
+"District of Columbia","Michigan","11","26",920.504940632658
+"District of Columbia","Montana","11","30",2780.01244590584
+"District of Columbia","Utah","11","49",2971.93745154576
+"District of Columbia","Virginia","11","51",218.977273058084
+"District of Columbia","Illinois","11","17",1052.16766118422
+"District of Columbia","Texas","11","48",2181.74793428136
+"District of Columbia","Louisiana","11","22",1614.59653751269
+"District of Columbia","Florida","11","12",1252.48924065202
+"District of Columbia","Kentucky","11","21",739.241721106833
+"District of Columbia","Tennessee","11","47",890.783717557152
+"District of Columbia","New York","11","36",465.807081194133
+"District of Columbia","Georgia","11","13",905.427824593916
+"District of Columbia","Hawaii","11","15",7711.40711274052
+"District of Columbia","Delaware","11","10",131.572557672619
+"District of Columbia","Washington","11","53",3600.82247694662
+"District of Columbia","Oklahoma","11","40",1845.51882107532
+"District of Columbia","West Virginia","11","54",313.85501724241
+"District of Columbia","Alaska","11","02",5494.720898028
+"District of Columbia","Pennsylvania","11","42",229.472317369414
+"District of Columbia","Colorado","11","08",2457.02527556439
+"District of Columbia","North Carolina","11","37",419.00497469608
+"District of Columbia","Indiana","11","18",803.22756773623
+"District of Columbia","Kansas","11","20",1850.03537251488
+"District of Columbia","Rhode Island","11","44",557.046913519143
+"District of Columbia","Wyoming","11","56",2589.66916283792
+"District of Columbia","Mississippi","11","28",1328.87636525376
+"District of Columbia","Massachusetts","11","25",578.481389355828
+"District of Columbia","Connecticut","11","09",472.707335890888
+"District of Columbia","Vermont","11","50",678.842440932787
+"District of Columbia","Maine","11","23",960.11734960571
+"District of Columbia","New Hampshire","11","33",698.433376133154
+"District of Columbia","New Mexico","11","35",2631.56929813228
+"District of Columbia","Ohio","11","39",518.496882540285
+"District of Columbia","Alabama","11","01",1115.46699400621
+"District of Columbia","Nebraska","11","31",1950.15038658279
+"District of Columbia","South Dakota","11","46",2015.78040858801
+"District of Columbia","Nevada","11","32",3390.13188543794
+"District of Columbia","New Jersey","11","34",246.690536677439
+"District of Columbia","North Dakota","11","38",2114.29279886336
+"District of Columbia","South Carolina","11","45",654.786385566575
+"District of Columbia","Arizona","11","04",3116.4908449168
+"District of Columbia","Arkansas","11","05",1440.13886911036
+"Rhode Island","California","44","06",4094.9372069136
+"Rhode Island","Wisconsin","44","55",1529.95928823353
+"Rhode Island","Idaho","44","16",3475.30620719575
+"Rhode Island","Minnesota","44","27",1885.85922743288
+"Rhode Island","Iowa","44","19",1814.20775080086
+"Rhode Island","Missouri","44","29",1814.98751180782
+"Rhode Island","Maryland","44","24",529.710518806359
+"Rhode Island","Oregon","44","41",3949.17554357268
+"Rhode Island","Michigan","44","26",1163.38739895781
+"Rhode Island","Montana","44","30",3056.2102270904
+"Rhode Island","Utah","44","49",3374.03228749164
+"Rhode Island","Virginia","44","51",774.076330279379
+"Rhode Island","Illinois","44","17",1493.93658720429
+"Rhode Island","Texas","44","48",2712.64726636306
+"Rhode Island","Louisiana","44","22",2168.73557677698
+"Rhode Island","Florida","44","12",1758.05318440391
+"Rhode Island","Kentucky","44","21",1264.0203937712
+"Rhode Island","Tennessee","44","47",1434.94411481221
+"Rhode Island","New York","44","36",355.828156197739
+"Rhode Island","Georgia","44","13",1453.26944389852
+"Rhode Island","Hawaii","44","15",8109.50754968951
+"Rhode Island","Delaware","44","10",448.072344535291
+"Rhode Island","Washington","44","53",3868.1284475981
+"Rhode Island","Oklahoma","44","40",2344.03339266619
+"Rhode Island","West Virginia","44","54",841.787411742517
+"Rhode Island","Alaska","44","02",5506.35745192547
+"Rhode Island","Pennsylvania","44","42",530.875423862442
+"Rhode Island","Colorado","44","08",2879.8306734899
+"Rhode Island","North Carolina","44","37",949.604150883074
+"Rhode Island","Indiana","44","18",1255.75981124961
+"Rhode Island","Kansas","44","20",2301.54528357977
+"Rhode Island","District of Columbia","44","11",557.046913519143
+"Rhode Island","Wyoming","44","56",2941.9539923588
+"Rhode Island","Mississippi","44","28",1882.12539744176
+"Rhode Island","Massachusetts","44","25",66.6186197209549
+"Rhode Island","Connecticut","44","09",99.5063902068575
+"Rhode Island","Vermont","44","50",283.124221268484
+"Rhode Island","Maine","44","23",448.3034364199
+"Rhode Island","New Hampshire","44","33",224.344592153824
+"Rhode Island","New Mexico","44","35",3111.4216316667
+"Rhode Island","Ohio","44","39",957.084360670332
+"Rhode Island","Alabama","44","01",1672.49989186512
+"Rhode Island","Nebraska","44","31",2339.48479830026
+"Rhode Island","South Dakota","44","46",2339.78205352477
+"Rhode Island","Nevada","44","32",3778.73632681355
+"Rhode Island","New Jersey","44","34",310.390581745404
+"Rhode Island","North Dakota","44","38",2365.79058962807
+"Rhode Island","South Carolina","44","45",1190.16750024512
+"Rhode Island","Arizona","44","04",3578.29066167151
+"Rhode Island","Arkansas","44","05",1967.82557632194
+"Wyoming","California","56","06",1201.04975053278
+"Wyoming","Wisconsin","56","55",1417.7952680595
+"Wyoming","Idaho","56","16",587.339649965935
+"Wyoming","Minnesota","56","27",1108.47433349792
+"Wyoming","Iowa","56","19",1154.87782796584
+"Wyoming","Missouri","56","29",1370.8127057135
+"Wyoming","Maryland","56","24",2607.25899503796
+"Wyoming","Oregon","56","41",1054.1668473517
+"Wyoming","Michigan","56","26",1783.97306488634
+"Wyoming","Montana","56","30",479.804530395487
+"Wyoming","Utah","56","49",535.855627785975
+"Wyoming","Virginia","56","51",2501.47620177065
+"Wyoming","Illinois","56","17",1559.76820962745
+"Wyoming","Texas","56","48",1476.05079860879
+"Wyoming","Louisiana","56","22",1917.21002855766
+"Wyoming","Florida","56","12",2756.14300167644
+"Wyoming","Kentucky","56","21",1976.32258951492
+"Wyoming","Tennessee","56","47",1979.4306188466
+"Wyoming","New York","56","36",2591.77097093064
+"Wyoming","Georgia","56","13",2399.08583145132
+"Wyoming","Hawaii","56","15",5172.37077621432
+"Wyoming","Delaware","56","10",2709.42834671465
+"Wyoming","Washington","56","53",1124.23192747882
+"Wyoming","Oklahoma","56","40",1193.06370279083
+"Wyoming","West Virginia","56","54",2306.69019078598
+"Wyoming","Alaska","56","02",3642.12248196489
+"Wyoming","Pennsylvania","56","42",2459.23867048831
+"Wyoming","Colorado","56","08",475.332042327432
+"Wyoming","North Carolina","56","37",2564.0231894014
+"Wyoming","Indiana","56","18",1801.0278640132
+"Wyoming","Kansas","56","20",919.959049764625
+"Wyoming","District of Columbia","56","11",2589.66916283792
+"Wyoming","Rhode Island","56","44",2941.9539923588
+"Wyoming","Mississippi","56","28",1934.09220799465
+"Wyoming","Massachusetts","56","25",2908.0096180305
+"Wyoming","Connecticut","56","09",2847.19144917188
+"Wyoming","Vermont","56","50",2793.71321825692
+"Wyoming","Maine","56","23",3039.16093841701
+"Wyoming","New Hampshire","56","33",2887.2025925122
+"Wyoming","New Mexico","56","35",963.095307950429
+"Wyoming","Ohio","56","39",2071.24181826225
+"Wyoming","Alabama","56","01",2135.36806952197
+"Wyoming","Nebraska","56","31",658.270763590187
+"Wyoming","South Dakota","56","46",609.984800024119
+"Wyoming","Nevada","56","32",861.885278108808
+"Wyoming","New Jersey","56","34",2735.43060869278
+"Wyoming","North Dakota","56","38",743.285114401123
+"Wyoming","South Carolina","56","45",2518.20082115627
+"Wyoming","Arizona","56","04",1033.00033208225
+"Wyoming","Arkansas","56","05",1583.26274283613
+"Mississippi","California","28","06",2749.34095618579
+"Mississippi","Wisconsin","28","55",1322.41241775858
+"Mississippi","Idaho","28","16",2509.90304881696
+"Mississippi","Minnesota","28","27",1557.23695136363
+"Mississippi","Iowa","28","19",1091.90607668094
+"Mississippi","Missouri","28","29",674.156562055816
+"Mississippi","Maryland","28","24",1356.27133832873
+"Mississippi","Oregon","28","41",2945.86536649139
+"Mississippi","Michigan","28","26",1342.63653792302
+"Mississippi","Montana","28","30",2318.81214880811
+"Mississippi","Utah","28","49",2102.95538093754
+"Mississippi","Virginia","28","51",1121.22756605426
+"Mississippi","Illinois","28","17",813.308211623088
+"Mississippi","Texas","28","48",918.976383542789
+"Mississippi","Louisiana","28","22",287.287144846921
+"Mississippi","Florida","28","12",829.883138010393
+"Mississippi","Kentucky","28","21",664.788307036374
+"Mississippi","Tennessee","28","47",461.865332741101
+"Mississippi","New York","28","36",1678.80297252635
+"Mississippi","Georgia","28","13",583.212053152947
+"Mississippi","Hawaii","28","15",6674.30476432593
+"Mississippi","Delaware","28","10",1451.58270291222
+"Mississippi","Washington","28","53",3058.32405547667
+"Mississippi","Oklahoma","28","40",786.834387968962
+"Mississippi","West Virginia","28","54",1047.08598806882
+"Mississippi","Alaska","28","02",5452.09473318432
+"Mississippi","Pennsylvania","28","42",1388.96908444789
+"Mississippi","Colorado","28","08",1588.50678784583
+"Mississippi","North Carolina","28","37",1013.76767270603
+"Mississippi","Indiana","28","18",851.533097542285
+"Mississippi","Kansas","28","20",1014.16263297389
+"Mississippi","District of Columbia","28","11",1328.87636525376
+"Mississippi","Rhode Island","28","44",1882.12539744176
+"Mississippi","Wyoming","28","56",1934.09220799465
+"Mississippi","Massachusetts","28","25",1894.70296888818
+"Mississippi","Connecticut","28","09",1791.36008020621
+"Mississippi","Vermont","28","50",1937.86813421697
+"Mississippi","Maine","28","23",2242.19333840435
+"Mississippi","New Hampshire","28","33",1986.94950292012
+"Mississippi","New Mexico","28","35",1533.4240141351
+"Mississippi","Ohio","28","39",1039.73049869598
+"Mississippi","Alabama","28","01",265.108431039189
+"Mississippi","Nebraska","28","31",1326.33363454503
+"Mississippi","South Dakota","28","46",1590.04766900631
+"Mississippi","Nevada","28","32",2522.45161863255
+"Mississippi","New Jersey","28","34",1573.18594957804
+"Mississippi","North Dakota","28","38",1872.31287976186
+"Mississippi","South Carolina","28","45",825.429641212597
+"Mississippi","Arizona","28","04",2042.58179261993
+"Mississippi","Arkansas","28","05",351.259259524399
+"Massachusetts","California","25","06",4066.83660537532
+"Massachusetts","Wisconsin","25","55",1493.04173467496
+"Massachusetts","Idaho","25","16",3436.76493636044
+"Massachusetts","Minnesota","25","27",1844.14378196205
+"Massachusetts","Iowa","25","19",1787.21699160953
+"Massachusetts","Missouri","25","29",1803.1052987167
+"Massachusetts","Maryland","25","24",551.588234672323
+"Massachusetts","Oregon","25","41",3909.73439418999
+"Massachusetts","Michigan","25","26",1125.98147790621
+"Massachusetts","Montana","25","30",3013.42517856898
+"Massachusetts","Utah","25","49",3346.21728267731
+"Massachusetts","Virginia","25","51",797.289743764651
+"Massachusetts","Illinois","25","17",1478.10531071954
+"Massachusetts","Texas","25","48",2713.08776235345
+"Massachusetts","Louisiana","25","22",2181.80545001425
+"Massachusetts","Florida","25","12",1798.30410417472
+"Massachusetts","Kentucky","25","21",1266.59705108996
+"Massachusetts","Tennessee","25","47",1443.22369598382
+"Massachusetts","New York","25","36",316.359913509533
+"Massachusetts","Georgia","25","13",1481.3829853552
+"Massachusetts","Hawaii","25","15",8078.06474209243
+"Massachusetts","Delaware","25","10",479.077535652044
+"Massachusetts","Washington","25","53",3823.38564263671
+"Massachusetts","Oklahoma","25","40",2335.83552885249
+"Massachusetts","West Virginia","25","54",849.573597008391
+"Massachusetts","Alaska","25","02",5443.362421481
+"Massachusetts","Pennsylvania","25","42",524.975980677662
+"Massachusetts","Colorado","25","08",2856.0015077877
+"Massachusetts","North Carolina","25","37",981.779813127715
+"Massachusetts","Indiana","25","18",1243.69175787377
+"Massachusetts","Kansas","25","20",2283.85955785159
+"Massachusetts","District of Columbia","25","11",578.481389355828
+"Massachusetts","Rhode Island","25","44",66.6186197209549
+"Massachusetts","Wyoming","25","56",2908.0096180305
+"Massachusetts","Mississippi","25","28",1894.70296888818
+"Massachusetts","Connecticut","25","09",105.861991453001
+"Massachusetts","Vermont","25","50",216.597736763509
+"Massachusetts","Maine","25","23",399.364321954394
+"Massachusetts","New Hampshire","25","33",160.942547130323
+"Massachusetts","New Mexico","25","35",3097.69944594195
+"Massachusetts","Ohio","25","39",947.076145915943
+"Massachusetts","Alabama","25","01",1691.19291287449
+"Massachusetts","Nebraska","25","31",2311.88044953563
+"Massachusetts","South Dakota","25","46",2303.81073738367
+"Massachusetts","Nevada","25","32",3748.45167297773
+"Massachusetts","New Jersey","25","34",333.882827613985
+"Massachusetts","North Dakota","25","38",2322.01665882969
+"Massachusetts","South Carolina","25","45",1222.20965017145
+"Massachusetts","Arizona","25","04",3560.31999488513
+"Massachusetts","Arkansas","25","05",1968.46084816402
+"Connecticut","California","09","06",3997.52272977957
+"Connecticut","Wisconsin","09","55",1437.50353507086
+"Connecticut","Idaho","09","16",3383.287011226
+"Connecticut","Minnesota","09","27",1796.83643983144
+"Connecticut","Iowa","09","19",1716.69294292645
+"Connecticut","Missouri","09","29",1715.5720879254
+"Connecticut","Maryland","09","24",445.774766700388
+"Connecticut","Oregon","09","41",3857.7324749451
+"Connecticut","Michigan","09","26",1071.65987493406
+"Connecticut","Montana","09","30",2967.65337829712
+"Connecticut","Utah","09","49",3276.57014194783
+"Connecticut","Virginia","09","51",691.463376937084
+"Connecticut","Illinois","09","17",1394.45770414564
+"Connecticut","Texas","09","48",2615.93899304646
+"Connecticut","Louisiana","09","22",2078.32355658846
+"Connecticut","Florida","09","12",1695.76196942577
+"Connecticut","Kentucky","09","21",1167.89653562035
+"Connecticut","Tennessee","09","47",1341.55600914762
+"Connecticut","New York","09","36",271.072822946639
+"Connecticut","Georgia","09","13",1375.59654423637
+"Connecticut","Hawaii","09","15",8013.22015879222
+"Connecticut","Delaware","09","10",374.312253626475
+"Connecticut","Washington","09","53",3781.23616178279
+"Connecticut","Oklahoma","09","40",2245.0626586499
+"Connecticut","West Virginia","09","54",747.867608735194
+"Connecticut","Alaska","09","02",5453.27020093052
+"Connecticut","Pennsylvania","09","42",431.834766266702
+"Connecticut","Colorado","09","08",2781.2925330837
+"Connecticut","North Carolina","09","37",876.692970314626
+"Connecticut","Indiana","09","18",1156.30380549428
+"Connecticut","Kansas","09","20",2202.13728788587
+"Connecticut","District of Columbia","09","11",472.707335890888
+"Connecticut","Rhode Island","09","44",99.5063902068575
+"Connecticut","Wyoming","09","56",2847.19144917188
+"Connecticut","Mississippi","09","28",1791.36008020621
+"Connecticut","Massachusetts","09","25",105.861991453001
+"Connecticut","Vermont","09","50",272.467201866388
+"Connecticut","Maine","09","23",500.100805898689
+"Connecticut","New Hampshire","09","33",247.598768642954
+"Connecticut","New Mexico","09","35",3011.93875270244
+"Connecticut","Ohio","09","39",857.736578932136
+"Connecticut","Alabama","09","01",1586.09399387918
+"Connecticut","Nebraska","09","31",2242.06846738962
+"Connecticut","South Dakota","09","46",2246.32218385191
+"Connecticut","Nevada","09","32",3682.15667502596
+"Connecticut","New Jersey","09","34",228.122145191604
+"Connecticut","North Dakota","09","38",2278.3835789834
+"Connecticut","South Carolina","09","45",1116.99962762278
+"Connecticut","Arizona","09","04",3478.87696947259
+"Connecticut","Arkansas","09","05",1871.11278535843
+"Vermont","California","50","06",3969.01631719197
+"Vermont","Wisconsin","50","55",1376.5177345686
+"Vermont","Idaho","50","16",3306.19632700163
+"Vermont","Minnesota","50","27",1708.32262468641
+"Vermont","Iowa","50","19",1701.71301539803
+"Vermont","Missouri","50","29",1767.78758336066
+"Vermont","Maryland","50","24",654.931576272139
+"Vermont","Oregon","50","41",3775.46878736134
+"Vermont","Michigan","50","26",1012.99282486523
+"Vermont","Montana","50","30",2869.87224154249
+"Vermont","Utah","50","49",3250.81734155836
+"Vermont","Virginia","50","51",892.149011550027
+"Vermont","Illinois","50","17",1433.4621951978
+"Vermont","Texas","50","48",2712.11070875917
+"Vermont","Louisiana","50","22",2224.46506887609
+"Vermont","Florida","50","12",1929.19720286799
+"Vermont","Kentucky","50","21",1285.70190769015
+"Vermont","Tennessee","50","47",1477.61263354344
+"Vermont","New York","50","36",261.248621281145
+"Vermont","Georgia","50","13",1577.34157327363
+"Vermont","Hawaii","50","15",7965.66293701588
+"Vermont","Delaware","50","10",611.050472516298
+"Vermont","Washington","50","53",3672.15954363882
+"Vermont","Oklahoma","50","40",2308.63179452355
+"Vermont","West Virginia","50","54",896.449674536133
+"Vermont","Alaska","50","02",5235.00939958666
+"Vermont","Pennsylvania","50","42",550.363419676002
+"Vermont","Colorado","50","08",2775.11227698797
+"Vermont","North Carolina","50","37",1097.50007083308
+"Vermont","Indiana","50","18",1215.50698666092
+"Vermont","Kansas","50","20",2225.80090162781
+"Vermont","District of Columbia","50","11",678.842440932787
+"Vermont","Rhode Island","50","44",283.124221268484
+"Vermont","Wyoming","50","56",2793.71321825692
+"Vermont","Mississippi","50","28",1937.86813421697
+"Vermont","Massachusetts","50","25",216.597736763509
+"Vermont","Connecticut","50","09",272.467201866388
+"Vermont","Maine","50","23",305.932105734723
+"Vermont","New Hampshire","50","33",97.2390182233972
+"Vermont","New Mexico","50","35",3049.07215792293
+"Vermont","Ohio","50","39",933.536224288197
+"Vermont","Alabama","50","01",1755.60088816738
+"Vermont","Nebraska","50","31",2220.84143626407
+"Vermont","South Dakota","50","46",2184.96593747644
+"Vermont","Nevada","50","32",3644.1252421716
+"Vermont","New Jersey","50","34",462.668973737956
+"Vermont","North Dakota","50","38",2177.07774320413
+"Vermont","South Carolina","50","45",1333.36304900456
+"Vermont","Arizona","50","04",3496.49739901043
+"Vermont","Arkansas","50","05",1972.58070539555
+"Maine","California","23","06",4225.93041294947
+"Maine","Wisconsin","23","55",1630.74508212804
+"Maine","Idaho","23","16",3532.15000209217
+"Maine","Minnesota","23","27",1938.53926269282
+"Maine","Iowa","23","19",1976.34094247019
+"Maine","Missouri","23","29",2065.61353739278
+"Maine","Maryland","23","24",934.42043578837
+"Maine","Oregon","23","41",3995.37102971186
+"Maine","Michigan","23","26",1276.48095177397
+"Maine","Montana","23","30",3081.37192250118
+"Maine","Utah","23","49",3511.44419548707
+"Maine","Virginia","23","51",1177.96859836132
+"Maine","Illinois","23","17",1729.55188535264
+"Maine","Texas","23","48",3016.33833255339
+"Maine","Louisiana","23","22",2529.0376059302
+"Maine","Florida","23","12",2195.78815767099
+"Maine","Kentucky","23","21",1591.54020452406
+"Maine","Tennessee","23","47",1782.5819809237
+"Maine","New York","23","36",567.172853969467
+"Maine","Georgia","23","13",1865.1880983634
+"Maine","Hawaii","23","15",8203.53358677761
+"Maine","Delaware","23","10",872.994528855038
+"Maine","Washington","23","53",3869.27797802634
+"Maine","Oklahoma","23","40",2607.67148191924
+"Maine","West Virginia","23","54",1198.1204180114
+"Maine","Alaska","23","02",5283.44455767832
+"Maine","Pennsylvania","23","42",853.382539429663
+"Maine","Colorado","23","08",3047.8150373223
+"Maine","North Carolina","23","37",1373.19972435369
+"Maine","Indiana","23","18",1517.13017625296
+"Maine","Kansas","23","20",2513.29417362895
+"Maine","District of Columbia","23","11",960.11734960571
+"Maine","Rhode Island","23","44",448.3034364199
+"Maine","Wyoming","23","56",3039.16093841701
+"Maine","Mississippi","23","28",2242.19333840435
+"Maine","Massachusetts","23","25",399.364321954394
+"Maine","Connecticut","23","09",500.100805898689
+"Maine","Vermont","23","50",305.932105734723
+"Maine","New Hampshire","23","33",261.834770071729
+"Maine","New Mexico","23","35",3339.05434544841
+"Maine","Ohio","23","39",1238.49627454966
+"Maine","Alabama","23","01",2055.44642895761
+"Maine","Nebraska","23","31",2488.60294098126
+"Maine","South Dakota","23","46",2429.20134305149
+"Maine","Nevada","23","32",3896.10837689085
+"Maine","New Jersey","23","34",724.252401615237
+"Maine","North Dakota","23","38",2391.26332111123
+"Maine","South Carolina","23","45",1612.5489887087
+"Maine","Arizona","23","04",3778.07216507617
+"Maine","Arkansas","23","05",2277.82708033727
+"New Hampshire","California","33","06",4060.11908414783
+"New Hampshire","Wisconsin","33","55",1469.57075605989
+"New Hampshire","Idaho","33","16",3401.82021947592
+"New Hampshire","Minnesota","33","27",1804.10647321117
+"New Hampshire","Iowa","33","19",1789.39178077479
+"New Hampshire","Missouri","33","29",1842.997636641
+"New Hampshire","Maryland","33","24",672.863975931575
+"New Hampshire","Oregon","33","41",3871.50113466367
+"New Hampshire","Michigan","33","26",1104.90221528108
+"New Hampshire","Montana","33","30",2966.54222685696
+"New Hampshire","Utah","33","49",3341.31778516968
+"New Hampshire","Virginia","33","51",916.144638528559
+"New Hampshire","Illinois","33","17",1510.69139259362
+"New Hampshire","Texas","33","48",2777.79521813235
+"New Hampshire","Louisiana","33","22",2274.11817239922
+"New Hampshire","Florida","33","12",1938.27449261437
+"New Hampshire","Kentucky","33","21",1342.26433892053
+"New Hampshire","Tennessee","33","47",1529.13656952873
+"New Hampshire","New York","33","36",328.007777545295
+"New Hampshire","Georgia","33","13",1603.36799998936
+"New Hampshire","Hawaii","33","15",8059.45760868688
+"New Hampshire","Delaware","33","10",614.652333482611
+"New Hampshire","Washington","33","53",3769.25958804703
+"New Hampshire","Oklahoma","33","40",2382.12907938408
+"New Hampshire","West Virginia","33","54",940.703631341579
+"New Hampshire","Alaska","33","02",5321.34834382996
+"New Hampshire","Pennsylvania","33","42",598.771879031825
+"New Hampshire","Colorado","33","08",2862.57486405001
+"New Hampshire","North Carolina","33","37",1112.68293824145
+"New Hampshire","Indiana","33","18",1287.40319907599
+"New Hampshire","Kansas","33","20",2307.63639810866
+"New Hampshire","District of Columbia","33","11",698.433376133154
+"New Hampshire","Rhode Island","33","44",224.344592153824
+"New Hampshire","Wyoming","33","56",2887.2025925122
+"New Hampshire","Mississippi","33","28",1986.94950292012
+"New Hampshire","Massachusetts","33","25",160.942547130323
+"New Hampshire","Connecticut","33","09",247.598768642954
+"New Hampshire","Vermont","33","50",97.2390182233972
+"New Hampshire","Maine","33","23",261.834770071729
+"New Hampshire","New Mexico","33","35",3129.02195851025
+"New Hampshire","Ohio","33","39",999.628365678301
+"New Hampshire","Alabama","33","01",1795.85207228334
+"New Hampshire","Nebraska","33","31",2310.08203335767
+"New Hampshire","South Dakota","33","46",2278.9001384038
+"New Hampshire","Nevada","33","32",3736.27040335679
+"New Hampshire","New Jersey","33","34",465.157726724583
+"New Hampshire","North Dakota","33","38",2273.75009294612
+"New Hampshire","South Carolina","33","45",1351.56309818872
+"New Hampshire","Arizona","33","04",3580.41799681704
+"New Hampshire","Arkansas","33","05",2035.82095065267
+"New Mexico","California","35","06",1242.61933250225
+"New Mexico","Wisconsin","35","55",1784.04031708647
+"New Mexico","Idaho","35","16",1323.62306041575
+"New Mexico","Minnesota","35","27",1653.02089034273
+"New Mexico","Iowa","35","19",1390.77895071766
+"New Mexico","Missouri","35","29",1297.28103143317
+"New Mexico","Maryland","35","24",2655.70834886714
+"New Mexico","Oregon","35","41",1630.99808432662
+"New Mexico","Michigan","35","26",2087.46654570088
+"New Mexico","Montana","35","30",1436.67563326966
+"New Mexico","Utah","35","49",735.323564551065
+"New Mexico","Virginia","35","51",2473.75452183755
+"New Mexico","Illinois","35","17",1620.17712810042
+"New Mexico","Texas","35","48",715.787927301017
+"New Mexico","Louisiana","35","22",1378.00901717112
+"New Mexico","Florida","35","12",2328.75272719326
+"New Mexico","Kentucky","35","21",1900.8310057419
+"New Mexico","Tennessee","35","47",1801.49713945736
+"New Mexico","New York","35","36",2802.92550033662
+"New Mexico","Georgia","35","13",2107.19056649032
+"New Mexico","Hawaii","35","15",5149.22278091573
+"New Mexico","Delaware","35","10",2762.94653039609
+"New Mexico","Washington","35","53",1876.89241531246
+"New Mexico","Oklahoma","35","40",795.677435727999
+"New Mexico","West Virginia","35","54",2318.00673581331
+"New Mexico","Alaska","35","02",4518.01908846055
+"New Mexico","Pennsylvania","35","42",2581.91497277981
+"New Mexico","Colorado","35","08",512.851285479107
+"New Mexico","North Carolina","35","37",2449.39886368222
+"New Mexico","Indiana","35","18",1855.74691095388
+"New Mexico","Kansas","35","20",827.267819745598
+"New Mexico","District of Columbia","35","11",2631.56929813228
+"New Mexico","Rhode Island","35","44",3111.4216316667
+"New Mexico","Wyoming","35","56",963.095307950429
+"New Mexico","Mississippi","35","28",1533.4240141351
+"New Mexico","Massachusetts","35","25",3097.69944594195
+"New Mexico","Connecticut","35","09",3011.93875270244
+"New Mexico","Vermont","35","50",3049.07215792293
+"New Mexico","Maine","35","23",3339.05434544841
+"New Mexico","New Hampshire","35","33",3129.02195851025
+"New Mexico","Ohio","35","39",2155.03013570984
+"New Mexico","Alabama","35","01",1792.52410204975
+"New Mexico","Nebraska","35","31",966.526963498132
+"New Mexico","South Dakota","35","46",1224.37397227081
+"New Mexico","Nevada","35","32",1082.9630382944
+"New Mexico","New Jersey","35","34",2839.25421988155
+"New Mexico","North Dakota","35","38",1524.87479722834
+"New Mexico","South Carolina","35","45",2315.58834223685
+"New Mexico","Arizona","35","04",509.503243476993
+"New Mexico","Arkansas","35","05",1250.72723886597
+"Ohio","California","39","06",3177.24308349253
+"Ohio","Wisconsin","39","55",761.595044138358
+"Ohio","Idaho","39","16",2637.35020574578
+"Ohio","Minnesota","39","27",1143.26794476274
+"Ohio","Iowa","39","19",916.425876716408
+"Ohio","Missouri","39","29",858.043770606965
+"Ohio","Maryland","39","24",536.719858250757
+"Ohio","Oregon","39","41",3114.03395670799
+"Ohio","Michigan","39","26",497.930714192843
+"Ohio","Montana","39","30",2272.12291740414
+"Ohio","Utah","39","49",2458.2818161252
+"Ohio","Virginia","39","51",463.292871963683
+"Ohio","Illinois","39","17",544.43830112397
+"Ohio","Texas","39","48",1778.83279266325
+"Ohio","Louisiana","39","22",1319.68746979195
+"Ohio","Florida","39","12",1302.51578617455
+"Ohio","Kentucky","39","21",375.376571884957
+"Ohio","Tennessee","39","47",582.663242383718
+"Ohio","New York","39","36",673.479260303527
+"Ohio","Georgia","39","13",853.017813537548
+"Ohio","Hawaii","39","15",7199.90400185746
+"Ohio","Delaware","39","10",640.788815474028
+"Ohio","Washington","39","53",3092.17584078342
+"Ohio","Oklahoma","39","40",1388.79245095395
+"Ohio","West Virginia","39","54",261.584139515542
+"Ohio","Alaska","39","02",5085.88647346427
+"Ohio","Pennsylvania","39","42",426.886798343215
+"Ohio","Colorado","39","08",1948.02002683646
+"Ohio","North Carolina","39","37",614.815518017209
+"Ohio","Indiana","39","18",299.720370349286
+"Ohio","Kansas","39","20",1352.00624122813
+"Ohio","District of Columbia","39","11",518.496882540285
+"Ohio","Rhode Island","39","44",957.084360670332
+"Ohio","Wyoming","39","56",2071.24181826225
+"Ohio","Mississippi","39","28",1039.73049869598
+"Ohio","Massachusetts","39","25",947.076145915943
+"Ohio","Connecticut","39","09",857.736578932136
+"Ohio","Vermont","39","50",933.536224288197
+"Ohio","Maine","39","23",1238.49627454966
+"Ohio","New Hampshire","39","33",999.628365678301
+"Ohio","New Mexico","39","35",2155.03013570984
+"Ohio","Alabama","39","01",909.796990145432
+"Ohio","Nebraska","39","31",1432.75747813468
+"Ohio","South Dakota","39","46",1501.25138677041
+"Ohio","Nevada","39","32",2874.47827582315
+"Ohio","New Jersey","39","34",690.214026097289
+"Ohio","North Dakota","39","38",1619.40155412811
+"Ohio","South Carolina","39","45",729.769639221666
+"Ohio","Arizona","39","04",2627.05936221949
+"Ohio","Arkansas","39","05",1039.39251224426
+"Alabama","California","01","06",2999.02677623406
+"Alabama","Wisconsin","01","55",1345.6150339721
+"Alabama","Idaho","01","16",2718.21389542204
+"Alabama","Minnesota","01","27",1631.02022038404
+"Alabama","Iowa","01","19",1188.8644043175
+"Alabama","Missouri","01","29",802.349249367298
+"Alabama","Maryland","01","24",1142.82884241329
+"Alabama","Oregon","01","41",3164.56941037882
+"Alabama","Michigan","01","26",1292.08898901409
+"Alabama","Montana","01","30",2494.05528755449
+"Alabama","Utah","01","49",2339.6593042838
+"Alabama","Virginia","01","51",900.223423911545
+"Alabama","Illinois","01","17",834.953782498783
+"Alabama","Texas","01","48",1183.3951181939
+"Alabama","Louisiana","01","22",519.960364047148
+"Alabama","Florida","01","12",626.604215984861
+"Alabama","Kentucky","01","21",547.04403920339
+"Alabama","Tennessee","01","47",345.590617205331
+"Alabama","New York","01","36",1502.1428024365
+"Alabama","Georgia","01","13",318.197576869924
+"Alabama","Hawaii","01","15",6937.06506765029
+"Alabama","Delaware","01","10",1231.57546802472
+"Alabama","Washington","01","53",3256.76661250368
+"Alabama","Oklahoma","01","40",1028.98094123279
+"Alabama","West Virginia","01","54",859.618161130827
+"Alabama","Alaska","01","02",5586.34111771895
+"Alabama","Pennsylvania","01","42",1206.00228597179
+"Alabama","Colorado","01","08",1818.2301852532
+"Alabama","North Carolina","01","37",768.233763885827
+"Alabama","Indiana","01","18",792.991504651783
+"Alabama","Kansas","01","20",1220.55397189412
+"Alabama","District of Columbia","01","11",1115.46699400621
+"Alabama","Rhode Island","01","44",1672.49989186512
+"Alabama","Wyoming","01","56",2135.36806952197
+"Alabama","Mississippi","01","28",265.108431039189
+"Alabama","Massachusetts","01","25",1691.19291287449
+"Alabama","Connecticut","01","09",1586.09399387918
+"Alabama","Vermont","01","50",1755.60088816738
+"Alabama","Maine","01","23",2055.44642895761
+"Alabama","New Hampshire","01","33",1795.85207228334
+"Alabama","New Mexico","01","35",1792.52410204975
+"Alabama","Ohio","01","39",909.796990145432
+"Alabama","Nebraska","01","31",1503.38197313865
+"Alabama","South Dakota","01","46",1738.48470103855
+"Alabama","Nevada","01","32",2762.49805169252
+"Alabama","New Jersey","01","34",1362.11245437768
+"Alabama","North Dakota","01","38",1995.31062144205
+"Alabama","South Carolina","01","45",565.905250067472
+"Alabama","Arizona","01","04",2302.01412777876
+"Alabama","Arkansas","01","05",569.182441652867
+"Nebraska","California","31","06",1755.46388796043
+"Nebraska","Wisconsin","31","55",866.269323588273
+"Nebraska","Idaho","31","16",1244.08548423972
+"Nebraska","Minnesota","31","27",686.557989368256
+"Nebraska","Iowa","31","19",525.422806790122
+"Nebraska","Missouri","31","29",718.060341882949
+"Nebraska","Maryland","31","24",1969.20835909573
+"Nebraska","Oregon","31","41",1712.30197421863
+"Nebraska","Michigan","31","26",1212.17474397997
+"Nebraska","Montana","31","30",993.190623874737
+"Nebraska","Utah","31","49",1034.54976143019
+"Nebraska","Virginia","31","51",1850.35165599633
+"Nebraska","Illinois","31","17",907.063457736598
+"Nebraska","Texas","31","48",1123.48464645921
+"Nebraska","Louisiana","31","22",1364.72281894496
+"Nebraska","Florida","31","12",2129.42563671969
+"Nebraska","Kentucky","31","21",1318.28645094041
+"Nebraska","Tennessee","31","47",1324.69556776638
+"Nebraska","New York","31","36",1998.93112152069
+"Nebraska","Georgia","31","13",1751.88194337674
+"Nebraska","Hawaii","31","15",5773.96879662241
+"Nebraska","Delaware","31","10",2073.53047715639
+"Nebraska","Washington","31","53",1760.52395965396
+"Nebraska","Oklahoma","31","40",690.962678860662
+"Nebraska","West Virginia","31","54",1658.8100450855
+"Nebraska","Alaska","31","02",4142.96022204151
+"Nebraska","Pennsylvania","31","42",1836.4745059906
+"Nebraska","Colorado","31","08",563.814019811091
+"Nebraska","North Carolina","31","37",1906.50360639637
+"Nebraska","Indiana","31","18",1152.27639798317
+"Nebraska","Kansas","31","20",359.324575067454
+"Nebraska","District of Columbia","31","11",1950.15038658279
+"Nebraska","Rhode Island","31","44",2339.48479830026
+"Nebraska","Wyoming","31","56",658.270763590187
+"Nebraska","Mississippi","31","28",1326.33363454503
+"Nebraska","Massachusetts","31","25",2311.88044953563
+"Nebraska","Connecticut","31","09",2242.06846738962
+"Nebraska","Vermont","31","50",2220.84143626407
+"Nebraska","Maine","31","23",2488.60294098126
+"Nebraska","New Hampshire","31","33",2310.08203335767
+"Nebraska","New Mexico","31","35",966.526963498132
+"Nebraska","Ohio","31","39",1432.75747813468
+"Nebraska","Alabama","31","01",1503.38197313865
+"Nebraska","South Dakota","31","46",325.078949621907
+"Nebraska","Nevada","31","32",1443.62792852448
+"Nebraska","New Jersey","31","34",2111.45114662562
+"Nebraska","North Dakota","31","38",659.561024950871
+"Nebraska","South Carolina","31","45",1861.21165149129
+"Nebraska","Arizona","31","04",1315.49377422235
+"Nebraska","Arkansas","31","05",978.204624229422
+"South Dakota","California","46","06",1803.87512500182
+"South Dakota","Wisconsin","46","55",810.993655684592
+"South Dakota","Idaho","46","16",1141.4427469508
+"South Dakota","Minnesota","46","27",505.798384555737
+"South Dakota","Iowa","46","19",605.200386922011
+"South Dakota","Missouri","46","29",936.138045062213
+"South Dakota","Maryland","46","24",2031.38606052343
+"South Dakota","Oregon","46","41",1618.19994732062
+"South Dakota","Michigan","46","26",1178.021716137
+"South Dakota","Montana","46","30",784.596397538236
+"South Dakota","Utah","46","49",1104.86262780609
+"South Dakota","Virginia","46","51",1949.29921177777
+"South Dakota","Illinois","46","17",1030.45640469889
+"South Dakota","Texas","46","48",1448.04303112844
+"South Dakota","Louisiana","46","22",1659.97633601953
+"South Dakota","Florida","46","12",2363.1935294177
+"South Dakota","Kentucky","46","21",1466.2806870875
+"South Dakota","Tennessee","46","47",1513.91201196977
+"South Dakota","New York","46","36",1987.45988878036
+"South Dakota","Georgia","46","13",1956.84772225533
+"South Dakota","Hawaii","46","15",5780.69761924295
+"South Dakota","Delaware","46","10",2130.35156294852
+"South Dakota","Washington","46","53",1597.09819621533
+"South Dakota","Oklahoma","46","40",1011.59983546848
+"South Dakota","West Virginia","46","54",1749.10190191434
+"South Dakota","Alaska","46","02",3862.21260180556
+"South Dakota","Pennsylvania","46","42",1869.95815417865
+"South Dakota","Colorado","46","08",749.199074594507
+"South Dakota","North Carolina","46","37",2038.74367176501
+"South Dakota","Indiana","46","18",1253.68236791976
+"South Dakota","Kansas","46","20",679.300202915188
+"South Dakota","District of Columbia","46","11",2015.78040858801
+"South Dakota","Rhode Island","46","44",2339.78205352477
+"South Dakota","Wyoming","46","56",609.984800024119
+"South Dakota","Mississippi","46","28",1590.04766900631
+"South Dakota","Massachusetts","46","25",2303.81073738367
+"South Dakota","Connecticut","46","09",2246.32218385191
+"South Dakota","Vermont","46","50",2184.96593747644
+"South Dakota","Maine","46","23",2429.20134305149
+"South Dakota","New Hampshire","46","33",2278.9001384038
+"South Dakota","New Mexico","46","35",1224.37397227081
+"South Dakota","Ohio","46","39",1501.25138677041
+"South Dakota","Alabama","46","01",1738.48470103855
+"South Dakota","Nebraska","46","31",325.078949621907
+"South Dakota","Nevada","46","32",1468.92430052019
+"South Dakota","New Jersey","46","34",2145.43925171432
+"South Dakota","North Dakota","46","38",334.754552531934
+"South Dakota","South Carolina","46","45",2029.19782914921
+"South Dakota","Arizona","46","04",1495.32632102951
+"South Dakota","Arkansas","46","05",1252.33206128413
+"Nevada","California","32","06",344.476149581608
+"Nevada","Wisconsin","32","55",2268.24211532373
+"Nevada","Idaho","32","16",582.931796656633
+"Nevada","Minnesota","32","27",1970.22295479161
+"Nevada","Iowa","32","19",1967.90806367953
+"Nevada","Missouri","32","29",2090.06342785686
+"Nevada","Maryland","32","24",3409.93784901383
+"Nevada","Oregon","32","41",607.311935834094
+"Nevada","Michigan","32","26",2631.3766128228
+"Nevada","Montana","32","30",1028.463289373
+"Nevada","Utah","32","49",426.760146213004
+"Nevada","Virginia","32","51",3277.92744689466
+"Nevada","Illinois","32","17",2339.75398309125
+"Nevada","Texas","32","48",1794.65789535309
+"Nevada","Louisiana","32","22",2418.06787361631
+"Nevada","Florida","32","12",3347.08057154414
+"Nevada","Kentucky","32","21",2722.71918033344
+"Nevada","Tennessee","32","47",2683.16731739577
+"Nevada","New York","32","36",3433.37924838684
+"Nevada","Georgia","32","13",3059.83857329535
+"Nevada","Hawaii","32","15",4331.31049991041
+"Nevada","Delaware","32","10",3515.04699672329
+"Nevada","Washington","32","53",949.12700017122
+"Nevada","Oklahoma","32","40",1735.9414408519
+"Nevada","West Virginia","32","54",3092.55831917295
+"Nevada","Alaska","32","02",3584.39275986634
+"Nevada","Pennsylvania","32","42",3280.01833807902
+"Nevada","Colorado","32","08",955.707396088808
+"Nevada","North Carolina","32","37",3309.18111864811
+"Nevada","Indiana","32","18",2588.10204099634
+"Nevada","Kansas","32","20",1579.42648760251
+"Nevada","District of Columbia","32","11",3390.13188543794
+"Nevada","Rhode Island","32","44",3778.73632681355
+"Nevada","Wyoming","32","56",861.885278108808
+"Nevada","Mississippi","32","28",2522.45161863255
+"Nevada","Massachusetts","32","25",3748.45167297773
+"Nevada","Connecticut","32","09",3682.15667502596
+"Nevada","Vermont","32","50",3644.1252421716
+"Nevada","Maine","32","23",3896.10837689085
+"Nevada","New Hampshire","32","33",3736.27040335679
+"Nevada","New Mexico","32","35",1082.9630382944
+"Nevada","Ohio","32","39",2874.47827582315
+"Nevada","Alabama","32","01",2762.49805169252
+"Nevada","Nebraska","32","31",1443.62792852448
+"Nevada","South Dakota","32","46",1468.92430052019
+"Nevada","New Jersey","32","34",3555.0787113232
+"Nevada","North Dakota","32","38",1583.01514483997
+"Nevada","South Carolina","32","45",3224.7964526626
+"Nevada","Arizona","32","04",715.139283454204
+"Nevada","Arkansas","32","05",2193.83147513224
+"New Jersey","California","34","06",3862.7288872283
+"New Jersey","Wisconsin","34","55",1349.59494328384
+"New Jersey","Idaho","34","16",3286.82222630159
+"New Jersey","Minnesota","34","27",1723.85906585879
+"New Jersey","Iowa","34","19",1588.02158939099
+"New Jersey","Missouri","34","29",1542.64133477019
+"New Jersey","Maryland","34","24",219.395386879303
+"New Jersey","Oregon","34","41",3763.38240618371
+"New Jersey","Michigan","34","26",994.925922174138
+"New Jersey","Montana","34","30",2890.38186567525
+"New Jersey","Utah","34","49",3142.52139990718
+"New Jersey","Virginia","34","51",464.448693569268
+"New Jersey","Illinois","34","17",1234.62687103868
+"New Jersey","Texas","34","48",2414.5266478827
+"New Jersey","Louisiana","34","22",1859.45981142305
+"New Jersey","Florida","34","12",1473.16433279635
+"New Jersey","Kentucky","34","21",966.196487557145
+"New Jersey","Tennessee","34","47",1129.56580604403
+"New Jersey","New York","34","36",314.084299671866
+"New Jersey","Georgia","34","13",1147.50017289741
+"New Jersey","Hawaii","34","15",7884.53672321208
+"New Jersey","Delaware","34","10",149.68635642534
+"New Jersey","Washington","34","53",3709.48662900345
+"New Jersey","Oklahoma","34","40",2061.33508617254
+"New Jersey","West Virginia","34","54",539.577457314391
+"New Jersey","Alaska","34","02",5491.66493941139
+"New Jersey","Pennsylvania","34","42",276.192356326937
+"New Jersey","Colorado","34","08",2636.4608254737
+"New Jersey","North Carolina","34","37",649.440151876528
+"New Jersey","Indiana","34","18",988.882629497707
+"New Jersey","Kansas","34","20",2041.97598430724
+"New Jersey","District of Columbia","34","11",246.690536677439
+"New Jersey","Rhode Island","34","44",310.390581745404
+"New Jersey","Wyoming","34","56",2735.43060869278
+"New Jersey","Mississippi","34","28",1573.18594957804
+"New Jersey","Massachusetts","34","25",333.882827613985
+"New Jersey","Connecticut","34","09",228.122145191604
+"New Jersey","Vermont","34","50",462.668973737956
+"New Jersey","Maine","34","23",724.252401615237
+"New Jersey","New Hampshire","34","33",465.157726724583
+"New Jersey","New Mexico","34","35",2839.25421988155
+"New Jersey","Ohio","34","39",690.214026097289
+"New Jersey","Alabama","34","01",1362.11245437768
+"New Jersey","Nebraska","34","31",2111.45114662562
+"New Jersey","South Dakota","34","46",2145.43925171432
+"New Jersey","Nevada","34","32",3555.0787113232
+"New Jersey","North Dakota","34","38",2209.73961444389
+"New Jersey","South Carolina","34","45",889.448141042913
+"New Jersey","Arizona","34","04",3315.99118463558
+"New Jersey","Arkansas","34","05",1670.52922714948
+"North Dakota","California","38","06",1927.1007461055
+"North Dakota","Wisconsin","38","55",866.449296733943
+"North Dakota","Idaho","38","16",1145.71218252455
+"North Dakota","Minnesota","38","27",486.032315791264
+"North Dakota","Iowa","38","19",811.784856153342
+"North Dakota","Missouri","38","29",1201.69686909163
+"North Dakota","Maryland","38","24",2126.16244290854
+"North Dakota","Oregon","38","41",1604.18587697491
+"North Dakota","Michigan","38","26",1215.20467218811
+"North Dakota","Montana","38","30",692.795091387043
+"North Dakota","Utah","38","49",1278.23763674633
+"North Dakota","Virginia","38","51",2081.23034775451
+"North Dakota","Illinois","38","17",1221.82897675321
+"North Dakota","Texas","38","48",1782.78987529485
+"North Dakota","Louisiana","38","22",1967.04555575972
+"North Dakota","Florida","38","12",2611.57697472203
+"North Dakota","Kentucky","38","21",1656.53133460768
+"North Dakota","Tennessee","38","47",1737.28529011249
+"North Dakota","New York","38","36",2010.01164002295
+"North Dakota","Georgia","38","13",2184.55045711146
+"North Dakota","Hawaii","38","15",5820.2516590357
+"North Dakota","Delaware","38","10",2217.51974790882
+"North Dakota","Washington","38","53",1502.96299776787
+"North Dakota","Oklahoma","38","40",1341.60724851571
+"North Dakota","West Virginia","38","54",1878.49717561727
+"North Dakota","Alaska","38","02",3591.07646435648
+"North Dakota","Pennsylvania","38","42",1941.18224508199
+"North Dakota","Colorado","38","08",1025.61364688082
+"North Dakota","North Carolina","38","37",2199.61864944861
+"North Dakota","Indiana","38","18",1413.25135948612
+"North Dakota","Kansas","38","20",1010.16903809905
+"North Dakota","District of Columbia","38","11",2114.29279886336
+"North Dakota","Rhode Island","38","44",2365.79058962807
+"North Dakota","Wyoming","38","56",743.285114401123
+"North Dakota","Mississippi","38","28",1872.31287976186
+"North Dakota","Massachusetts","38","25",2322.01665882969
+"North Dakota","Connecticut","38","09",2278.3835789834
+"North Dakota","Vermont","38","50",2177.07774320413
+"North Dakota","Maine","38","23",2391.26332111123
+"North Dakota","New Hampshire","38","33",2273.75009294612
+"North Dakota","New Mexico","38","35",1524.87479722834
+"North Dakota","Ohio","38","39",1619.40155412811
+"North Dakota","Alabama","38","01",1995.31062144205
+"North Dakota","Nebraska","38","31",659.561024950871
+"North Dakota","South Dakota","38","46",334.754552531934
+"North Dakota","Nevada","38","32",1583.01514483997
+"North Dakota","New Jersey","38","34",2209.73961444389
+"North Dakota","South Carolina","38","45",2222.85231050426
+"North Dakota","Arizona","38","04",1737.46518933491
+"North Dakota","Arkansas","38","05",1547.28817142731
+"South Carolina","California","45","06",3485.84822531187
+"South Carolina","Wisconsin","45","55",1424.40970051181
+"South Carolina","Idaho","45","16",3105.05307012112
+"South Carolina","Minnesota","45","27",1782.504825032
+"South Carolina","Iowa","45","19",1427.49285822999
+"South Carolina","Missouri","45","29",1149.71352305598
+"South Carolina","Maryland","45","24",679.447662893865
+"South Carolina","Oregon","45","41",3569.94829964515
+"South Carolina","Michigan","45","26",1222.78686080714
+"South Carolina","Montana","45","30",2812.64128059316
+"South Carolina","Utah","45","49",2798.07066895598
+"South Carolina","Virginia","45","51",443.803294990678
+"South Carolina","Illinois","45","17",1004.00010786648
+"South Carolina","Texas","45","48",1742.70919138455
+"South Carolina","Louisiana","45","22",1084.2077648644
+"South Carolina","Florida","45","12",610.523378281979
+"South Carolina","Kentucky","45","21",566.712227796395
+"South Carolina","Tennessee","45","47",543.074656794606
+"South Carolina","New York","45","36",1107.51634606917
+"South Carolina","Georgia","45","13",275.404983202883
+"South Carolina","Hawaii","45","15",7464.14767317827
+"South Carolina","Delaware","45","10",743.306039155024
+"South Carolina","Washington","45","53",3613.31746147563
+"South Carolina","Oklahoma","45","40",1526.77576105186
+"South Carolina","West Virginia","45","54",527.189947042105
+"South Carolina","Alaska","45","02",5770.6139667361
+"South Carolina","Pennsylvania","45","42",821.779221596348
+"South Carolina","Colorado","45","08",2269.20570881694
+"South Carolina","North Carolina","45","37",240.597981387965
+"South Carolina","Indiana","45","18",820.06128456888
+"South Carolina","Kansas","45","20",1646.97700138588
+"South Carolina","District of Columbia","45","11",654.786385566575
+"South Carolina","Rhode Island","45","44",1190.16750024512
+"South Carolina","Wyoming","45","56",2518.20082115627
+"South Carolina","Mississippi","45","28",825.429641212597
+"South Carolina","Massachusetts","45","25",1222.20965017145
+"South Carolina","Connecticut","45","09",1116.99962762278
+"South Carolina","Vermont","45","50",1333.36304900456
+"South Carolina","Maine","45","23",1612.5489887087
+"South Carolina","New Hampshire","45","33",1351.56309818872
+"South Carolina","New Mexico","45","35",2315.58834223685
+"South Carolina","Ohio","45","39",729.769639221666
+"South Carolina","Alabama","45","01",565.905250067472
+"South Carolina","Nebraska","45","31",1861.21165149129
+"South Carolina","South Dakota","45","46",2029.19782914921
+"South Carolina","Nevada","45","32",3224.7964526626
+"South Carolina","New Jersey","45","34",889.448141042913
+"South Carolina","North Dakota","45","38",2222.85231050426
+"South Carolina","Arizona","45","04",2822.99399598919
+"South Carolina","Arkansas","45","05",1064.98715359113
+"Arizona","California","04","06",775.347079898861
+"Arizona","Wisconsin","04","55",2177.37258359142
+"Arizona","Idaho","04","16",1148.72631199307
+"Arizona","Minnesota","04","27",1979.6209058286
+"Arizona","Iowa","04","19",1804.05223027888
+"Arizona","Missouri","04","29",1775.63430243477
+"Arizona","Maryland","04","24",3139.85213542447
+"Arizona","Oregon","04","41",1318.83548773964
+"Arizona","Michigan","04","26",2507.78930835553
+"Arizona","Montana","04","30",1431.05000166641
+"Arizona","Utah","04","49",559.437284217852
+"Arizona","Virginia","04","51",2966.89897096888
+"Arizona","Illinois","04","17",2084.839557887
+"Arizona","Texas","04","48",1195.5654442634
+"Arizona","Louisiana","04","22",1879.25787242767
+"Arizona","Florida","04","12",2832.18452274047
+"Arizona","Kentucky","04","21",2393.66020084889
+"Arizona","Tennessee","04","47",2304.01506551031
+"Arizona","New York","04","36",3257.9673059683
+"Arizona","Georgia","04","13",2616.63695632579
+"Arizona","Hawaii","04","15",4641.1693889583
+"Arizona","Delaware","04","10",3247.26615343083
+"Arizona","Washington","04","53",1634.61087711293
+"Arizona","Oklahoma","04","40",1298.49995391598
+"Arizona","West Virginia","04","54",2804.26740715775
+"Arizona","Alaska","04","02",4288.59108500319
+"Arizona","Pennsylvania","04","42",3052.58126202044
+"Arizona","Colorado","04","08",756.766058541594
+"Arizona","North Carolina","04","37",2951.56403385859
+"Arizona","Indiana","04","18",2327.51402624845
+"Arizona","Kansas","04","20",1276.74791146196
+"Arizona","District of Columbia","04","11",3116.4908449168
+"Arizona","Rhode Island","04","44",3578.29066167151
+"Arizona","Wyoming","04","56",1033.00033208225
+"Arizona","Mississippi","04","28",2042.58179261993
+"Arizona","Massachusetts","04","25",3560.31999488513
+"Arizona","Connecticut","04","09",3478.87696947259
+"Arizona","Vermont","04","50",3496.49739901043
+"Arizona","Maine","04","23",3778.07216507617
+"Arizona","New Hampshire","04","33",3580.41799681704
+"Arizona","New Mexico","04","35",509.503243476993
+"Arizona","Ohio","04","39",2627.05936221949
+"Arizona","Alabama","04","01",2302.01412777876
+"Arizona","Nebraska","04","31",1315.49377422235
+"Arizona","South Dakota","04","46",1495.32632102951
+"Arizona","Nevada","04","32",715.139283454204
+"Arizona","New Jersey","04","34",3315.99118463558
+"Arizona","North Dakota","04","38",1737.46518933491
+"Arizona","South Carolina","04","45",2822.99399598919
+"Arizona","Arkansas","04","05",1758.04931182547
+"Arkansas","California","05","06",2435.5266195967
+"Arkansas","Wisconsin","05","55",1102.05812057705
+"Arkansas","Idaho","05","16",2160.60866139816
+"Arkansas","Minnesota","05","27",1275.9361758632
+"Arkansas","Iowa","05","19",803.762946909848
+"Arkansas","Missouri","05","29",385.106186385532
+"Arkansas","Maryland","05","24",1466.38149705576
+"Arkansas","Oregon","05","41",2600.42719781137
+"Arkansas","Michigan","05","26",1210.99569509152
+"Arkansas","Montana","05","30",1969.3338119559
+"Arkansas","Utah","05","49",1770.55911321082
+"Arkansas","Virginia","05","51",1257.21478676441
+"Arkansas","Illinois","05","17",639.817054616156
+"Arkansas","Texas","05","48",744.834494178052
+"Arkansas","Louisiana","05","22",434.161620959947
+"Arkansas","Florida","05","12",1175.79267395589
+"Arkansas","Kentucky","05","21",704.467222826844
+"Arkansas","Tennessee","05","47",562.686280944367
+"Arkansas","New York","05","36",1711.89377571742
+"Arkansas","Georgia","05","13",869.359842293818
+"Arkansas","Hawaii","05","15",6399.21860830264
+"Arkansas","Delaware","05","10",1570.47683637974
+"Arkansas","Washington","05","53",2707.45772999682
+"Arkansas","Oklahoma","05","40",465.271752686418
+"Arkansas","West Virginia","05","54",1131.2657525134
+"Arkansas","Alaska","05","02",5113.19517545903
+"Arkansas","Pennsylvania","05","42",1444.43180467246
+"Arkansas","Colorado","05","08",1249.39269504936
+"Arkansas","North Carolina","05","37",1205.88652802383
+"Arkansas","Indiana","05","18",777.607312160903
+"Arkansas","Kansas","05","20",663.32295441512
+"Arkansas","District of Columbia","05","11",1440.13886911036
+"Arkansas","Rhode Island","05","44",1967.82557632194
+"Arkansas","Wyoming","05","56",1583.26274283613
+"Arkansas","Mississippi","05","28",351.259259524399
+"Arkansas","Massachusetts","05","25",1968.46084816402
+"Arkansas","Connecticut","05","09",1871.11278535843
+"Arkansas","Vermont","05","50",1972.58070539555
+"Arkansas","Maine","05","23",2277.82708033727
+"Arkansas","New Hampshire","05","33",2035.82095065267
+"Arkansas","New Mexico","05","35",1250.72723886597
+"Arkansas","Ohio","05","39",1039.39251224426
+"Arkansas","Alabama","05","01",569.182441652867
+"Arkansas","Nebraska","05","31",978.204624229422
+"Arkansas","South Dakota","05","46",1252.33206128413
+"Arkansas","Nevada","05","32",2193.83147513224
+"Arkansas","New Jersey","05","34",1670.52922714948
+"Arkansas","North Dakota","05","38",1547.28817142731
+"Arkansas","South Carolina","05","45",1064.98715359113
+"Arkansas","Arizona","05","04",1758.04931182547
