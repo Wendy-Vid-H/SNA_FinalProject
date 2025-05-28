@@ -1,0 +1,640 @@
+---
+title: "Social Network Analysis Sample"
+format: html
+editor: visual
+---
+
+
+```{r}
+
+library(tigris)
+library(sf)
+library(tidycensus)
+
+
+options(tigris_use_cache = TRUE)
+
+# Get US states geometry
+states <- states(cb = TRUE, resolution = "20m", year = 2020) %>%
+  st_transform(crs = 4326) %>%
+  select(NAME, STATEFP, geometry)
+
+states <- states |>
+  filter(STATEFP != 72)
+  
+# Compute centroids
+states_centroids <- states %>%
+  mutate(centroid = st_centroid(geometry)) %>%
+  select(NAME, STATEFP, centroid)
+
+# Create pairwise combinations (excluding self-pairs)
+state_pairs <- expand_grid(
+  state1 = states_centroids,
+  state2 = states_centroids
+) %>%
+  filter(state1$NAME != state2$NAME) 
+
+# Compute distances between centroids
+state_pairs <- state_pairs %>%
+  mutate(
+    distance_km = as.numeric(st_distance(state1$centroid, state2$centroid, by_element = TRUE)) / 1000,
+    state1_name = state1$NAME,
+    state2_name = state2$NAME,
+    state1_fips = state1$STATEFP,
+    state2_fips = state2$STATEFP
+  ) %>%
+  select(state1_name, state2_name, state1_fips, state2_fips, distance_km)
+
+
+
+write.csv(state_pairs, "state_centroid_distances.csv", row.names = FALSE)
+```
+
+# Creation and Visualization
+
+```{r}
+library(tidyverse)
+library(tidycensus)
+library(sf)
+library(stringr)
+library(lubridate)
+library(tigris)
+library(here)
+library(censusapi)
+library(httr)
+library(jsonlite)
+library(testthat)
+
+library(igraph)
+
+install.packages("viridis")
+library(viridis)
+
+library(circlize)
+install.packages("circlize")
+
+library(haven)
+yr5_movestate <- read_dta("5y_movestate.dta")
+
+mig_count5 <- yr5_movestate |>
+  mutate(state_comb = migsta5*100 + statefip) |>
+  group_by(state_comb) |>
+  summarize(n = n())
+
+mig_count5 |>
+  arrange(desc(n))
+
+yr5_movestate |>
+  select(year, statefip, migsta5) |>
+  count(migsta5) |>
+  arrange(desc(n))
+
+library(haven)
+state_cd <- read_dta("state_cent_d_v1.dta")
+
+
+## state_sr1: for the not existing state combination of migration, n = "na"
+state_sr1_y5 <- state_cd |>
+  left_join(mig_count5, by = "state_comb")
+state_sr2_y5 <- state_sr1_y5 |>
+  mutate(mig_5yago = state1_name) |>
+  mutate(mig_current = state2_name)
+
+state_sr3_y5 <- state_sr2_y5 |>
+  filter(is.na(n) == FALSE)
+
+state_yr5_viz <- data.frame(
+  from = c(state_sr3_y5$mig_5yago),
+  to = c(state_sr3_y5$mig_current),
+  weight = c(state_sr3_y5$n)
+)
+
+mig15_viz <- graph_from_data_frame(state_yr5_viz, directed = TRUE)
+plot(mig15_viz)
+
+layout_sy <- layout_with_sugiyama(mig15_viz)$layout
+layout_kk <- layout_with_kk(mig15_viz)
+
+plot(mig15_viz,
+     edge.width = E(mig15_viz)$weight * 0.1,
+     vertex.size = 5,
+     vertex.color = "lightblue",
+     vertex.label.color = "black",
+     edge.color = "gray50",
+     edge.arrow.size = 0.1
+)
+
+ecount(mig15_viz)
+vcount(mig15_viz)
+
+migin <- igraph::degree(mig15_viz, mode = "in")
+migin_df <- tibble(
+  node = names(migin),
+  in_degree = as.numeric(migin)
+)
+
+migin_df |>
+  write.csv("migin_df.csv", row.names = FALSE)
+
+migout <- igraph::degree(mig15_viz, mode = "out")
+migout_df <- tibble(
+  node = names(migout),
+  in_degree = as.numeric(migout)
+)
+
+migout_df |>
+  write.csv("migout_df.csv", row.names = FALSE)
+
+
+### TRY TO DRAW A HEAT MAP FOR THE MIGRATION ###
+
+
+state_yr5_viz |>
+  ggplot(mapping = aes(x = to, 
+                       y = from)) +
+  geom_tile(aes(fill = weight)) +
+  scale_fill_viridis(
+    option = "magma",
+    limits = c(0,90),
+    na.value = "gray80" 
+  ) +
+  theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust = 1)) +
+  labs(title = "Migration Heatmap",
+       caption = "Data: 2015 ASEC, IPUMS\n *States Combinations with no immigrants were left blank",
+       x = "To (current)",
+       y = "From (5 years ago)",
+       fill = "Expected - Observed")
+
+
+### Write out some dataframe (to keep track of data)
+state_sr2_y5 |>
+  write.csv("state_sr2_y5.csv", row.names = FALSE)
+
+### Generate a 51*51 Matrix
+
+state_sr2_y5_sh <- state_sr2_y5|>
+  select(mig_5yago, mig_current, n)
+
+flow_matrix <- state_sr2_y5_sh |>
+  filter(!is.na(n)) %>%
+  pivot_wider(names_from = mig_current, values_from = n, values_fill = 0) %>%
+  group_by(mig_5yago) %>%
+  summarise(across(where(is.numeric), sum, na.rm = TRUE)) %>%
+  column_to_rownames("mig_5yago") %>%
+  as.matrix()
+
+sorted_states <- sort(rownames(flow_matrix))
+flow_matrix <- flow_matrix[sorted_states, sorted_states]
+
+### Chi-square test on the matrix
+
+chisq_result <- chisq.test(flow_matrix, correct = FALSE)
+
+chisq_texp <- chisq_result$expected
+chisq_tobv <- chisq_result$observed
+
+exp_df <- as.data.frame(as.table(chisq_texp))
+obs_df <- as.data.frame(as.table(chisq_tobv))
+
+names(exp_df) <- c("from", "to", "expected")
+names(obs_df) <- c("from", "to", "observed")
+
+chisq_results_df <- left_join(obs_df, exp_df, by = c("from", "to"))
+
+chisq_expmore <- chisq_results_df |>
+  filter(from != to) |>
+  filter(expected > observed)
+chisq_expmore2 <- chisq_expmore |>
+  filter(observed != 0)
+
+chisq_obvmore <- chisq_results_df |>
+  filter(from != to) |>
+  filter(expected < observed)
+
+### Use the FULL CHI-SQ TEST RESULT for visualiztion
+chisq_viz <- chisq_results_df |>
+  mutate(diff = expected - observed,
+         fill_color = if_else(observed == 0, "gray90", as.character(diff)))
+
+chisq_viz |>
+  arrange(desc(diff))
+
+chisq_viz$fill_color <- ifelse(chisq_viz$observed == 0, 
+                                       NA, chisq_viz$diff)
+chisq_viz |>
+  ggplot(mapping = aes(x = to, 
+                       y = from)) +
+  geom_tile(aes(fill = fill_color)) +
+  scale_fill_gradient2(
+    low = "royalblue", mid = "white", high = "orangered",
+    midpoint = 0,
+    limits = c(-20,20),
+    na.value = "gray80" 
+  ) +
+  theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust = 1)) +
+  labs(title = "Comparison between Expected and Actual Migration Flow",
+       caption = "Data: 2015 ASEC\n * Grey indicates no observation of immigration between x and y state",
+       x = "To (current)",
+       y = "From (5 years ago)",
+       fill = "Expected - Observed")
+
+
+### A clustering Test
+
+### Create a undirected network for the immigration
+# mig15_viz_ur <- graph_from_data_frame(state_yr5_viz, directed = FALSE)
+
+mig15_viz_ur <- as_undirected(mig15_viz, mode = "collapse")
+fgc_mig1015 <- cluster_fast_greedy(mig15_viz_ur)
+
+plot(as.dendrogram(fgc_mig1015))
+
+plot(fgc_mig1015$modularity)
+
+membership(fgc_mig1015)
+
+V(mig15_viz_ur)$color = membership(fgc_mig1015)
+plot(mig15_viz_ur)
+network::mixingmatrix(intergraph::asNetwork(KarateNetwork),"color")
+
+### List the name of clusters
+
+membership_vec <- membership(fgc_mig1015)
+
+mig15_cluster <- data.frame(
+  state = names(membership_vec),
+  cluster_n = as.factor(membership_vec)
+)
+
+### List the name of states within each cluster
+
+clustering_list <- mig15_cluster|>
+  group_by(cluster_n) |>
+  summarise(states = paste(state, collapse = ", "))
+
+clustering_list |>
+  write.csv("clustering_list.csv", row.names = FALSE)
+
+print(clustering_list)
+
+### Vizualize a Chord Diagram
+
+state_cluster <- data.frame(
+  state = names(membership_vec),
+  cluster = as.factor(membership_vec)
+)
+
+mig15_cluster <- state_yr5_viz |>
+  left_join(state_cluster, by = c("from" = "state")) |>
+  rename(from_comm = cluster) |>
+  left_join(state_cluster, by = c("to" = "state")) |>
+  rename(to_comm = cluster)
+
+cluster_flow <- mig15_cluster |>
+  group_by(from_comm, to_comm) |>
+  summarise(flow = sum(weight), .groups = "drop")
+
+flow_matrix <- xtabs(flow ~ from_comm + to_comm, data = cluster_flow)
+
+chordDiagram(flow_matrix)
+
+```
+
+# Predictive Model Data Preparation
+
+```{r}
+library(tidyverse)
+library(tidycensus)
+library(sf)
+library(stringr)
+library(lubridate)
+library(tigris)
+library(here)
+library(censusapi)
+library(httr)
+library(jsonlite)
+library(testthat)
+
+library(igraph)
+
+library(haven)
+yr5_movestate <- read_dta("5y_movestate.dta")
+
+mig_count5 <- yr5_movestate |>
+  mutate(state_comb = migsta5*100 + statefip) |>
+  group_by(state_comb) |>
+  summarize(n = n())
+
+mig_count5 |>
+  arrange(desc(n))
+
+yr5_movestate |>
+  select(year, statefip, migsta5) |>
+  count(migsta5) |>
+  arrange(desc(n))
+
+library(haven)
+state_cd <- read_dta("state_cent_d_v1.dta")
+
+## state_sr1: for the not existing state combination of migration, n = "na"
+state_sr1_y5 <- state_cd |>
+  left_join(mig_count5, by = "state_comb")
+state_sr2_y5 <- state_sr1_y5 |>
+  mutate(mig_5yago = state1_name) |>
+  mutate(mig_current = state2_name)
+
+state_sr3_y5 <- state_sr2_y5 |>
+  filter(is.na(n) == FALSE)
+state_sr3_y5 |>
+  write.csv("state_sr3_y5.csv", row.names = FALSE)
+
+library(tidyverse)
+library(igraph)
+library(ggraph)
+
+library(statnet)
+library(ergm)
+library(intergraph)
+library(stargazer)
+
+
+## Create a network data set ##
+state_yr5_viz <- data.frame(
+  from = c(state_sr3_y5$mig_5yago),
+  to = c(state_sr3_y5$mig_current),
+  weight = c(state_sr3_y5$n)
+)
+
+
+acs1_2010_sein <- read_csv("acs1_2010_sein.csv")
+acs1_2015_sein <- read_csv("acs1_2015_sein.csv")
+acs1_2010_seout <- read_csv("acs1_2010_seout.csv")
+acs1_2015_seout <- read_csv("acs1_2015_seout.csv")
+
+acs1_2010_sein <- acs1_2010_sein |>
+  mutate(state2_fips = statefip)
+
+in1 <- state_sr3_y5 |>
+  left_join(acs1_2010_sein, by = "state2_fips") |>
+  select(-state.x) |>
+  select(-state.y)
+
+acs1_2015_sein <- acs1_2015_sein |>
+  mutate(state2_fips = statefip)
+in2 <- in1 |>
+  left_join(acs1_2015_sein, by = "state2_fips") |>
+  select(-State.x) |>
+  select(-State.y) |>
+  select(-statefip.y)
+
+acs1_2010_seout <- acs1_2010_seout |>
+  mutate(state1_fips = statefip)
+
+in3 <- in2|>
+  left_join(acs1_2010_seout, by = "state1_fips") |>
+  select(-state.x) |>
+  select(-state.y) |>
+  select(-statefip.x)
+
+acs1_2015_seout <- acs1_2015_seout |>
+  mutate(state1_fips = statefip)
+in4 <- in3 |>
+  left_join(acs1_2015_seout, by = "state1_fips") |>
+  select(-State.x) |>
+  select(-State.y) |>
+  select(-statefip.y) |>
+  rename(statefip = statefip.x)
+
+mig_fulldemo <- in4
+mig_fulldemo |>
+  write.csv("mig_fulldemo.csv", row.names = FALSE)
+
+```
+
+# Random Forest
+
+```{r}
+library(tigris)
+library(sf)
+library(units)
+library(tidyverse)
+library(stringr)
+library(lubridate)
+library(here)
+library(tidycensus)
+library(censusapi)
+library(httr)
+library(jsonlite)
+library(testthat)
+library(readr)
+library(rsample)
+library(recipes)
+library(dials)
+library(parsnip)
+library(workflows)
+library(tidymodels)
+library(vip)
+library(ranger)
+install.packages("ranger")
+
+library(readr)
+mig_fulldemo <- read_csv("mig_fulldemo.csv")
+
+
+mig_predata_raw <- mig_fulldemo |>
+  select(-state1_name, -state2_name) |>
+  select(-state_comb) |>
+  rename(migcount = n) |>
+  select(migcount, everything()) 
+
+mig_predata <- mig_predata_raw |>
+  select(-state1_fips, -state2_fips)
+
+mig_predata2 <- mig_predata |>
+  select(-statefip) |>
+  select(-starts_with("in_median_hh_inc_")) |>
+  select(-starts_with("in_female_labor")) |>
+  select(-starts_with("out_median_hh_inc_")) |>
+  select(-starts_with("out_female_labor")) |>
+  select(-starts_with("out_tot_civilian_labor")) |>
+  select(-starts_with("in_tot_civilian_labor"))
+
+mig_predata3 <- mig_predata2 |>
+  select(-mig_5yago, -mig_current)
+
+set.seed(20250501)
+
+mig1015_split <- initial_split(data = mig_predata3)
+mig1015_training <- training(mig1015_split)
+mig1015_testing <- testing(mig1015_split)
+
+mig1015_folds <- vfold_cv(data = mig1015_training, v = 10)
+
+mig1015_recipe <-
+  recipe(formula = migcount ~ ., data = mig1015_training) |>
+  step_normalize(all_numeric_predictors()) |>
+  step_dummy(all_nominal_predictors())
+
+rf_mod <- rand_forest(
+  trees = 150,          
+  mtry = tune(),        
+  min_n = tune()        
+) |>
+  set_mode("regression") |>
+  set_engine("ranger", importance = "impurity", num.threads = 4)
+
+rf_wf <- workflow() |>
+  add_recipe(mig1015_recipe) |>
+  add_model(rf_mod)
+
+rf_grid <- grid_regular(
+  mtry(range = c(5, 20)),
+  min_n(range = c(2, 10)),
+  levels = 4
+)
+
+
+rf_tuned <- rf_wf |>
+  tune_grid(resamples = mig1015_folds,
+  grid = rf_grid,
+  metrics = metric_set(rmse)
+)
+
+best_rf_params <- rf_tuned |>
+  select_best(metric = "rmse")
+
+final_rf <- rf_wf |>
+  finalize_workflow(best_rf_params)
+final_fit <- final_rf |>
+  fit(data = mig1015_training)
+
+rf_coefs <- final_fit |>
+  extract_fit_parsnip()
+
+final_fit |>
+  extract_fit_parsnip() %>%
+  vip(num_features = 15)
+
+
+```
+
+# Poisson Regression
+
+```{r}
+library(tigris)
+library(sf)
+library(units)
+library(tidyverse)
+library(stringr)
+library(lubridate)
+library(here)
+library(tidycensus)
+library(censusapi)
+library(httr)
+library(jsonlite)
+library(testthat)
+library(readr)
+library(rsample)
+library(recipes)
+library(dials)
+library(parsnip)
+library(workflows)
+library(tidymodels)
+library(vip)
+library(ranger)
+library(glmnet)
+
+install.packages("glmnet")
+install.packages("ranger")
+
+library(poissonreg)
+install.packages("poissonreg")
+
+library(readr)
+mig_fulldemo <- read_csv("mig_fulldemo.csv")
+
+
+mig_predata_raw <- mig_fulldemo |>
+  select(-state1_name, -state2_name) |>
+  select(-state_comb) |>
+  rename(migcount = n) |>
+  select(migcount, everything()) 
+
+mig_predata <- mig_predata_raw |>
+  select(-state1_fips, -state2_fips)
+
+mig_predata2 <- mig_predata |>
+  select(-statefip) |>
+  select(-starts_with("in_median_hh_inc_")) |>
+  select(-starts_with("in_female_labor")) |>
+  select(-starts_with("out_median_hh_inc_")) |>
+  select(-starts_with("out_female_labor")) |>
+  select(-starts_with("out_tot_civilian_labor")) |>
+  select(-starts_with("in_tot_civilian_labor"))
+
+mig_predata3 <- mig_predata2 |>
+  select(-mig_5yago, -mig_current)
+
+### Passion+LASSO
+
+set.seed(20230501)
+
+mig1015_split <- initial_split(data = mig_predata3)
+mig1015_training <- training(mig1015_split)
+mig1015_testing <- testing(mig1015_split)
+
+mig1015_folds <- vfold_cv(data = mig1015_training, v = 10)
+
+mig1015_pasl_recipe <-
+  recipe(formula = migcount ~ ., data = mig1015_training) |>
+  step_normalize(all_numeric_predictors()) |>
+  step_dummy(all_nominal_predictors(), one_hot = TRUE)
+
+poissonl_mod <- poisson_reg(
+  penalty = tune(),  
+  mixture = 1        
+) |>
+  set_engine("glmnet") |>
+  set_mode("regression")
+
+poissonl_wf <- workflow() |>
+  add_recipe(mig1015_pasl_recipe) |>
+  add_model(poissonl_mod)
+
+lasso_grid <- grid_regular(penalty(), levels = 25)
+
+poissonl_cv <- poissonl_wf |>
+  tune_grid(
+  resamples = mig1015_folds,
+  grid = lasso_grid,
+  metrics = metric_set(rmse, rsq)
+)
+
+
+poissonl_best <- poissonl_cv |>
+  select_best(metric = "rmse")
+
+poissonl_final <- poissonl_wf |>
+  finalize_workflow(
+  parameters = poissonl_best
+)
+
+
+poissonl_final_fit <- poissonl_final |>
+  fit(data = mig1015_training) 
+
+poissonl_coef <- poissonl_final_fit|>
+  extract_fit_parsnip() 
+
+poissonl_final_fit|>
+  extract_fit_parsnip() |>
+  tidy() |>
+  filter(estimate != 0) |>
+  arrange(desc(estimate))
+
+poissonl_final_fit |>
+  extract_fit_parsnip() |>
+  vip(num_features = 15)
+
+
+```
